@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraudulent Users</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        header { margin-bottom: 30px; }
+        h1 { font-size: 2rem; color: #f1f5f9; margin-bottom: 10px; }
+        .subtitle { color: #94a3b8; }
+        nav { margin-bottom: 30px; }
+        .nav-link { color: #38bdf8; text-decoration: none; font-size: 0.9rem; }
+        .nav-link:hover { text-decoration: underline; }
+        .fraud-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+        .fraud-card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; transition: transform 0.2s, border-color 0.2s; }
+        .fraud-card:hover { transform: translateY(-2px); border-color: #dc2626; }
+        .fraud-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+        .user-id { font-family: monospace; font-size: 1rem; color: #e2e8f0; }
+        .risk-badge { padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+        .risk-low { background: #166534; color: #86efac; }
+        .risk-medium { background: #854d0e; color: #fde047; }
+        .risk-high { background: #991b1b; color: #fca5a5; }
+        .fraud-stats { display: flex; gap: 16px; flex-wrap: wrap; }
+        .fraud-stat { flex: 1; min-width: 80px; }
+        .fraud-stat-value { font-size: 1.4rem; font-weight: bold; color: #ef4444; }
+        .fraud-stat-label { color: #64748b; font-size: 0.75rem; margin-top: 2px; }
+        .fraud-amount { font-size: 1.1rem; color: #fca5a5; margin-top: 12px; }
+        .card-link { display: block; margin-top: 16px; padding: 10px; background: #334155; border-radius: 6px; text-align: center; color: #38bdf8; text-decoration: none; font-size: 0.9rem; transition: background 0.2s; }
+        .card-link:hover { background: #475569; }
+        .no-data { text-align: center; color: #64748b; padding: 40px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/" class="nav-link">← Back to Dashboard</a>
+            <span style="color: #64748b;">|</span>
+            <a href="/logout" class="nav-link">Logout</a>
+        </nav>
+
+        <header>
+            <h1>Users with Fraudulent Activity</h1>
+            <p class="subtitle">Showing users with confirmed fraudulent transactions</p>
+        </header>
+
+        {% if fraud_summary %}
+        <div class="fraud-grid">
+            {% for user in fraud_summary %}
+            <div class="fraud-card">
+                <div class="fraud-header">
+                    <span class="user-id">{{ user.user_id }}</span>
+                    <span class="risk-badge risk-{{ user.risk_profile }}">{{ user.risk_profile|upper }}</span>
+                </div>
+                <div class="fraud-stats">
+                    <div class="fraud-stat">
+                        <div class="fraud-stat-value">{{ user.total_tx }}</div>
+                        <div class="fraud-stat-label">Total Tx</div>
+                    </div>
+                    <div class="fraud-stat">
+                        <div class="fraud-stat-value">{{ user.fraud_count }}</div>
+                        <div class="fraud-stat-label">Fraud Tx</div>
+                    </div>
+                    <div class="fraud-stat">
+                        <div class="fraud-stat-value">{{ "%.1f"|format(user.fraud_count / user.total_tx * 100) }}%</div>
+                        <div class="fraud-stat-label">Fraud Rate</div>
+                    </div>
+                </div>
+                <div class="fraud-amount">Total Fraud Amount: ${{ "{:,.2f}".format(user.fraud_amount) }}</div>
+                <a href="/search?user_id={{ user.user_id }}" class="card-link">View Details →</a>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="no-data">
+            <p>No fraudulent users found in the dataset.</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+runtime: python
+env: flex
+
+instance_class: F2
+
+entrypoint: python -m src.visualization.app
+
+automatic_scaling:
+  min_instances: 0
+  max_instances: 10
+
+runtime_config:
+  python_version: "3.12"
+
+env_variables:
+  PYTHONUNBUFFERED: "1"

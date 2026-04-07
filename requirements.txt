@@ -1,0 +1,9 @@
+# Core dependencies
+flask>=3.0.0
+flask-login>=0.6.0
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0

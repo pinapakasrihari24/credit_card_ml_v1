@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(mv sample_credit_card_*.csv credit_card_ml/data/sample/)",
+      "Bash(mv credit_card_*.csv credit_card_ml/data/raw/)",
+      "Bash(curl -s http://127.0.0.1:5000)",
+      "Bash(curl -s http://127.0.0.1:5000/)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(curl -s http://127.0.0.1:5000/search?user_id=USER_00000000)",
+      "Bash(curl -s \"http://127.0.0.1:5000/api/user/USER_00000000\")",
+      "Bash(gcloud auth:*)",
+      "Bash(gcloud config set project:*)",
+      "Bash(gcloud services enable:*)",
+      "Bash(gcloud artifacts:*)",
+      "Bash(gcloud builds:*)",
+      "Bash(gcloud run:*)",
+      "Bash(gcloud app:*)",
+      "Bash(curl -s https://project-ffede623-abba-485f-8da.uc.r.appspot.com)",
+      "Bash(gcloud projects add-iam-policy-binding project-ffede623-abba-485f-8da:*)",
+      "Bash(gsutil ls:*)",
+      "Bash(gsutil iam:*)",
+      "Bash(gcloud projects describe project-ffede623-abba-485f-8da:*)",
+      "Bash(gcloud storage buckets describe:*)",
+      "Bash(gcloud iam:*)",
+      "Bash(gsutil uniformbucketlevelaccess:*)",
+      "Bash(gcloud beta run services logs read:*)",
+      "Bash(docker run:*)"
+    ]
+  }
+}

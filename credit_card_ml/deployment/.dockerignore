@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+*.md
+data/raw/*.csv
+deployment/terraform/*.tfstate
+deployment/terraform/.terraform
+.venv
+venv
+*.log
+.DS_Store

@@ -1,0 +1,2001 @@
+user_id,timestamp,amount,merchant_category,city,is_weekend,hour_of_day,day_of_month,is_foreign,is_fraudulent
+USER_00000000,2025-09-17 13:48:57.476677,183.55,Utilities,Houston,False,13,17,False,False
+USER_00000000,2026-02-27 09:28:57.476677,108.92,Groceries,San Jose,False,9,27,False,False
+USER_00000000,2025-07-08 14:09:57.476677,90.01,Healthcare,San Antonio,False,14,8,False,False
+USER_00000000,2025-08-19 06:34:57.476677,41.17,Entertainment,Houston,False,6,19,False,False
+USER_00000000,2026-01-11 03:04:57.476677,155.98,Groceries,Dallas,True,3,11,False,False
+USER_00000000,2025-12-02 10:45:57.476677,342.98,Online Shopping,Dallas,False,10,2,True,False
+USER_00000000,2025-06-11 05:47:57.476677,74.8,Groceries,Houston,False,5,11,False,False
+USER_00000000,2026-03-13 12:16:57.476677,117.88,Gas Stations,San Diego,False,12,13,False,False
+USER_00000000,2025-11-13 10:53:57.476677,50.99,Groceries,Philadelphia,False,10,13,False,False
+USER_00000000,2026-03-25 13:04:57.476677,137.99,Utilities,New York,False,13,25,False,False
+USER_00000000,2025-09-07 17:34:57.476677,414.5,Cash Advance,San Antonio,True,17,7,False,False
+USER_00000000,2026-03-13 09:58:57.476677,112.12,Groceries,New York,False,9,13,False,False
+USER_00000000,2026-01-29 09:07:57.476677,167.45,Groceries,Chicago,False,9,29,False,False
+USER_00000000,2026-01-30 04:36:57.476677,82.16,Entertainment,San Diego,False,4,30,False,False
+USER_00000000,2025-08-17 05:29:57.476677,21.1,Restaurants,Dallas,True,5,17,False,False
+USER_00000000,2025-12-19 05:43:57.476677,201.29,Utilities,Chicago,False,5,19,True,False
+USER_00000000,2025-11-12 12:32:57.476677,218.87,Online Shopping,New York,False,12,12,False,False
+USER_00000000,2025-12-17 08:15:57.476677,32.75,Restaurants,New York,False,8,17,False,False
+USER_00000000,2025-08-22 03:05:57.476677,389.95,Travel,San Antonio,False,3,22,False,False
+USER_00000000,2025-12-17 07:55:57.476677,63.69,Gas Stations,Phoenix,False,7,17,False,False
+USER_00000001,2026-03-04 02:07:57.476677,136.07,Utilities,New York,False,2,4,False,False
+USER_00000001,2025-12-17 00:31:57.476677,208.66,Utilities,Philadelphia,False,0,17,False,False
+USER_00000001,2025-07-17 11:04:57.476677,77.42,Groceries,Philadelphia,False,11,17,False,False
+USER_00000001,2025-08-14 11:41:57.476677,58.69,Groceries,Houston,False,11,14,False,False
+USER_00000001,2026-01-14 13:06:57.476677,89.81,Other,San Antonio,False,13,14,False,False
+USER_00000001,2026-02-24 15:38:57.476677,248.63,Utilities,San Antonio,False,15,24,False,False
+USER_00000001,2025-12-27 12:10:57.476677,62.84,Groceries,Dallas,True,12,27,False,False
+USER_00000001,2026-04-01 05:16:57.476677,446.65,Travel,New York,False,5,1,False,False
+USER_00000001,2025-10-09 17:56:57.476677,43.66,Gas Stations,Phoenix,False,17,9,False,False
+USER_00000001,2025-06-29 14:13:57.476677,25.43,Restaurants,San Jose,True,14,29,False,False
+USER_00000001,2025-05-22 09:49:57.476677,192.5,Travel,Chicago,False,9,22,False,False
+USER_00000001,2025-08-24 12:47:57.476677,58.88,Groceries,San Antonio,True,12,24,False,False
+USER_00000001,2025-05-27 11:58:57.476677,131.75,Utilities,Houston,False,11,27,False,False
+USER_00000001,2025-04-07 12:17:57.476677,79.43,Groceries,Houston,False,12,7,False,False
+USER_00000001,2025-08-21 10:59:57.476677,149.58,Online Shopping,New York,False,10,21,True,False
+USER_00000001,2025-06-22 12:05:57.476677,50.22,Groceries,New York,True,12,22,False,False
+USER_00000001,2025-11-08 13:00:57.476677,60.27,Gas Stations,San Jose,True,13,8,False,False
+USER_00000001,2025-07-04 06:17:57.476677,74.39,Online Shopping,Los Angeles,False,6,4,False,False
+USER_00000001,2025-09-21 04:54:57.476677,70.45,Groceries,Los Angeles,True,4,21,False,False
+USER_00000001,2026-01-27 14:58:57.476677,37.0,Gas Stations,New York,False,14,27,False,False
+USER_00000002,2025-12-16 20:28:57.476677,72.61,Gas Stations,San Diego,False,20,16,False,False
+USER_00000002,2026-04-03 05:06:57.476677,79.51,Groceries,Philadelphia,False,5,3,False,False
+USER_00000002,2025-04-22 13:37:57.476677,141.96,Healthcare,Philadelphia,False,13,22,False,False
+USER_00000002,2025-05-11 08:59:57.476677,25.6,Restaurants,San Jose,True,8,11,False,False
+USER_00000002,2025-05-24 16:12:57.476677,101.81,Online Shopping,San Jose,True,16,24,False,False
+USER_00000002,2025-04-22 03:57:57.476677,124.78,Gas Stations,Dallas,False,3,22,False,False
+USER_00000002,2026-01-02 22:32:57.476677,38.92,Gas Stations,Phoenix,False,22,2,False,False
+USER_00000002,2025-11-06 08:49:57.476677,95.32,Groceries,Houston,False,8,6,False,False
+USER_00000002,2025-05-31 09:55:57.476677,33.08,Restaurants,Other,True,9,31,False,False
+USER_00000002,2025-11-21 11:20:57.476677,62.64,Gas Stations,Philadelphia,False,11,21,False,False
+USER_00000002,2025-08-03 06:12:57.476677,98.78,Entertainment,San Diego,True,6,3,False,False
+USER_00000002,2025-08-07 06:45:57.476677,377.0,Travel,New York,False,6,7,False,False
+USER_00000002,2026-03-07 05:09:57.476677,71.3,Gas Stations,San Antonio,True,5,7,False,False
+USER_00000002,2026-02-26 11:32:57.476677,297.62,Groceries,San Diego,False,11,26,False,False
+USER_00000002,2025-08-21 07:57:57.476677,99.61,Groceries,Dallas,False,7,21,False,False
+USER_00000002,2026-03-02 11:35:57.476677,168.05,Groceries,Other,False,11,2,False,False
+USER_00000002,2025-08-27 14:02:57.476677,95.39,Groceries,San Diego,False,14,27,False,False
+USER_00000002,2026-04-01 09:29:57.476677,21.96,Restaurants,San Antonio,False,9,1,False,False
+USER_00000002,2025-05-20 12:27:57.476677,86.08,Groceries,Chicago,False,12,20,False,False
+USER_00000002,2025-08-30 04:44:57.476677,63.58,Groceries,Los Angeles,True,4,30,False,False
+USER_00000003,2026-01-22 12:53:57.476677,55.67,Groceries,Chicago,False,12,22,False,False
+USER_00000003,2026-04-03 07:24:57.476677,72.33,Groceries,Houston,False,7,3,True,False
+USER_00000003,2025-05-07 12:15:57.476677,69.42,Groceries,Houston,False,12,7,True,False
+USER_00000003,2025-11-24 07:32:57.476677,44.15,Groceries,Philadelphia,False,7,24,False,False
+USER_00000003,2025-12-10 12:03:57.476677,193.69,Gas Stations,San Antonio,False,12,10,False,False
+USER_00000003,2026-01-03 14:35:57.476677,74.89,Gas Stations,Houston,True,14,3,False,False
+USER_00000003,2026-02-04 07:51:57.476677,84.75,Groceries,San Jose,False,7,4,False,False
+USER_00000003,2025-09-25 10:01:57.476677,36.61,Restaurants,Philadelphia,False,10,25,False,False
+USER_00000003,2025-05-07 07:24:57.476677,63.85,Restaurants,Dallas,False,7,7,False,False
+USER_00000003,2025-09-16 11:16:57.476677,211.72,Groceries,Philadelphia,False,11,16,False,False
+USER_00000003,2026-03-12 15:14:57.476677,105.64,Groceries,Chicago,False,15,12,False,False
+USER_00000003,2025-10-16 04:38:57.476677,53.12,Gas Stations,New York,False,4,16,False,False
+USER_00000003,2025-06-11 07:22:57.476677,250.59,Online Shopping,Other,False,7,11,True,False
+USER_00000003,2025-11-25 11:54:57.476677,80.53,Groceries,San Jose,False,11,25,False,False
+USER_00000003,2025-05-16 09:15:57.476677,93.24,Groceries,San Jose,False,9,16,False,False
+USER_00000003,2025-12-10 04:27:57.476677,742.3,Travel,Phoenix,False,4,10,False,False
+USER_00000003,2025-05-18 10:29:57.476677,28.85,Restaurants,San Jose,True,10,18,False,False
+USER_00000003,2025-07-06 11:19:57.476677,26.56,Groceries,San Jose,True,11,6,False,False
+USER_00000003,2025-09-07 08:48:57.476677,362.02,Travel,Chicago,True,8,7,False,False
+USER_00000003,2025-08-25 10:24:57.476677,220.77,Healthcare,San Diego,False,10,25,False,False
+USER_00000004,2026-03-18 06:20:57.476677,71.04,Gas Stations,San Jose,False,6,18,False,False
+USER_00000004,2025-12-15 09:29:57.476677,97.84,Gas Stations,New York,False,9,15,False,False
+USER_00000004,2025-11-18 12:38:57.476677,61.5,Groceries,Other,False,12,18,False,False
+USER_00000004,2026-02-19 06:43:57.476677,165.33,Groceries,Los Angeles,False,6,19,False,False
+USER_00000004,2026-04-06 14:16:57.476677,131.63,Online Shopping,Chicago,False,14,6,False,False
+USER_00000004,2026-01-07 00:56:57.476677,101.46,Groceries,Chicago,False,0,7,False,False
+USER_00000004,2025-11-16 03:22:57.476677,78.56,Gas Stations,San Diego,True,3,16,False,False
+USER_00000004,2025-05-22 06:56:57.476677,90.21,Utilities,Phoenix,False,6,22,False,False
+USER_00000004,2026-02-28 08:07:57.476677,108.91,Utilities,San Diego,True,8,28,False,False
+USER_00000004,2025-06-18 07:45:57.476677,111.58,Groceries,Other,False,7,18,False,False
+USER_00000004,2025-11-19 11:16:57.476677,205.12,Online Shopping,Other,False,11,19,False,False
+USER_00000004,2025-04-16 07:39:57.476677,42.92,Gas Stations,Philadelphia,False,7,16,False,False
+USER_00000004,2025-05-09 13:00:57.476677,1240.21,Travel,Los Angeles,False,13,9,False,False
+USER_00000004,2025-07-22 06:42:57.476677,35.06,Restaurants,Other,False,6,22,False,False
+USER_00000004,2025-10-28 05:24:57.476677,89.85,Groceries,Houston,False,5,28,True,True
+USER_00000004,2025-10-11 11:12:57.476677,53.59,Groceries,Dallas,True,11,11,False,False
+USER_00000004,2026-03-28 11:41:57.476677,37.12,Restaurants,Houston,True,11,28,False,False
+USER_00000004,2025-07-20 13:30:57.476677,45.28,Restaurants,Phoenix,True,13,20,False,False
+USER_00000004,2025-11-20 03:50:57.476677,91.67,Healthcare,Phoenix,False,3,20,False,False
+USER_00000004,2025-10-17 11:33:57.476677,159.45,Online Shopping,San Jose,False,11,17,False,False
+USER_00000005,2026-03-25 09:47:57.476677,53.15,Restaurants,San Diego,False,9,25,False,False
+USER_00000005,2025-10-21 07:46:57.476677,36.29,Gas Stations,Philadelphia,False,7,21,False,False
+USER_00000005,2025-11-28 07:42:57.476677,200.75,Groceries,San Jose,False,7,28,False,False
+USER_00000005,2026-01-13 06:24:57.476677,137.91,Utilities,San Antonio,False,6,13,False,False
+USER_00000005,2025-05-21 11:06:57.476677,109.18,Utilities,Philadelphia,False,11,21,False,False
+USER_00000005,2025-05-23 13:48:57.476677,93.1,Cash Advance,Phoenix,False,13,23,False,False
+USER_00000005,2025-12-27 14:35:57.476677,828.46,Travel,Phoenix,True,14,27,True,False
+USER_00000005,2025-05-13 12:18:57.476677,75.86,Groceries,Chicago,False,12,13,True,False
+USER_00000005,2025-07-08 12:35:57.476677,59.02,Groceries,San Antonio,False,12,8,False,False
+USER_00000005,2025-07-16 10:51:57.476677,57.42,Online Shopping,San Jose,False,10,16,False,False
+USER_00000005,2026-02-28 04:20:57.476677,148.17,Utilities,Phoenix,True,4,28,False,False
+USER_00000005,2026-01-03 10:31:57.476677,246.71,Groceries,San Antonio,True,10,3,False,False
+USER_00000005,2026-01-02 10:36:57.476677,25.67,Groceries,Los Angeles,False,10,2,False,False
+USER_00000005,2025-06-06 09:48:57.476677,109.38,Healthcare,Dallas,False,9,6,False,False
+USER_00000005,2026-01-28 10:31:57.476677,183.81,Groceries,San Diego,False,10,28,False,False
+USER_00000005,2025-05-24 10:09:57.476677,65.36,Restaurants,Phoenix,True,10,24,False,False
+USER_00000005,2025-08-14 06:35:57.476677,90.21,Online Shopping,Los Angeles,False,6,14,False,False
+USER_00000005,2025-05-08 05:52:57.476677,83.04,Groceries,Philadelphia,False,5,8,False,False
+USER_00000005,2025-11-21 04:52:57.476677,94.53,Groceries,San Diego,False,4,21,False,False
+USER_00000005,2026-01-21 01:06:57.476677,69.5,Entertainment,San Antonio,False,1,21,False,False
+USER_00000006,2026-03-03 06:23:57.476677,292.87,Online Shopping,San Diego,False,6,3,False,False
+USER_00000006,2026-04-06 00:59:57.476677,65.18,Other,Houston,False,0,6,False,False
+USER_00000006,2025-06-15 12:31:57.476677,61.75,Restaurants,Chicago,True,12,15,False,False
+USER_00000006,2025-05-22 01:00:57.476677,82.13,Groceries,San Antonio,False,1,22,False,False
+USER_00000006,2026-02-06 11:05:57.476677,58.82,Entertainment,Los Angeles,False,11,6,False,False
+USER_00000006,2025-05-22 10:33:57.476677,27.54,Gas Stations,Phoenix,False,10,22,False,False
+USER_00000006,2025-04-23 09:29:57.476677,45.84,Groceries,San Antonio,False,9,23,False,False
+USER_00000006,2025-05-14 10:09:57.476677,132.42,Healthcare,New York,False,10,14,False,False
+USER_00000006,2025-07-14 08:33:57.476677,212.02,Groceries,Houston,False,8,14,False,False
+USER_00000006,2025-04-11 12:08:57.476677,41.95,Restaurants,Los Angeles,False,12,11,True,False
+USER_00000006,2025-08-21 06:08:57.476677,71.14,Groceries,Philadelphia,False,6,21,False,False
+USER_00000006,2025-07-11 12:17:57.476677,65.02,Restaurants,New York,False,12,11,False,False
+USER_00000006,2025-05-26 06:56:57.476677,16.94,Restaurants,San Antonio,False,6,26,False,False
+USER_00000006,2025-06-25 03:08:57.476677,39.14,Gas Stations,Chicago,False,3,25,False,False
+USER_00000006,2025-06-20 10:33:57.476677,47.26,Entertainment,New York,False,10,20,True,False
+USER_00000006,2025-09-06 05:47:57.476677,219.64,Utilities,San Diego,True,5,6,False,False
+USER_00000006,2025-10-24 06:28:57.476677,117.38,Groceries,San Antonio,False,6,24,False,False
+USER_00000006,2026-04-02 00:15:57.476677,94.94,Groceries,Los Angeles,False,0,2,False,False
+USER_00000006,2025-05-03 12:08:57.476677,95.69,Groceries,San Antonio,True,12,3,False,False
+USER_00000006,2026-01-19 06:20:57.476677,62.61,Groceries,Chicago,False,6,19,False,False
+USER_00000007,2026-02-04 15:36:57.476677,140.87,Online Shopping,Dallas,False,15,4,False,False
+USER_00000007,2025-11-26 11:10:57.476677,42.71,Entertainment,San Diego,False,11,26,False,False
+USER_00000007,2026-01-08 07:42:57.476677,210.13,Healthcare,Phoenix,False,7,8,False,False
+USER_00000007,2025-08-13 03:49:57.476677,58.39,Groceries,San Antonio,False,3,13,False,False
+USER_00000007,2026-02-24 13:59:57.476677,19.98,Restaurants,Chicago,False,13,24,True,False
+USER_00000007,2026-01-08 05:43:57.476677,50.95,Gas Stations,New York,False,5,8,False,False
+USER_00000007,2025-06-15 09:51:57.476677,28.82,Groceries,New York,True,9,15,False,False
+USER_00000007,2025-05-14 15:51:57.476677,250.81,Online Shopping,Other,False,15,14,False,False
+USER_00000007,2025-06-16 08:53:57.476677,81.93,Other,Los Angeles,False,8,16,True,False
+USER_00000007,2025-12-24 02:31:57.476677,41.42,Restaurants,San Diego,False,2,24,False,False
+USER_00000007,2026-03-24 13:34:57.476677,28.86,Entertainment,New York,False,13,24,False,False
+USER_00000007,2025-06-23 10:10:57.476677,35.23,Gas Stations,Other,False,10,23,False,False
+USER_00000007,2025-10-10 13:22:57.476677,76.54,Groceries,Phoenix,False,13,10,False,False
+USER_00000007,2025-12-03 10:49:57.476677,105.21,Online Shopping,Dallas,False,10,3,False,False
+USER_00000007,2025-04-19 04:08:57.476677,15.05,Restaurants,Dallas,True,4,19,False,False
+USER_00000007,2026-03-15 10:39:57.476677,38.83,Groceries,Los Angeles,True,10,15,False,False
+USER_00000007,2026-02-03 04:09:57.476677,104.16,Online Shopping,San Antonio,False,4,3,False,False
+USER_00000007,2025-11-15 04:26:57.476677,236.89,Travel,Other,True,4,15,False,False
+USER_00000007,2025-11-05 10:54:57.476677,69.48,Restaurants,New York,False,10,5,False,False
+USER_00000007,2025-11-13 11:49:57.476677,44.82,Restaurants,Chicago,False,11,13,False,False
+USER_00000008,2025-08-25 13:05:57.476677,120.45,Utilities,Philadelphia,False,13,25,False,False
+USER_00000008,2025-06-02 12:29:57.476677,269.13,Healthcare,Dallas,False,12,2,False,False
+USER_00000008,2025-12-24 08:16:57.476677,105.45,Entertainment,San Jose,False,8,24,False,False
+USER_00000008,2025-12-24 09:54:57.476677,86.66,Groceries,Los Angeles,False,9,24,False,False
+USER_00000008,2026-02-27 11:28:57.476677,176.47,Utilities,San Antonio,False,11,27,False,False
+USER_00000008,2025-09-21 15:52:57.476677,64.6,Groceries,Houston,True,15,21,False,False
+USER_00000008,2025-11-24 08:58:57.476677,91.61,Online Shopping,Los Angeles,False,8,24,False,False
+USER_00000008,2026-01-30 10:45:57.476677,38.44,Groceries,Chicago,False,10,30,False,False
+USER_00000008,2025-10-10 10:09:57.476677,257.66,Online Shopping,Philadelphia,False,10,10,False,False
+USER_00000008,2026-02-24 08:15:57.476677,26.98,Restaurants,San Jose,False,8,24,False,False
+USER_00000008,2026-03-23 19:56:57.476677,50.71,Gas Stations,Dallas,False,19,23,False,False
+USER_00000008,2025-12-17 15:29:57.476677,22.2,Restaurants,San Diego,False,15,17,True,False
+USER_00000008,2025-11-01 00:21:57.476677,65.88,Groceries,San Jose,True,0,1,False,False
+USER_00000008,2025-06-22 12:06:57.476677,499.14,Online Shopping,Other,True,12,22,True,False
+USER_00000008,2025-08-19 19:46:57.476677,313.01,Travel,Dallas,False,19,19,False,False
+USER_00000008,2025-11-01 15:09:57.476677,371.39,Utilities,Houston,True,15,1,False,False
+USER_00000008,2026-02-27 23:58:57.476677,73.96,Groceries,Houston,False,23,27,False,False
+USER_00000008,2025-12-31 11:27:57.476677,91.32,Entertainment,Dallas,False,11,31,False,False
+USER_00000008,2025-06-22 04:53:57.476677,223.58,Online Shopping,San Diego,True,4,22,False,False
+USER_00000008,2025-07-27 08:54:57.476677,40.1,Restaurants,Los Angeles,True,8,27,False,False
+USER_00000009,2025-09-23 11:03:57.476677,62.91,Groceries,San Diego,False,11,23,False,False
+USER_00000009,2026-01-11 06:02:57.476677,109.34,Online Shopping,New York,True,6,11,False,False
+USER_00000009,2025-05-20 18:30:57.476677,166.79,Utilities,Dallas,False,18,20,False,False
+USER_00000009,2026-03-28 15:01:57.476677,304.81,Online Shopping,Dallas,True,15,28,False,False
+USER_00000009,2026-04-02 10:48:57.476677,23.81,Gas Stations,San Diego,False,10,2,False,False
+USER_00000009,2025-12-05 14:46:57.476677,20.63,Gas Stations,Other,False,14,5,False,False
+USER_00000009,2025-05-12 12:07:57.476677,31.99,Groceries,Phoenix,False,12,12,False,False
+USER_00000009,2025-04-19 05:33:57.476677,41.57,Entertainment,Phoenix,True,5,19,False,False
+USER_00000009,2025-12-10 08:25:57.476677,92.24,Entertainment,Chicago,False,8,10,False,False
+USER_00000009,2025-06-17 03:34:57.476677,109.75,Groceries,Phoenix,False,3,17,False,False
+USER_00000009,2025-10-30 08:40:57.476677,332.12,Travel,Houston,False,8,30,False,False
+USER_00000009,2025-06-08 06:06:57.476677,34.5,Restaurants,New York,True,6,8,False,False
+USER_00000009,2025-08-22 10:07:57.476677,31.47,Other,Dallas,False,10,22,True,False
+USER_00000009,2025-04-07 11:25:57.476677,20.98,Restaurants,San Jose,False,11,7,True,False
+USER_00000009,2025-09-03 03:28:57.476677,100.23,Groceries,Houston,False,3,3,False,False
+USER_00000009,2025-10-05 12:21:57.476677,59.1,Restaurants,Chicago,True,12,5,False,False
+USER_00000009,2026-03-23 08:19:57.476677,39.39,Gas Stations,Philadelphia,False,8,23,False,False
+USER_00000009,2025-11-01 06:02:57.476677,169.86,Groceries,New York,True,6,1,False,False
+USER_00000009,2025-11-22 05:44:57.476677,194.47,Online Shopping,Phoenix,True,5,22,False,False
+USER_00000009,2025-07-20 13:49:57.476677,265.96,Online Shopping,San Antonio,True,13,20,False,False
+USER_00000010,2025-11-01 04:53:57.476677,55.92,Entertainment,Los Angeles,True,4,1,True,False
+USER_00000010,2026-02-19 13:17:57.476677,160.43,Groceries,San Jose,False,13,19,False,False
+USER_00000010,2025-05-18 06:06:57.476677,148.68,Gas Stations,Dallas,True,6,18,False,False
+USER_00000010,2025-05-10 06:44:57.476677,61.02,Groceries,Philadelphia,True,6,10,False,False
+USER_00000010,2025-10-16 05:58:57.476677,60.18,Entertainment,Los Angeles,False,5,16,False,False
+USER_00000010,2025-11-28 14:18:57.476677,46.69,Groceries,San Diego,False,14,28,True,False
+USER_00000010,2026-01-02 07:18:57.476677,101.58,Utilities,San Diego,False,7,2,False,False
+USER_00000010,2025-12-13 05:03:57.476677,36.9,Entertainment,New York,True,5,13,False,False
+USER_00000010,2025-08-07 09:07:57.476677,33.32,Gas Stations,New York,False,9,7,False,False
+USER_00000010,2025-06-19 12:32:57.476677,57.36,Gas Stations,New York,False,12,19,False,False
+USER_00000010,2025-06-29 05:42:57.476677,51.05,Groceries,Houston,True,5,29,False,False
+USER_00000010,2025-06-12 08:46:57.476677,39.54,Restaurants,Houston,False,8,12,False,False
+USER_00000010,2025-06-28 15:43:57.476677,513.72,Travel,San Diego,True,15,28,False,False
+USER_00000010,2026-01-28 13:14:57.476677,142.29,Utilities,New York,False,13,28,True,False
+USER_00000010,2025-11-10 12:18:57.476677,72.69,Groceries,San Jose,False,12,10,False,False
+USER_00000010,2026-03-27 02:41:57.476677,92.16,Online Shopping,Chicago,False,2,27,False,False
+USER_00000010,2025-07-27 03:26:57.476677,55.65,Entertainment,Other,True,3,27,False,False
+USER_00000010,2025-05-12 04:21:57.476677,80.08,Online Shopping,New York,False,4,12,True,False
+USER_00000010,2025-04-12 09:14:57.476677,78.22,Groceries,Dallas,True,9,12,False,False
+USER_00000010,2026-02-28 05:40:57.476677,55.55,Groceries,San Jose,True,5,28,False,False
+USER_00000011,2025-11-24 13:47:57.476677,19.54,Restaurants,Dallas,False,13,24,False,False
+USER_00000011,2025-09-19 09:01:57.476677,605.44,Travel,San Antonio,False,9,19,False,False
+USER_00000011,2026-03-15 08:01:57.476677,68.42,Gas Stations,San Diego,True,8,15,False,False
+USER_00000011,2025-06-08 14:01:57.476677,87.17,Gas Stations,New York,True,14,8,False,False
+USER_00000011,2025-04-26 08:49:57.476677,107.85,Utilities,Phoenix,True,8,26,False,False
+USER_00000011,2025-06-09 02:28:57.476677,94.35,Online Shopping,Los Angeles,False,2,9,False,False
+USER_00000011,2025-04-09 06:54:57.476677,201.99,Utilities,New York,False,6,9,False,False
+USER_00000011,2025-09-01 05:45:57.476677,38.9,Gas Stations,Chicago,False,5,1,False,False
+USER_00000011,2025-11-17 18:24:57.476677,99.78,Groceries,San Antonio,False,18,17,False,False
+USER_00000011,2025-12-24 02:37:57.476677,230.89,Utilities,New York,False,2,24,False,False
+USER_00000011,2025-09-09 09:50:57.476677,63.54,Gas Stations,Other,False,9,9,False,False
+USER_00000011,2025-12-17 13:05:57.476677,155.61,Groceries,Los Angeles,False,13,17,False,False
+USER_00000011,2025-12-24 10:16:57.476677,48.3,Restaurants,Los Angeles,False,10,24,True,False
+USER_00000011,2025-05-26 15:22:57.476677,81.0,Groceries,Houston,False,15,26,False,False
+USER_00000011,2025-10-18 04:50:57.476677,45.39,Gas Stations,Chicago,True,4,18,True,False
+USER_00000011,2025-04-16 11:22:57.476677,422.98,Travel,Chicago,False,11,16,False,False
+USER_00000011,2025-05-18 11:59:57.476677,105.73,Utilities,San Jose,True,11,18,False,False
+USER_00000011,2025-11-25 10:19:57.476677,74.45,Utilities,Phoenix,False,10,25,False,False
+USER_00000011,2025-06-18 05:19:57.476677,94.57,Groceries,Chicago,False,5,18,False,False
+USER_00000011,2025-05-14 09:05:57.476677,64.53,Restaurants,Other,False,9,14,False,False
+USER_00000012,2025-12-01 14:56:57.476677,63.59,Groceries,San Antonio,False,14,1,False,False
+USER_00000012,2025-12-22 07:40:57.477837,995.05,Travel,Phoenix,False,7,22,False,False
+USER_00000012,2026-01-05 12:24:57.477837,32.04,Restaurants,Houston,False,12,5,False,False
+USER_00000012,2025-06-24 17:51:57.477837,45.18,Online Shopping,Chicago,False,17,24,False,False
+USER_00000012,2026-02-15 03:50:57.477837,102.87,Entertainment,Houston,True,3,15,False,False
+USER_00000012,2026-03-09 07:55:57.477837,27.54,Restaurants,Los Angeles,False,7,9,False,False
+USER_00000012,2025-06-15 09:41:57.477837,57.96,Restaurants,New York,True,9,15,False,False
+USER_00000012,2025-06-14 10:42:57.477837,105.59,Cash Advance,Chicago,True,10,14,False,False
+USER_00000012,2025-09-05 03:28:57.477837,245.76,Cash Advance,Other,False,3,5,False,False
+USER_00000012,2025-07-14 20:47:57.477837,23.46,Restaurants,Los Angeles,False,20,14,False,False
+USER_00000012,2025-07-24 07:23:57.477837,55.3,Gas Stations,New York,False,7,24,True,False
+USER_00000012,2025-06-09 14:17:57.477837,293.42,Cash Advance,New York,False,14,9,False,False
+USER_00000012,2025-12-27 10:07:57.477837,97.97,Groceries,Los Angeles,True,10,27,False,False
+USER_00000012,2025-04-26 07:49:57.477837,36.24,Restaurants,Dallas,True,7,26,False,False
+USER_00000012,2025-12-18 19:00:57.477837,37.65,Groceries,Phoenix,False,19,18,False,False
+USER_00000012,2025-10-07 07:33:57.477837,72.04,Gas Stations,Dallas,False,7,7,False,False
+USER_00000012,2025-05-29 07:41:57.477837,125.61,Groceries,San Diego,False,7,29,True,False
+USER_00000012,2026-04-06 03:59:57.477837,20.78,Restaurants,Other,False,3,6,False,False
+USER_00000012,2025-05-23 04:27:57.477837,47.92,Groceries,Philadelphia,False,4,23,False,False
+USER_00000012,2026-02-11 08:34:57.477837,85.52,Gas Stations,New York,False,8,11,True,False
+USER_00000013,2025-11-09 03:10:57.477837,49.56,Other,San Jose,True,3,9,False,False
+USER_00000013,2025-06-02 00:27:57.477837,97.08,Healthcare,Phoenix,False,0,2,False,False
+USER_00000013,2025-11-21 09:05:57.477837,515.7,Travel,New York,False,9,21,False,False
+USER_00000013,2025-09-17 07:29:57.477837,87.2,Online Shopping,San Antonio,False,7,17,False,False
+USER_00000013,2025-05-29 17:10:57.477837,81.29,Groceries,San Jose,False,17,29,False,False
+USER_00000013,2025-12-11 14:34:57.477837,61.0,Groceries,Other,False,14,11,False,False
+USER_00000013,2025-11-04 12:46:57.477837,152.81,Utilities,San Diego,False,12,4,False,False
+USER_00000013,2025-06-20 10:40:57.477837,60.98,Restaurants,San Diego,False,10,20,False,False
+USER_00000013,2026-02-03 13:44:57.477837,21.83,Groceries,San Antonio,False,13,3,False,False
+USER_00000013,2025-08-06 09:41:57.477837,214.45,Entertainment,Los Angeles,False,9,6,False,True
+USER_00000013,2026-03-13 11:06:57.477837,56.15,Restaurants,Phoenix,False,11,13,False,False
+USER_00000013,2026-01-07 05:08:57.477837,25.65,Restaurants,Houston,False,5,7,False,False
+USER_00000013,2026-01-22 11:05:57.477837,87.9,Other,Phoenix,False,11,22,False,False
+USER_00000013,2025-06-17 19:00:57.477837,278.59,Travel,San Jose,False,19,17,False,False
+USER_00000013,2025-09-09 08:29:57.477837,25.16,Restaurants,Dallas,False,8,9,True,False
+USER_00000013,2025-04-25 09:32:57.477837,37.33,Other,Houston,False,9,25,False,False
+USER_00000013,2026-03-21 12:53:57.477837,193.09,Online Shopping,San Diego,True,12,21,False,False
+USER_00000013,2025-11-30 08:25:57.477837,27.16,Entertainment,San Diego,True,8,30,False,False
+USER_00000013,2025-04-08 13:49:57.477837,170.3,Groceries,Los Angeles,False,13,8,False,False
+USER_00000013,2025-07-30 07:25:57.477837,64.39,Groceries,Philadelphia,False,7,30,False,False
+USER_00000014,2025-10-10 23:19:57.477837,163.2,Online Shopping,Phoenix,False,23,10,False,False
+USER_00000014,2025-10-07 17:20:57.477837,234.47,Utilities,Los Angeles,False,17,7,False,False
+USER_00000014,2025-11-06 12:16:57.477837,129.43,Online Shopping,San Jose,False,12,6,True,False
+USER_00000014,2026-03-13 11:27:57.477837,55.54,Groceries,Houston,False,11,13,False,False
+USER_00000014,2025-10-09 11:05:57.477837,139.59,Groceries,San Antonio,False,11,9,True,False
+USER_00000014,2025-09-21 04:41:57.477837,347.87,Travel,New York,True,4,21,False,False
+USER_00000014,2025-04-28 07:16:57.477837,52.03,Groceries,Dallas,False,7,28,False,False
+USER_00000014,2025-10-28 05:43:57.477837,77.55,Gas Stations,San Jose,False,5,28,False,False
+USER_00000014,2025-10-12 09:17:57.477837,80.67,Groceries,New York,True,9,12,False,False
+USER_00000014,2025-06-26 15:01:57.477837,147.88,Groceries,Phoenix,False,15,26,False,False
+USER_00000014,2026-02-03 13:25:57.477837,116.3,Online Shopping,San Antonio,False,13,3,False,False
+USER_00000014,2025-11-08 07:22:57.477837,86.67,Online Shopping,San Diego,True,7,8,False,False
+USER_00000014,2025-11-04 09:19:57.477837,40.15,Restaurants,Los Angeles,False,9,4,False,False
+USER_00000014,2025-11-02 03:37:57.477837,59.96,Groceries,Houston,True,3,2,False,False
+USER_00000014,2026-02-17 07:34:57.477837,109.91,Healthcare,Los Angeles,False,7,17,False,False
+USER_00000014,2025-05-05 13:31:57.477837,113.69,Groceries,Houston,False,13,5,True,False
+USER_00000014,2026-01-13 11:33:57.477837,124.94,Gas Stations,Philadelphia,False,11,13,False,False
+USER_00000014,2025-04-11 06:40:57.477837,176.81,Cash Advance,Philadelphia,False,6,11,False,False
+USER_00000014,2025-10-12 06:54:57.477837,46.07,Groceries,Los Angeles,True,6,12,True,False
+USER_00000014,2025-11-10 06:02:57.477837,166.71,Utilities,Other,False,6,10,False,False
+USER_00000015,2025-12-10 13:57:57.477837,97.02,Groceries,Houston,False,13,10,True,False
+USER_00000015,2025-04-30 14:09:57.477837,136.49,Online Shopping,Houston,False,14,30,False,False
+USER_00000015,2026-02-03 10:14:57.477837,63.59,Restaurants,New York,False,10,3,False,False
+USER_00000015,2025-09-30 03:24:57.477837,278.9,Cash Advance,Los Angeles,False,3,30,False,False
+USER_00000015,2025-04-12 11:36:57.477837,20.16,Restaurants,Chicago,True,11,12,False,False
+USER_00000015,2026-02-17 08:11:57.477837,27.35,Restaurants,Other,False,8,17,False,False
+USER_00000015,2025-05-15 07:41:57.477837,27.58,Other,Phoenix,False,7,15,False,False
+USER_00000015,2025-07-24 05:32:57.477837,88.62,Gas Stations,Other,False,5,24,False,False
+USER_00000015,2025-08-26 02:27:57.477837,18.47,Gas Stations,San Diego,False,2,26,False,False
+USER_00000015,2025-11-17 02:32:57.477837,18.42,Restaurants,Philadelphia,False,2,17,True,False
+USER_00000015,2025-09-04 12:17:57.477837,50.32,Entertainment,Chicago,False,12,4,True,False
+USER_00000015,2025-09-08 18:03:57.477837,99.43,Groceries,Philadelphia,False,18,8,False,False
+USER_00000015,2025-05-24 11:59:57.477837,57.78,Groceries,San Antonio,True,11,24,False,False
+USER_00000015,2026-03-06 08:56:57.477837,99.97,Online Shopping,Philadelphia,False,8,6,False,False
+USER_00000015,2025-10-31 10:45:57.477837,29.45,Restaurants,San Jose,False,10,31,False,False
+USER_00000015,2025-06-26 02:15:57.477837,196.24,Utilities,Philadelphia,False,2,26,False,False
+USER_00000015,2025-06-06 09:22:57.477837,97.78,Utilities,New York,False,9,6,False,False
+USER_00000015,2025-06-25 06:29:57.477837,40.48,Entertainment,Chicago,False,6,25,False,False
+USER_00000015,2025-11-14 08:34:57.477837,347.62,Healthcare,San Antonio,False,8,14,False,False
+USER_00000015,2026-03-19 10:34:57.477837,146.74,Online Shopping,Houston,False,10,19,False,False
+USER_00000016,2026-03-20 16:59:57.477837,109.71,Groceries,Houston,False,16,20,False,False
+USER_00000016,2025-07-24 09:36:57.477837,66.91,Entertainment,San Antonio,False,9,24,False,False
+USER_00000016,2026-01-19 20:16:57.477837,69.92,Groceries,Dallas,False,20,19,False,False
+USER_00000016,2025-10-14 14:04:57.477837,43.99,Restaurants,Other,False,14,14,False,False
+USER_00000016,2025-09-25 17:01:57.477837,215.82,Healthcare,Los Angeles,False,17,25,False,False
+USER_00000016,2025-12-15 01:26:57.477837,76.33,Gas Stations,Dallas,False,1,15,False,False
+USER_00000016,2025-12-14 06:28:57.477837,422.41,Travel,Chicago,True,6,14,False,False
+USER_00000016,2025-08-28 08:23:57.477837,120.93,Groceries,Philadelphia,False,8,28,False,False
+USER_00000016,2025-10-23 03:48:57.477837,34.97,Online Shopping,Houston,False,3,23,False,False
+USER_00000016,2025-05-23 12:53:57.477837,117.17,Groceries,New York,False,12,23,False,False
+USER_00000016,2025-11-26 09:54:57.477837,96.93,Online Shopping,Dallas,False,9,26,False,False
+USER_00000016,2025-07-17 06:01:57.477837,85.72,Entertainment,Other,False,6,17,False,False
+USER_00000016,2026-02-11 01:12:57.477837,86.73,Online Shopping,Philadelphia,False,1,11,False,False
+USER_00000016,2025-04-13 14:03:57.477837,18.03,Restaurants,San Diego,True,14,13,False,False
+USER_00000016,2025-11-27 03:54:57.477837,88.88,Groceries,Los Angeles,False,3,27,False,False
+USER_00000016,2025-06-23 07:32:57.477837,35.4,Groceries,San Antonio,False,7,23,False,False
+USER_00000016,2025-07-15 08:42:57.477837,98.26,Online Shopping,Philadelphia,False,8,15,True,False
+USER_00000016,2025-10-27 09:41:57.477837,119.91,Utilities,Los Angeles,False,9,27,False,False
+USER_00000016,2026-01-10 14:49:57.477837,68.72,Groceries,Los Angeles,True,14,10,False,False
+USER_00000016,2026-02-11 06:22:57.477837,96.83,Entertainment,Houston,False,6,11,False,False
+USER_00000017,2025-06-23 12:52:57.477837,352.24,Travel,Houston,False,12,23,False,False
+USER_00000017,2025-10-11 13:53:57.477837,58.52,Gas Stations,Chicago,True,13,11,False,False
+USER_00000017,2025-04-23 05:35:57.477837,173.67,Online Shopping,San Diego,False,5,23,False,False
+USER_00000017,2026-03-30 06:05:57.477837,110.72,Healthcare,San Antonio,False,6,30,True,False
+USER_00000017,2025-05-21 08:28:57.477837,26.02,Restaurants,Los Angeles,False,8,21,False,False
+USER_00000017,2025-05-29 04:25:57.477837,69.41,Restaurants,Chicago,False,4,29,False,False
+USER_00000017,2025-08-03 04:06:57.477837,72.08,Groceries,San Jose,True,4,3,False,False
+USER_00000017,2025-05-19 03:45:57.477837,257.98,Cash Advance,Dallas,False,3,19,False,False
+USER_00000017,2025-07-26 12:09:57.477837,231.31,Utilities,Phoenix,True,12,26,False,False
+USER_00000017,2025-05-14 05:00:57.477837,35.71,Entertainment,Los Angeles,False,5,14,False,False
+USER_00000017,2026-02-12 08:58:57.477837,51.27,Groceries,Chicago,False,8,12,False,False
+USER_00000017,2025-08-01 03:08:57.477837,60.32,Gas Stations,San Diego,False,3,1,False,False
+USER_00000017,2025-08-11 09:37:57.477837,26.68,Groceries,Houston,False,9,11,False,False
+USER_00000017,2025-08-21 10:27:57.477837,67.48,Groceries,Los Angeles,False,10,21,False,False
+USER_00000017,2026-01-30 12:01:57.477837,77.86,Online Shopping,Los Angeles,False,12,30,False,False
+USER_00000017,2026-02-15 09:20:57.477837,348.48,Cash Advance,Philadelphia,True,9,15,False,False
+USER_00000017,2025-12-31 07:27:57.477837,214.01,Utilities,San Diego,False,7,31,False,False
+USER_00000017,2026-01-05 07:28:57.477837,217.7,Online Shopping,San Antonio,False,7,5,False,False
+USER_00000017,2025-07-17 08:04:57.477837,73.55,Groceries,Houston,False,8,17,False,False
+USER_00000017,2025-06-20 06:26:57.477837,33.06,Restaurants,Los Angeles,False,6,20,True,False
+USER_00000018,2026-01-01 09:39:57.477837,30.05,Restaurants,Dallas,False,9,1,False,False
+USER_00000018,2026-01-09 12:49:57.477837,50.54,Entertainment,Houston,False,12,9,False,False
+USER_00000018,2026-01-19 12:48:57.477837,574.19,Healthcare,Dallas,False,12,19,False,False
+USER_00000018,2025-06-23 05:33:57.477837,52.4,Restaurants,Phoenix,False,5,23,False,False
+USER_00000018,2025-12-08 08:22:57.477837,20.54,Restaurants,Other,False,8,8,False,False
+USER_00000018,2025-06-09 16:31:57.477837,280.66,Groceries,Other,False,16,9,False,False
+USER_00000018,2025-10-24 05:02:57.477837,28.58,Restaurants,San Antonio,False,5,24,False,False
+USER_00000018,2025-10-07 01:54:57.477837,58.71,Gas Stations,Phoenix,False,1,7,False,False
+USER_00000018,2025-08-27 12:17:57.477837,299.94,Groceries,Los Angeles,False,12,27,False,True
+USER_00000018,2025-05-31 07:46:57.477837,23.17,Gas Stations,Philadelphia,True,7,31,False,False
+USER_00000018,2026-03-31 11:22:57.477837,297.55,Travel,San Antonio,False,11,31,False,False
+USER_00000018,2025-05-12 06:32:57.477837,273.57,Online Shopping,Other,False,6,12,False,False
+USER_00000018,2025-07-18 14:22:57.477837,67.03,Groceries,Philadelphia,False,14,18,False,False
+USER_00000018,2025-10-28 09:56:57.477837,123.57,Groceries,Chicago,False,9,28,False,False
+USER_00000018,2025-11-07 06:02:57.477837,39.86,Gas Stations,San Jose,False,6,7,False,False
+USER_00000018,2026-01-12 04:30:57.477837,33.38,Restaurants,San Diego,False,4,12,False,False
+USER_00000018,2025-11-11 08:07:57.477837,85.45,Restaurants,Chicago,False,8,11,False,False
+USER_00000018,2025-12-16 10:39:57.477837,62.23,Gas Stations,Phoenix,False,10,16,False,False
+USER_00000018,2026-03-02 15:24:57.477837,100.99,Online Shopping,Dallas,False,15,2,True,False
+USER_00000018,2025-06-26 12:29:57.477837,106.59,Healthcare,Other,False,12,26,False,False
+USER_00000019,2025-10-01 10:43:57.477837,26.03,Restaurants,Phoenix,False,10,1,False,False
+USER_00000019,2026-01-15 11:57:57.477837,279.06,Healthcare,San Antonio,False,11,15,False,False
+USER_00000019,2026-04-05 09:07:57.477837,51.32,Restaurants,Other,True,9,5,False,False
+USER_00000019,2025-06-08 10:55:57.477837,42.23,Groceries,San Antonio,True,10,8,False,False
+USER_00000019,2025-09-22 09:22:57.477837,125.35,Online Shopping,Phoenix,False,9,22,False,False
+USER_00000019,2026-03-27 04:47:57.477837,116.06,Online Shopping,Los Angeles,False,4,27,False,False
+USER_00000019,2025-08-16 11:13:57.477837,210.82,Utilities,Phoenix,True,11,16,False,False
+USER_00000019,2025-09-24 14:40:57.477837,48.07,Entertainment,San Antonio,False,14,24,False,False
+USER_00000019,2025-12-09 12:06:57.477837,311.64,Utilities,San Antonio,False,12,9,False,False
+USER_00000019,2026-03-18 06:26:57.477837,179.88,Utilities,Houston,False,6,18,False,False
+USER_00000019,2025-07-20 06:24:57.477837,144.63,Online Shopping,New York,True,6,20,False,False
+USER_00000019,2025-06-18 08:00:57.477837,33.77,Gas Stations,Philadelphia,False,8,18,False,False
+USER_00000019,2025-07-25 04:16:57.477837,83.12,Online Shopping,Chicago,False,4,25,False,False
+USER_00000019,2025-08-28 09:39:57.477837,755.27,Cash Advance,Other,False,9,28,False,False
+USER_00000019,2025-08-24 00:30:57.477837,399.7,Entertainment,Phoenix,True,0,24,True,False
+USER_00000019,2026-02-13 06:16:57.477837,72.43,Groceries,Houston,False,6,13,False,False
+USER_00000019,2025-04-17 19:39:57.477837,139.89,Entertainment,Los Angeles,False,19,17,False,False
+USER_00000019,2025-04-30 02:08:57.477837,137.53,Groceries,San Antonio,False,2,30,False,False
+USER_00000019,2025-04-08 12:49:57.477837,36.58,Gas Stations,Phoenix,False,12,8,False,False
+USER_00000019,2025-07-01 13:37:57.477837,52.2,Groceries,San Antonio,False,13,1,False,False
+USER_00000020,2026-01-16 06:38:57.477837,167.64,Online Shopping,Dallas,False,6,16,False,False
+USER_00000020,2025-09-17 16:19:57.477837,512.49,Travel,Houston,False,16,17,False,False
+USER_00000020,2025-10-31 12:09:57.477837,28.63,Restaurants,Phoenix,False,12,31,False,False
+USER_00000020,2025-12-08 03:09:57.477837,107.57,Groceries,Dallas,False,3,8,False,False
+USER_00000020,2026-02-07 07:07:57.477837,17.02,Restaurants,San Jose,True,7,7,False,False
+USER_00000020,2025-09-04 06:16:57.477837,127.1,Online Shopping,Other,False,6,4,False,False
+USER_00000020,2025-11-30 11:51:57.477837,18.84,Restaurants,Houston,True,11,30,False,False
+USER_00000020,2025-08-26 16:04:57.477837,19.15,Restaurants,Phoenix,False,16,26,False,False
+USER_00000020,2025-09-10 07:21:57.477837,52.67,Groceries,Phoenix,False,7,10,False,False
+USER_00000020,2025-12-13 06:13:57.477837,59.96,Gas Stations,San Diego,True,6,13,False,False
+USER_00000020,2025-09-10 05:33:57.477837,24.97,Restaurants,Houston,False,5,10,True,False
+USER_00000020,2026-03-24 09:06:57.477837,35.35,Entertainment,Houston,False,9,24,False,False
+USER_00000020,2026-03-29 12:46:57.477837,95.21,Groceries,San Antonio,True,12,29,False,False
+USER_00000020,2026-02-26 00:11:57.477837,253.12,Online Shopping,Other,False,0,26,False,False
+USER_00000020,2025-08-13 08:17:57.477837,103.23,Groceries,Phoenix,False,8,13,False,False
+USER_00000020,2025-06-30 10:01:57.477837,123.09,Gas Stations,Philadelphia,False,10,30,False,False
+USER_00000020,2025-04-13 09:51:57.477837,70.81,Restaurants,Philadelphia,True,9,13,False,False
+USER_00000020,2025-09-18 08:42:57.477837,50.94,Entertainment,Philadelphia,False,8,18,False,False
+USER_00000020,2025-08-04 05:03:57.477837,246.91,Utilities,San Jose,False,5,4,False,False
+USER_00000020,2025-07-03 09:22:57.477837,171.94,Utilities,Phoenix,False,9,3,True,False
+USER_00000021,2025-08-15 05:29:57.477837,204.09,Online Shopping,Phoenix,False,5,15,False,False
+USER_00000021,2026-04-03 08:36:57.477837,47.76,Gas Stations,Dallas,False,8,3,True,False
+USER_00000021,2025-11-04 09:30:57.477837,101.12,Healthcare,San Diego,False,9,4,False,False
+USER_00000021,2026-03-09 06:25:57.477837,238.46,Online Shopping,Houston,False,6,9,False,False
+USER_00000021,2025-12-19 07:17:57.477837,87.92,Groceries,San Antonio,False,7,19,False,False
+USER_00000021,2025-12-30 10:04:57.477837,107.65,Healthcare,San Diego,False,10,30,False,False
+USER_00000021,2025-09-04 12:05:57.477837,27.28,Restaurants,Dallas,False,12,4,False,False
+USER_00000021,2025-06-18 08:17:57.477837,53.65,Groceries,Phoenix,False,8,18,False,False
+USER_00000021,2026-01-22 08:38:57.477837,21.21,Restaurants,Chicago,False,8,22,False,False
+USER_00000021,2025-05-16 11:50:57.477837,27.57,Restaurants,Houston,False,11,16,False,False
+USER_00000021,2025-11-12 13:00:57.477837,60.25,Gas Stations,San Jose,False,13,12,False,False
+USER_00000021,2025-11-30 08:00:57.477837,77.44,Groceries,Philadelphia,True,8,30,False,False
+USER_00000021,2025-05-01 06:57:57.477837,60.24,Groceries,San Jose,False,6,1,False,False
+USER_00000021,2026-02-24 11:10:57.477837,158.42,Groceries,Other,False,11,24,False,False
+USER_00000021,2025-04-16 12:16:57.477837,43.91,Online Shopping,Phoenix,False,12,16,False,False
+USER_00000021,2026-02-25 13:08:57.477837,75.75,Entertainment,Dallas,False,13,25,False,False
+USER_00000021,2026-03-04 07:39:57.477837,32.59,Restaurants,Other,False,7,4,False,False
+USER_00000021,2026-03-21 12:56:57.477837,46.17,Groceries,Other,True,12,21,False,False
+USER_00000021,2025-10-24 00:57:57.477837,89.99,Groceries,Chicago,False,0,24,False,False
+USER_00000021,2025-11-05 10:50:57.477837,161.27,Utilities,Los Angeles,False,10,5,False,False
+USER_00000022,2026-01-21 19:08:57.477837,93.28,Gas Stations,Philadelphia,False,19,21,False,False
+USER_00000022,2026-01-10 09:47:57.477837,77.17,Gas Stations,San Antonio,True,9,10,False,False
+USER_00000022,2025-12-11 09:38:57.477837,194.52,Groceries,Phoenix,False,9,11,False,False
+USER_00000022,2025-04-10 04:28:57.477837,51.05,Entertainment,New York,False,4,10,False,False
+USER_00000022,2025-04-30 07:56:57.477837,100.51,Gas Stations,Chicago,False,7,30,False,False
+USER_00000022,2026-03-11 12:26:57.477837,41.87,Groceries,Chicago,False,12,11,False,False
+USER_00000022,2025-05-29 11:18:57.477837,70.96,Groceries,Houston,False,11,29,False,False
+USER_00000022,2025-06-24 08:21:57.477837,27.74,Restaurants,San Jose,False,8,24,False,False
+USER_00000022,2025-11-24 17:28:57.477837,608.18,Travel,Philadelphia,False,17,24,False,False
+USER_00000022,2025-08-31 03:25:57.477837,600.87,Travel,Phoenix,True,3,31,False,False
+USER_00000022,2025-10-21 12:50:57.477837,76.49,Online Shopping,New York,False,12,21,False,False
+USER_00000022,2025-12-30 04:07:57.477837,90.33,Entertainment,Philadelphia,False,4,30,True,False
+USER_00000022,2025-07-13 08:00:57.477837,62.01,Groceries,Dallas,True,8,13,False,False
+USER_00000022,2025-08-13 06:45:57.477837,79.77,Online Shopping,Other,False,6,13,False,False
+USER_00000022,2025-06-02 04:28:57.477837,119.3,Online Shopping,New York,False,4,2,False,False
+USER_00000022,2025-10-16 07:07:57.477837,35.84,Groceries,San Diego,False,7,16,True,False
+USER_00000022,2025-09-29 07:09:57.477837,716.87,Travel,San Diego,False,7,29,False,False
+USER_00000022,2025-12-06 09:54:57.477837,72.94,Groceries,Chicago,True,9,6,False,False
+USER_00000022,2026-02-20 07:57:57.477837,34.41,Restaurants,Dallas,False,7,20,False,False
+USER_00000022,2026-02-02 11:48:57.477837,114.88,Online Shopping,Other,False,11,2,False,False
+USER_00000023,2025-11-28 11:08:57.477837,273.39,Online Shopping,Other,False,11,28,False,False
+USER_00000023,2025-06-01 02:20:57.477837,256.45,Online Shopping,San Diego,True,2,1,False,False
+USER_00000023,2025-04-09 13:00:57.477837,147.36,Groceries,Chicago,False,13,9,False,False
+USER_00000023,2025-09-26 08:54:57.477837,431.27,Travel,San Jose,False,8,26,False,False
+USER_00000023,2025-06-04 08:49:57.477837,28.62,Gas Stations,Phoenix,False,8,4,False,False
+USER_00000023,2025-10-08 10:50:57.477837,49.6,Gas Stations,Chicago,False,10,8,False,False
+USER_00000023,2025-06-19 06:42:57.477837,64.36,Other,Phoenix,False,6,19,False,False
+USER_00000023,2025-06-29 06:42:57.477837,97.58,Entertainment,Dallas,True,6,29,False,False
+USER_00000023,2026-03-09 13:00:57.477837,87.63,Groceries,Houston,False,13,9,False,False
+USER_00000023,2025-11-09 09:16:57.477837,38.91,Entertainment,Philadelphia,True,9,9,False,False
+USER_00000023,2025-07-14 14:20:57.477837,57.38,Groceries,Chicago,False,14,14,False,False
+USER_00000023,2025-06-15 05:25:57.477837,54.84,Groceries,Chicago,True,5,15,True,False
+USER_00000023,2026-03-27 08:51:57.477837,45.83,Restaurants,Phoenix,False,8,27,False,False
+USER_00000023,2025-10-25 08:52:57.477837,72.9,Other,San Diego,True,8,25,False,False
+USER_00000023,2025-12-15 07:05:57.477837,106.14,Groceries,San Diego,False,7,15,False,False
+USER_00000023,2025-10-02 10:40:57.477837,139.49,Online Shopping,Chicago,False,10,2,False,False
+USER_00000023,2025-06-16 06:16:57.477837,26.79,Groceries,San Diego,False,6,16,False,False
+USER_00000023,2025-08-18 12:42:57.477837,27.43,Entertainment,Other,False,12,18,False,False
+USER_00000023,2025-08-23 04:22:57.477837,46.62,Gas Stations,San Diego,True,4,23,False,False
+USER_00000023,2025-06-01 12:09:57.477837,126.03,Online Shopping,Chicago,True,12,1,False,False
+USER_00000024,2025-12-30 15:31:57.477837,140.38,Groceries,San Jose,False,15,30,False,False
+USER_00000024,2026-02-11 10:51:57.477837,67.58,Entertainment,San Jose,False,10,11,False,False
+USER_00000024,2025-12-17 11:17:57.477837,33.76,Other,Los Angeles,False,11,17,False,False
+USER_00000024,2025-11-06 10:44:57.477837,167.1,Online Shopping,San Jose,False,10,6,True,False
+USER_00000024,2025-08-04 09:13:57.477837,49.57,Gas Stations,Los Angeles,False,9,4,False,False
+USER_00000024,2026-01-28 05:16:57.477837,147.22,Utilities,Dallas,False,5,28,False,False
+USER_00000024,2025-05-30 09:57:57.477837,33.45,Groceries,San Antonio,False,9,30,False,False
+USER_00000024,2025-06-22 11:49:57.477837,67.83,Entertainment,Philadelphia,True,11,22,False,False
+USER_00000024,2025-07-31 13:53:57.477837,504.54,Travel,San Antonio,False,13,31,False,False
+USER_00000024,2026-03-02 10:47:57.477837,45.58,Groceries,San Diego,False,10,2,False,False
+USER_00000024,2025-08-11 17:02:57.477837,72.54,Gas Stations,New York,False,17,11,False,False
+USER_00000024,2025-11-10 11:23:57.477837,104.05,Groceries,San Diego,False,11,10,False,False
+USER_00000024,2025-08-23 05:06:57.477837,122.97,Online Shopping,Chicago,True,5,23,False,False
+USER_00000024,2025-08-06 12:50:57.477837,120.71,Online Shopping,Chicago,False,12,6,False,False
+USER_00000024,2025-05-05 07:13:57.477837,56.17,Restaurants,Philadelphia,False,7,5,True,False
+USER_00000024,2025-04-07 13:32:57.477837,60.09,Gas Stations,Houston,False,13,7,False,False
+USER_00000024,2025-09-18 01:36:57.477837,24.64,Restaurants,Houston,False,1,18,False,False
+USER_00000024,2025-11-04 01:41:57.477837,31.71,Restaurants,Houston,False,1,4,False,False
+USER_00000024,2026-01-24 06:32:57.477837,99.08,Groceries,San Jose,True,6,24,False,False
+USER_00000024,2025-09-18 02:11:57.477837,162.89,Travel,Dallas,False,2,18,True,False
+USER_00000025,2025-06-15 07:27:57.477837,47.07,Groceries,San Diego,True,7,15,False,False
+USER_00000025,2026-03-21 06:07:57.477837,1582.26,Travel,Chicago,True,6,21,False,False
+USER_00000025,2025-11-29 03:42:57.477837,219.63,Online Shopping,New York,True,3,29,False,False
+USER_00000025,2025-09-02 08:51:57.477837,58.32,Restaurants,New York,False,8,2,False,False
+USER_00000025,2026-02-05 16:08:57.477837,254.0,Entertainment,New York,False,16,5,False,True
+USER_00000025,2025-12-24 05:56:57.477837,53.35,Gas Stations,Houston,False,5,24,False,False
+USER_00000025,2026-02-24 10:55:57.477837,29.89,Gas Stations,Philadelphia,False,10,24,False,False
+USER_00000025,2026-03-13 11:06:57.477837,67.98,Groceries,Houston,False,11,13,False,False
+USER_00000025,2026-02-27 07:37:57.477837,32.3,Restaurants,Other,False,7,27,False,True
+USER_00000025,2025-06-20 06:24:57.477837,143.71,Groceries,Other,False,6,20,False,False
+USER_00000025,2025-11-27 08:33:57.477837,49.85,Groceries,Chicago,False,8,27,False,False
+USER_00000025,2025-08-21 06:25:57.477837,26.81,Restaurants,San Diego,False,6,21,False,False
+USER_00000025,2025-12-20 12:21:57.477837,127.33,Groceries,San Diego,True,12,20,False,False
+USER_00000025,2025-10-17 09:47:57.477837,15.61,Restaurants,Philadelphia,False,9,17,False,False
+USER_00000025,2025-12-26 05:33:57.477837,41.38,Groceries,Dallas,False,5,26,True,False
+USER_00000025,2025-04-18 02:16:57.477837,85.75,Groceries,San Jose,False,2,18,False,False
+USER_00000025,2026-03-26 01:10:57.477837,97.29,Groceries,New York,False,1,26,True,False
+USER_00000025,2025-07-06 08:08:57.477837,53.06,Other,San Diego,True,8,6,False,False
+USER_00000025,2025-12-27 05:58:57.477837,183.87,Groceries,Philadelphia,True,5,27,False,False
+USER_00000025,2026-02-22 02:00:57.477837,226.26,Online Shopping,New York,True,2,22,False,False
+USER_00000026,2025-06-06 11:23:57.477837,103.09,Groceries,Houston,False,11,6,False,False
+USER_00000026,2026-03-21 07:01:57.477837,231.26,Utilities,Phoenix,True,7,21,False,False
+USER_00000026,2025-05-12 05:57:57.477837,110.53,Groceries,San Antonio,False,5,12,False,False
+USER_00000026,2026-02-09 03:50:57.477837,154.88,Utilities,San Diego,False,3,9,False,False
+USER_00000026,2025-05-31 14:12:57.477837,355.7,Online Shopping,Dallas,True,14,31,False,False
+USER_00000026,2025-06-08 13:13:57.477837,23.66,Groceries,Philadelphia,True,13,8,False,False
+USER_00000026,2026-03-26 08:58:57.477837,373.13,Utilities,San Jose,False,8,26,False,False
+USER_00000026,2025-05-24 07:46:57.477837,78.5,Gas Stations,Dallas,True,7,24,False,False
+USER_00000026,2026-01-17 04:35:57.477837,99.07,Restaurants,Houston,True,4,17,False,False
+USER_00000026,2025-09-03 06:40:57.477837,67.65,Entertainment,San Diego,False,6,3,False,False
+USER_00000026,2025-05-03 09:30:57.477837,166.53,Utilities,Chicago,True,9,3,False,False
+USER_00000026,2025-07-17 07:45:57.477837,86.81,Gas Stations,Houston,False,7,17,False,False
+USER_00000026,2025-11-09 07:42:57.477837,34.31,Restaurants,San Jose,True,7,9,False,False
+USER_00000026,2026-01-16 02:38:57.477837,104.24,Healthcare,Houston,False,2,16,False,False
+USER_00000026,2025-09-04 08:59:57.477837,188.38,Online Shopping,Philadelphia,False,8,4,False,False
+USER_00000026,2025-09-21 10:43:57.477837,993.89,Travel,Dallas,True,10,21,False,False
+USER_00000026,2025-09-19 07:37:57.477837,45.78,Online Shopping,Philadelphia,False,7,19,False,False
+USER_00000026,2026-03-13 08:27:57.477837,243.72,Groceries,New York,False,8,13,False,False
+USER_00000026,2026-01-08 15:50:57.477837,107.19,Utilities,Phoenix,False,15,8,False,False
+USER_00000026,2025-07-13 10:06:57.477837,46.4,Groceries,Dallas,True,10,13,False,False
+USER_00000027,2025-11-15 09:59:57.477837,18.78,Restaurants,Phoenix,True,9,15,False,False
+USER_00000027,2026-02-07 11:46:57.477837,50.02,Gas Stations,Philadelphia,True,11,7,False,False
+USER_00000027,2025-04-07 04:26:57.477837,63.28,Online Shopping,Chicago,False,4,7,False,False
+USER_00000027,2026-03-12 13:21:57.477837,42.03,Groceries,San Diego,False,13,12,False,False
+USER_00000027,2026-02-19 07:51:57.477837,106.31,Healthcare,San Jose,False,7,19,False,False
+USER_00000027,2025-06-23 09:26:57.477837,37.51,Restaurants,Other,False,9,23,False,False
+USER_00000027,2025-07-15 08:23:57.477837,39.36,Restaurants,Houston,False,8,15,False,False
+USER_00000027,2026-03-22 07:59:57.477837,279.01,Healthcare,Houston,True,7,22,False,False
+USER_00000027,2025-09-20 15:14:57.477837,64.36,Restaurants,Other,True,15,20,False,False
+USER_00000027,2025-06-29 09:19:57.477837,125.19,Groceries,Phoenix,True,9,29,True,False
+USER_00000027,2026-01-11 00:06:57.477837,65.8,Groceries,San Jose,True,0,11,False,False
+USER_00000027,2025-07-31 16:06:57.477837,71.69,Utilities,Dallas,False,16,31,False,False
+USER_00000027,2025-07-11 09:30:57.477837,29.54,Groceries,San Diego,False,9,11,False,False
+USER_00000027,2025-05-07 04:33:57.477837,58.22,Restaurants,San Antonio,False,4,7,False,False
+USER_00000027,2025-12-11 07:35:57.477837,76.24,Gas Stations,Phoenix,False,7,11,False,False
+USER_00000027,2026-03-31 06:53:57.477837,36.73,Gas Stations,Dallas,False,6,31,False,False
+USER_00000027,2025-11-21 18:43:57.477837,36.49,Groceries,Dallas,False,18,21,False,False
+USER_00000027,2025-10-13 06:25:57.477837,29.62,Gas Stations,San Jose,False,6,13,False,False
+USER_00000027,2025-05-14 13:12:57.477837,38.19,Restaurants,San Jose,False,13,14,False,False
+USER_00000027,2025-05-27 08:02:57.477837,218.46,Cash Advance,Los Angeles,False,8,27,False,False
+USER_00000028,2025-09-04 10:02:57.477837,126.31,Groceries,Houston,False,10,4,False,False
+USER_00000028,2026-01-15 00:05:57.477837,27.94,Restaurants,San Diego,False,0,15,False,False
+USER_00000028,2025-08-27 06:28:57.477837,30.98,Restaurants,New York,False,6,27,False,False
+USER_00000028,2025-12-25 09:54:57.477837,61.44,Restaurants,Phoenix,False,9,25,False,False
+USER_00000028,2025-07-08 15:59:57.477837,41.47,Online Shopping,San Diego,False,15,8,True,False
+USER_00000028,2026-03-24 09:13:57.477837,87.9,Groceries,Los Angeles,False,9,24,False,False
+USER_00000028,2025-10-30 05:38:57.477837,63.46,Groceries,Los Angeles,False,5,30,False,False
+USER_00000028,2025-11-06 10:06:57.477837,92.83,Entertainment,San Diego,False,10,6,False,False
+USER_00000028,2025-12-20 12:05:57.477837,64.61,Gas Stations,San Jose,True,12,20,False,False
+USER_00000028,2025-10-01 11:41:57.477837,24.71,Restaurants,Dallas,False,11,1,False,False
+USER_00000028,2025-06-10 06:35:57.477837,58.2,Groceries,San Antonio,False,6,10,False,False
+USER_00000028,2025-12-30 06:03:57.477837,23.72,Groceries,San Diego,False,6,30,False,False
+USER_00000028,2025-11-27 03:46:57.477837,109.12,Groceries,Phoenix,False,3,27,False,False
+USER_00000028,2025-06-18 12:38:57.477837,84.55,Groceries,New York,False,12,18,False,False
+USER_00000028,2025-10-18 07:05:57.477837,241.47,Online Shopping,Houston,True,7,18,True,False
+USER_00000028,2025-10-06 10:06:57.477837,147.42,Utilities,Los Angeles,False,10,6,False,False
+USER_00000028,2025-04-08 10:14:57.477837,55.29,Restaurants,Chicago,False,10,8,False,False
+USER_00000028,2026-02-27 08:09:57.477837,20.5,Restaurants,Chicago,False,8,27,False,False
+USER_00000028,2026-03-23 07:34:57.477837,19.4,Groceries,Dallas,False,7,23,False,False
+USER_00000028,2026-04-03 06:54:57.477837,33.38,Restaurants,San Jose,False,6,3,False,False
+USER_00000029,2025-04-23 13:52:57.477837,56.49,Groceries,Houston,False,13,23,False,False
+USER_00000029,2025-09-09 12:19:57.477837,106.44,Utilities,Los Angeles,False,12,9,False,False
+USER_00000029,2025-10-28 04:05:57.477837,188.02,Online Shopping,Chicago,False,4,28,False,False
+USER_00000029,2026-03-22 09:24:57.477837,100.63,Other,Chicago,True,9,22,False,False
+USER_00000029,2025-12-20 08:03:57.477837,474.36,Travel,San Antonio,True,8,20,False,False
+USER_00000029,2025-05-31 04:27:57.477837,45.64,Gas Stations,San Diego,True,4,31,False,False
+USER_00000029,2025-08-23 07:27:57.477837,51.59,Gas Stations,Other,True,7,23,True,False
+USER_00000029,2025-10-19 06:36:57.477837,54.11,Groceries,Philadelphia,True,6,19,False,False
+USER_00000029,2026-03-04 05:40:57.477837,66.24,Gas Stations,Houston,False,5,4,False,False
+USER_00000029,2025-07-30 17:39:57.477837,83.37,Utilities,Philadelphia,False,17,30,False,False
+USER_00000029,2025-08-03 11:14:57.477837,43.86,Groceries,Other,True,11,3,False,False
+USER_00000029,2025-07-12 08:10:57.477837,302.96,Travel,New York,True,8,12,False,False
+USER_00000029,2025-11-17 04:08:57.477837,45.88,Restaurants,San Jose,False,4,17,False,False
+USER_00000029,2025-07-07 08:56:57.477837,154.73,Utilities,San Diego,False,8,7,False,False
+USER_00000029,2026-01-01 13:08:57.477837,355.37,Utilities,New York,False,13,1,False,False
+USER_00000029,2025-08-23 12:55:57.477837,179.32,Online Shopping,Phoenix,True,12,23,True,False
+USER_00000029,2026-02-27 05:46:57.477837,80.39,Online Shopping,Los Angeles,False,5,27,False,False
+USER_00000029,2025-06-09 09:28:57.477837,68.63,Gas Stations,Philadelphia,False,9,9,False,False
+USER_00000029,2026-03-09 10:04:57.477837,366.92,Travel,Dallas,False,10,9,False,False
+USER_00000029,2025-05-24 06:57:57.477837,253.38,Cash Advance,Phoenix,True,6,24,True,False
+USER_00000030,2025-08-05 20:31:57.477837,99.51,Entertainment,Houston,False,20,5,False,False
+USER_00000030,2025-08-14 00:57:57.477837,209.53,Online Shopping,Los Angeles,False,0,14,False,False
+USER_00000030,2025-10-04 11:58:57.477837,132.75,Online Shopping,Chicago,True,11,4,False,False
+USER_00000030,2025-07-09 08:57:57.477837,1001.56,Travel,Philadelphia,False,8,9,False,False
+USER_00000030,2025-08-14 15:57:57.477837,62.34,Gas Stations,San Diego,False,15,14,True,False
+USER_00000030,2025-08-11 10:37:57.477837,160.48,Healthcare,San Diego,False,10,11,False,False
+USER_00000030,2025-07-15 04:55:57.477837,42.98,Gas Stations,Phoenix,False,4,15,False,False
+USER_00000030,2025-04-13 16:34:57.477837,54.7,Groceries,Phoenix,True,16,13,False,False
+USER_00000030,2025-05-02 05:05:57.477837,43.18,Restaurants,San Jose,False,5,2,False,False
+USER_00000030,2026-02-01 10:51:57.477837,52.58,Gas Stations,Chicago,True,10,1,False,False
+USER_00000030,2025-10-12 07:30:57.477837,85.45,Groceries,San Antonio,True,7,12,False,False
+USER_00000030,2026-04-04 07:20:57.477837,95.38,Groceries,Philadelphia,True,7,4,False,False
+USER_00000030,2025-11-16 08:21:57.477837,56.84,Gas Stations,New York,True,8,16,False,False
+USER_00000030,2025-10-31 12:50:57.477837,205.23,Groceries,Houston,False,12,31,False,False
+USER_00000030,2025-05-18 10:41:57.477837,26.88,Restaurants,Philadelphia,True,10,18,False,False
+USER_00000030,2025-11-12 15:04:57.477837,80.68,Entertainment,Other,False,15,12,False,False
+USER_00000030,2025-06-18 08:06:57.477837,178.48,Cash Advance,Philadelphia,False,8,18,False,False
+USER_00000030,2025-11-05 02:39:57.477837,18.99,Entertainment,Other,False,2,5,False,False
+USER_00000030,2025-09-26 16:50:57.477837,49.93,Other,Chicago,False,16,26,False,False
+USER_00000030,2026-01-24 13:11:57.477837,75.13,Online Shopping,Philadelphia,True,13,24,True,False
+USER_00000031,2025-06-06 09:34:57.477837,33.85,Restaurants,San Jose,False,9,6,False,False
+USER_00000031,2025-04-28 08:27:57.477837,118.43,Online Shopping,Philadelphia,False,8,28,False,False
+USER_00000031,2025-11-18 06:20:57.477837,78.81,Entertainment,Dallas,False,6,18,False,False
+USER_00000031,2025-10-02 09:40:57.477837,26.85,Restaurants,Dallas,False,9,2,True,False
+USER_00000031,2025-06-18 10:34:57.477837,61.25,Groceries,Los Angeles,False,10,18,False,False
+USER_00000031,2026-02-05 04:28:57.477837,92.27,Entertainment,Houston,False,4,5,False,False
+USER_00000031,2025-09-21 06:57:57.477837,50.05,Groceries,Dallas,True,6,21,False,False
+USER_00000031,2025-06-16 06:48:57.477837,47.86,Online Shopping,Houston,False,6,16,False,False
+USER_00000031,2025-05-23 09:15:57.477837,81.13,Groceries,San Diego,False,9,23,False,False
+USER_00000031,2025-06-09 05:31:57.477837,204.98,Online Shopping,San Jose,False,5,9,False,False
+USER_00000031,2025-04-28 11:47:57.477837,70.57,Gas Stations,Chicago,False,11,28,False,False
+USER_00000031,2026-03-27 12:30:57.477837,81.88,Groceries,Chicago,False,12,27,False,False
+USER_00000031,2026-02-04 06:29:57.478814,65.41,Restaurants,Dallas,False,6,4,False,False
+USER_00000031,2025-05-09 16:16:57.478814,206.13,Online Shopping,Other,False,16,9,False,False
+USER_00000031,2025-08-24 08:37:57.478814,381.38,Travel,San Jose,True,8,24,False,False
+USER_00000031,2025-11-05 10:37:57.478814,509.29,Travel,San Diego,False,10,5,False,False
+USER_00000031,2025-09-20 14:47:57.478814,57.82,Gas Stations,New York,True,14,20,False,False
+USER_00000031,2026-02-14 13:07:57.478814,62.24,Entertainment,San Jose,True,13,14,False,False
+USER_00000031,2025-07-21 09:59:57.478814,61.71,Restaurants,Los Angeles,False,9,21,False,False
+USER_00000031,2026-02-07 04:29:57.478814,32.44,Restaurants,Chicago,True,4,7,False,False
+USER_00000032,2026-01-25 12:22:57.478814,58.4,Groceries,Other,True,12,25,False,False
+USER_00000032,2025-11-10 04:34:57.478814,32.84,Online Shopping,Los Angeles,False,4,10,False,False
+USER_00000032,2025-04-23 08:58:57.478814,23.48,Restaurants,Chicago,False,8,23,True,False
+USER_00000032,2026-02-03 04:13:57.478814,38.85,Groceries,San Diego,False,4,3,False,False
+USER_00000032,2025-06-01 11:29:57.478814,117.6,Online Shopping,Other,True,11,1,False,False
+USER_00000032,2025-08-07 10:07:57.478814,34.73,Entertainment,Other,False,10,7,False,False
+USER_00000032,2025-05-12 08:07:57.478814,47.45,Restaurants,Philadelphia,False,8,12,False,False
+USER_00000032,2025-12-21 09:25:57.478814,130.54,Groceries,San Antonio,True,9,21,False,False
+USER_00000032,2025-08-24 06:15:57.478814,34.46,Restaurants,San Jose,True,6,24,False,False
+USER_00000032,2025-05-29 17:54:57.478814,30.57,Gas Stations,San Jose,False,17,29,False,False
+USER_00000032,2025-08-31 23:44:57.478814,138.48,Online Shopping,Philadelphia,True,23,31,False,False
+USER_00000032,2025-08-09 05:55:57.478814,90.21,Restaurants,New York,True,5,9,False,False
+USER_00000032,2025-07-22 10:17:57.478814,264.74,Online Shopping,Other,False,10,22,False,False
+USER_00000032,2025-07-19 12:07:57.478814,222.79,Travel,Chicago,True,12,19,False,False
+USER_00000032,2026-04-02 13:03:57.478814,36.45,Groceries,New York,False,13,2,False,False
+USER_00000032,2025-07-20 07:07:57.478814,85.5,Cash Advance,San Jose,True,7,20,False,False
+USER_00000032,2026-02-12 06:16:57.478814,19.82,Restaurants,Dallas,False,6,12,False,False
+USER_00000032,2026-02-19 09:42:57.478814,39.69,Restaurants,Dallas,False,9,19,True,False
+USER_00000032,2025-09-04 05:09:57.478814,26.5,Restaurants,Phoenix,False,5,4,True,False
+USER_00000032,2025-10-12 12:40:57.478814,49.31,Groceries,Houston,True,12,12,False,False
+USER_00000033,2026-03-29 13:57:57.478814,126.1,Groceries,Dallas,True,13,29,False,False
+USER_00000033,2025-12-29 01:57:57.478814,45.62,Restaurants,Dallas,False,1,29,False,False
+USER_00000033,2026-03-18 07:09:57.478814,27.72,Entertainment,Chicago,False,7,18,False,False
+USER_00000033,2025-08-09 04:16:57.478814,294.07,Utilities,Phoenix,True,4,9,True,False
+USER_00000033,2026-02-05 12:50:57.478814,154.55,Online Shopping,Chicago,False,12,5,True,False
+USER_00000033,2025-10-11 12:57:57.478814,97.67,Groceries,San Jose,True,12,11,False,False
+USER_00000033,2025-05-04 10:26:57.478814,90.22,Online Shopping,Los Angeles,True,10,4,False,False
+USER_00000033,2026-02-04 12:38:57.478814,109.27,Online Shopping,New York,False,12,4,False,False
+USER_00000033,2025-11-13 07:03:57.478814,55.94,Healthcare,San Jose,False,7,13,False,False
+USER_00000033,2025-09-03 13:20:57.478814,231.4,Healthcare,Los Angeles,False,13,3,False,False
+USER_00000033,2026-04-04 13:31:57.478814,273.09,Travel,San Diego,True,13,4,False,False
+USER_00000033,2025-10-29 09:19:57.478814,22.65,Restaurants,Other,False,9,29,False,False
+USER_00000033,2025-08-23 14:57:57.478814,77.12,Online Shopping,San Diego,True,14,23,False,False
+USER_00000033,2025-07-12 17:12:57.478814,86.1,Restaurants,Chicago,True,17,12,False,False
+USER_00000033,2025-12-08 09:21:57.478814,39.37,Other,San Antonio,False,9,8,False,False
+USER_00000033,2026-01-08 16:09:57.478814,120.14,Groceries,San Antonio,False,16,8,False,False
+USER_00000033,2025-05-13 05:39:57.478814,74.11,Groceries,Los Angeles,False,5,13,True,False
+USER_00000033,2026-01-29 14:53:57.478814,49.55,Groceries,Dallas,False,14,29,False,False
+USER_00000033,2025-04-15 17:34:57.478814,39.22,Entertainment,Chicago,False,17,15,False,False
+USER_00000033,2025-12-30 11:11:57.478814,36.51,Gas Stations,Los Angeles,False,11,30,False,False
+USER_00000034,2025-07-14 08:57:57.478814,48.17,Gas Stations,Chicago,False,8,14,True,False
+USER_00000034,2025-12-23 07:39:57.478814,243.19,Utilities,Los Angeles,False,7,23,False,False
+USER_00000034,2025-05-19 08:50:57.478814,142.23,Utilities,San Diego,False,8,19,False,False
+USER_00000034,2025-12-05 14:10:57.478814,27.14,Restaurants,Phoenix,False,14,5,False,False
+USER_00000034,2026-03-09 07:09:57.478814,120.69,Groceries,Chicago,False,7,9,False,False
+USER_00000034,2025-11-21 05:59:57.478814,247.7,Travel,Phoenix,False,5,21,False,False
+USER_00000034,2025-09-24 13:49:57.478814,95.02,Utilities,Other,False,13,24,False,False
+USER_00000034,2025-08-24 09:39:57.478814,81.94,Gas Stations,Other,True,9,24,False,False
+USER_00000034,2025-05-10 10:57:57.478814,92.12,Online Shopping,San Diego,True,10,10,False,False
+USER_00000034,2025-10-19 09:02:57.478814,28.08,Restaurants,San Antonio,True,9,19,False,False
+USER_00000034,2026-03-29 09:55:57.478814,107.48,Healthcare,Philadelphia,True,9,29,False,False
+USER_00000034,2026-02-26 09:35:57.478814,102.42,Online Shopping,New York,False,9,26,False,False
+USER_00000034,2026-03-13 06:47:57.478814,60.19,Gas Stations,San Jose,False,6,13,False,False
+USER_00000034,2025-07-20 13:43:57.478814,58.79,Groceries,New York,True,13,20,False,False
+USER_00000034,2025-08-24 07:21:57.478814,197.02,Utilities,New York,True,7,24,False,False
+USER_00000034,2025-12-04 04:41:57.478814,243.86,Online Shopping,San Jose,False,4,4,False,False
+USER_00000034,2026-02-28 03:14:57.478814,49.78,Groceries,San Diego,True,3,28,False,False
+USER_00000034,2025-05-14 18:00:57.478814,96.33,Online Shopping,San Diego,False,18,14,True,False
+USER_00000034,2025-07-30 10:08:57.478814,165.34,Online Shopping,San Antonio,False,10,30,False,False
+USER_00000034,2025-10-13 17:10:57.478814,105.71,Gas Stations,Philadelphia,False,17,13,False,False
+USER_00000035,2026-01-07 19:00:57.478814,34.93,Entertainment,Houston,False,19,7,False,False
+USER_00000035,2026-03-01 09:06:57.478814,51.27,Online Shopping,New York,True,9,1,False,False
+USER_00000035,2025-05-26 10:35:57.478814,179.95,Utilities,Dallas,False,10,26,False,False
+USER_00000035,2025-10-13 07:23:57.478814,71.2,Groceries,New York,False,7,13,False,False
+USER_00000035,2025-06-27 08:21:57.478814,106.44,Groceries,Houston,False,8,27,False,False
+USER_00000035,2026-01-16 05:03:57.478814,98.62,Groceries,Chicago,False,5,16,False,False
+USER_00000035,2025-12-14 09:03:57.478814,117.98,Online Shopping,San Antonio,True,9,14,False,False
+USER_00000035,2026-02-26 21:24:57.478814,202.78,Online Shopping,Phoenix,False,21,26,False,False
+USER_00000035,2025-06-10 07:37:57.478814,128.05,Utilities,Phoenix,False,7,10,False,False
+USER_00000035,2025-08-26 02:20:57.478814,72.25,Entertainment,Houston,False,2,26,False,False
+USER_00000035,2025-05-24 18:28:57.478814,27.23,Gas Stations,New York,True,18,24,False,False
+USER_00000035,2025-04-23 04:11:57.478814,53.85,Other,Phoenix,False,4,23,False,False
+USER_00000035,2025-12-13 09:43:57.478814,16.86,Restaurants,Houston,True,9,13,True,False
+USER_00000035,2025-10-03 17:21:57.478814,257.58,Travel,San Jose,False,17,3,False,False
+USER_00000035,2025-05-19 07:47:57.478814,82.28,Restaurants,San Diego,False,7,19,False,False
+USER_00000035,2026-02-10 11:09:57.478814,48.19,Online Shopping,Los Angeles,False,11,10,False,False
+USER_00000035,2026-02-26 07:07:57.478814,58.33,Entertainment,San Diego,False,7,26,False,False
+USER_00000035,2025-04-18 05:04:57.478814,181.47,Online Shopping,New York,False,5,18,False,False
+USER_00000035,2026-02-26 14:49:57.478814,227.73,Groceries,Houston,False,14,26,False,False
+USER_00000035,2025-04-25 04:39:57.478814,54.63,Gas Stations,Chicago,False,4,25,True,False
+USER_00000036,2025-08-13 08:37:57.478814,134.91,Online Shopping,Phoenix,False,8,13,False,False
+USER_00000036,2025-06-22 04:17:57.478814,459.02,Travel,Phoenix,True,4,22,True,False
+USER_00000036,2025-07-19 10:10:57.478814,84.83,Gas Stations,Phoenix,True,10,19,False,False
+USER_00000036,2025-09-03 10:47:57.478814,223.37,Utilities,Houston,False,10,3,False,False
+USER_00000036,2025-11-11 09:01:57.478814,37.51,Gas Stations,San Diego,False,9,11,False,False
+USER_00000036,2025-05-06 09:05:57.478814,87.34,Gas Stations,Chicago,False,9,6,False,False
+USER_00000036,2025-10-21 12:11:57.478814,119.05,Healthcare,Houston,False,12,21,False,False
+USER_00000036,2026-01-05 10:31:57.478814,53.96,Online Shopping,New York,False,10,5,False,False
+USER_00000036,2025-04-19 13:24:57.478814,90.08,Cash Advance,San Antonio,True,13,19,False,False
+USER_00000036,2026-02-07 10:29:57.478814,108.52,Online Shopping,New York,True,10,7,False,False
+USER_00000036,2026-02-07 06:53:57.478814,52.64,Gas Stations,Los Angeles,True,6,7,True,False
+USER_00000036,2025-06-07 09:30:57.478814,120.94,Groceries,Other,True,9,7,False,False
+USER_00000036,2025-10-20 04:32:57.478814,48.22,Restaurants,San Antonio,False,4,20,False,False
+USER_00000036,2025-07-12 09:43:57.478814,36.43,Restaurants,New York,True,9,12,False,False
+USER_00000036,2025-04-09 15:16:57.478814,107.79,Entertainment,Other,False,15,9,False,False
+USER_00000036,2026-02-21 06:51:57.478814,75.48,Groceries,Chicago,True,6,21,False,False
+USER_00000036,2025-04-27 11:35:57.478814,39.34,Groceries,Philadelphia,True,11,27,False,False
+USER_00000036,2025-10-08 10:04:57.478814,35.28,Groceries,Philadelphia,False,10,8,False,False
+USER_00000036,2025-10-19 05:17:57.478814,142.14,Groceries,Philadelphia,True,5,19,False,False
+USER_00000036,2025-04-16 14:03:57.478814,11.39,Restaurants,Other,False,14,16,True,False
+USER_00000037,2025-09-28 08:56:57.478814,407.03,Travel,Los Angeles,True,8,28,False,False
+USER_00000037,2025-11-03 09:30:57.478814,288.67,Entertainment,Los Angeles,False,9,3,False,False
+USER_00000037,2025-10-01 06:40:57.478814,81.78,Entertainment,Philadelphia,False,6,1,False,False
+USER_00000037,2026-03-31 05:46:57.478814,135.15,Healthcare,San Jose,False,5,31,False,False
+USER_00000037,2025-11-25 07:35:57.478814,15.08,Restaurants,Phoenix,False,7,25,False,False
+USER_00000037,2025-08-15 11:16:57.478814,1010.23,Travel,San Antonio,False,11,15,False,False
+USER_00000037,2026-02-21 07:24:57.478814,137.61,Groceries,San Antonio,True,7,21,False,False
+USER_00000037,2025-05-28 04:18:57.478814,49.29,Restaurants,Phoenix,False,4,28,False,False
+USER_00000037,2025-08-01 10:12:57.478814,119.97,Online Shopping,San Diego,False,10,1,False,False
+USER_00000037,2026-03-07 11:08:57.478814,99.83,Groceries,San Jose,True,11,7,False,False
+USER_00000037,2026-03-15 08:20:57.478814,60.34,Entertainment,Philadelphia,True,8,15,False,False
+USER_00000037,2025-10-29 08:25:57.478814,21.51,Restaurants,Phoenix,False,8,29,False,False
+USER_00000037,2025-04-09 15:18:57.478814,241.97,Healthcare,Houston,False,15,9,False,False
+USER_00000037,2025-10-31 09:00:57.478814,48.75,Gas Stations,San Antonio,False,9,31,False,False
+USER_00000037,2026-02-27 14:30:57.478814,97.36,Groceries,Houston,False,14,27,False,False
+USER_00000037,2026-01-15 07:46:57.478814,61.18,Entertainment,Phoenix,False,7,15,False,False
+USER_00000037,2025-04-16 13:14:57.478814,44.09,Restaurants,Phoenix,False,13,16,False,False
+USER_00000037,2025-07-23 09:08:57.478814,49.64,Gas Stations,New York,False,9,23,False,False
+USER_00000037,2025-09-13 08:20:57.478814,71.61,Groceries,New York,True,8,13,False,False
+USER_00000037,2026-01-19 23:54:57.478814,121.81,Online Shopping,Chicago,False,23,19,False,False
+USER_00000038,2026-03-26 07:17:57.478814,527.38,Online Shopping,Other,False,7,26,False,False
+USER_00000038,2025-06-16 04:06:57.478814,52.28,Restaurants,Chicago,False,4,16,False,False
+USER_00000038,2025-08-26 01:57:57.478814,655.89,Utilities,Los Angeles,False,1,26,False,False
+USER_00000038,2026-03-25 08:02:57.478814,448.18,Travel,Los Angeles,False,8,25,True,False
+USER_00000038,2026-02-20 08:15:57.478814,55.69,Entertainment,Philadelphia,False,8,20,False,False
+USER_00000038,2025-11-03 14:02:57.478814,37.99,Entertainment,New York,False,14,3,False,False
+USER_00000038,2025-12-15 09:26:57.478814,78.02,Restaurants,Philadelphia,False,9,15,True,False
+USER_00000038,2025-08-17 12:12:57.478814,76.32,Online Shopping,Phoenix,True,12,17,False,False
+USER_00000038,2026-03-21 10:45:57.478814,185.35,Groceries,Philadelphia,True,10,21,False,False
+USER_00000038,2025-04-12 02:15:57.478814,45.12,Groceries,Phoenix,True,2,12,False,False
+USER_00000038,2025-08-27 08:41:57.478814,85.68,Other,San Antonio,False,8,27,False,False
+USER_00000038,2025-04-18 12:59:57.478814,54.16,Online Shopping,New York,False,12,18,False,False
+USER_00000038,2025-10-01 03:48:57.478814,40.09,Gas Stations,Chicago,False,3,1,False,False
+USER_00000038,2025-04-28 05:28:57.478814,35.39,Restaurants,Philadelphia,False,5,28,True,False
+USER_00000038,2025-04-07 05:09:57.478814,89.01,Online Shopping,New York,False,5,7,False,False
+USER_00000038,2025-10-26 17:28:57.478814,68.91,Groceries,Other,True,17,26,False,False
+USER_00000038,2025-05-16 02:09:57.478814,69.08,Groceries,Other,False,2,16,True,False
+USER_00000038,2026-01-23 12:13:57.478814,112.28,Groceries,San Antonio,False,12,23,False,False
+USER_00000038,2025-08-17 06:11:57.478814,17.61,Gas Stations,Houston,True,6,17,False,False
+USER_00000038,2025-08-26 22:45:57.478814,90.56,Online Shopping,Chicago,False,22,26,False,False
+USER_00000039,2025-05-23 00:39:57.478814,140.44,Groceries,San Jose,False,0,23,True,False
+USER_00000039,2026-02-06 12:28:57.478814,86.11,Entertainment,Dallas,False,12,6,False,False
+USER_00000039,2025-05-07 14:37:57.478814,141.62,Groceries,New York,False,14,7,False,False
+USER_00000039,2025-08-28 03:49:57.478814,175.37,Online Shopping,San Diego,False,3,28,False,False
+USER_00000039,2026-03-01 08:42:57.478814,31.99,Other,New York,True,8,1,False,False
+USER_00000039,2025-07-03 12:13:57.478814,166.99,Online Shopping,Phoenix,False,12,3,False,False
+USER_00000039,2025-09-23 06:25:57.478814,473.12,Travel,San Jose,False,6,23,False,False
+USER_00000039,2025-04-20 10:06:57.478814,559.47,Utilities,San Diego,True,10,20,True,False
+USER_00000039,2025-08-08 07:06:57.478814,74.67,Gas Stations,Philadelphia,False,7,8,False,False
+USER_00000039,2025-05-18 09:20:57.478814,84.44,Entertainment,San Antonio,True,9,18,False,False
+USER_00000039,2025-08-31 06:52:57.478814,628.89,Travel,Other,True,6,31,False,False
+USER_00000039,2025-09-27 12:32:57.478814,44.25,Restaurants,San Diego,True,12,27,False,False
+USER_00000039,2026-03-21 04:22:57.478814,43.65,Restaurants,Philadelphia,True,4,21,False,False
+USER_00000039,2026-03-26 07:11:57.478814,157.56,Utilities,Other,False,7,26,False,False
+USER_00000039,2025-09-26 06:44:57.478814,84.96,Entertainment,Philadelphia,False,6,26,False,False
+USER_00000039,2026-03-16 14:19:57.478814,120.51,Groceries,Other,False,14,16,False,False
+USER_00000039,2025-12-08 02:41:57.478814,84.96,Gas Stations,Philadelphia,False,2,8,False,False
+USER_00000039,2025-09-09 10:10:57.478814,239.89,Healthcare,Phoenix,False,10,9,False,False
+USER_00000039,2025-06-05 06:49:57.478814,106.28,Gas Stations,San Diego,False,6,5,False,False
+USER_00000039,2025-07-11 10:41:57.478814,210.38,Online Shopping,Los Angeles,False,10,11,False,False
+USER_00000040,2025-09-27 08:02:57.478814,89.0,Entertainment,San Antonio,True,8,27,False,False
+USER_00000040,2025-10-14 08:01:57.478814,67.74,Online Shopping,Houston,False,8,14,False,False
+USER_00000040,2025-06-26 20:26:57.478814,28.23,Gas Stations,New York,False,20,26,False,False
+USER_00000040,2025-09-15 07:19:57.478814,57.42,Entertainment,Phoenix,False,7,15,False,False
+USER_00000040,2025-10-25 02:05:57.478814,66.54,Entertainment,Chicago,True,2,25,False,False
+USER_00000040,2025-07-30 07:18:57.478814,241.41,Online Shopping,Houston,False,7,30,False,False
+USER_00000040,2025-08-23 13:04:57.478814,8.72,Restaurants,San Antonio,True,13,23,True,False
+USER_00000040,2026-03-31 07:21:57.478814,20.88,Restaurants,Phoenix,False,7,31,True,False
+USER_00000040,2026-03-09 05:11:57.478814,181.49,Cash Advance,Houston,False,5,9,False,False
+USER_00000040,2026-03-05 07:06:57.478814,45.56,Groceries,New York,False,7,5,False,False
+USER_00000040,2025-11-24 10:13:57.478814,23.48,Restaurants,Philadelphia,False,10,24,False,False
+USER_00000040,2026-01-18 09:49:57.478814,38.96,Gas Stations,Other,True,9,18,False,False
+USER_00000040,2026-02-08 10:17:57.478814,280.43,Travel,San Jose,True,10,8,True,False
+USER_00000040,2026-03-12 07:15:57.478814,50.97,Groceries,Philadelphia,False,7,12,False,False
+USER_00000040,2025-08-24 14:32:57.478814,69.2,Restaurants,San Antonio,True,14,24,False,False
+USER_00000040,2025-06-26 11:12:57.478814,101.97,Groceries,New York,False,11,26,False,False
+USER_00000040,2026-04-03 02:26:57.478814,95.24,Entertainment,Houston,False,2,3,False,False
+USER_00000040,2025-12-29 03:11:57.478814,73.73,Groceries,Dallas,False,3,29,True,False
+USER_00000040,2026-02-27 15:14:57.478814,58.03,Restaurants,San Jose,False,15,27,False,False
+USER_00000040,2025-07-10 14:21:57.478814,76.4,Gas Stations,Philadelphia,False,14,10,False,False
+USER_00000041,2025-06-26 11:15:57.478814,242.8,Utilities,Los Angeles,False,11,26,False,False
+USER_00000041,2025-11-01 05:25:57.478814,25.24,Restaurants,Houston,True,5,1,False,False
+USER_00000041,2026-01-22 17:12:57.478814,60.13,Groceries,Philadelphia,False,17,22,False,False
+USER_00000041,2025-06-23 09:23:57.478814,84.87,Gas Stations,Houston,False,9,23,False,False
+USER_00000041,2025-11-28 10:30:57.478814,154.46,Cash Advance,San Jose,False,10,28,True,False
+USER_00000041,2025-10-14 03:47:57.478814,63.01,Online Shopping,San Antonio,False,3,14,False,False
+USER_00000041,2026-01-13 16:13:57.478814,42.07,Other,Chicago,False,16,13,False,False
+USER_00000041,2026-03-16 09:02:57.478814,981.37,Travel,Philadelphia,False,9,16,False,False
+USER_00000041,2026-03-11 11:03:57.478814,57.4,Groceries,Houston,False,11,11,False,False
+USER_00000041,2025-09-24 03:35:57.478814,141.36,Online Shopping,Chicago,False,3,24,False,False
+USER_00000041,2025-05-05 07:15:57.478814,25.73,Restaurants,Chicago,False,7,5,False,False
+USER_00000041,2025-08-14 11:47:57.478814,175.77,Online Shopping,Los Angeles,False,11,14,False,False
+USER_00000041,2026-01-05 05:54:57.478814,45.78,Restaurants,Other,False,5,5,False,False
+USER_00000041,2026-03-17 10:41:57.478814,16.61,Restaurants,Chicago,False,10,17,False,False
+USER_00000041,2025-06-08 06:11:57.478814,205.81,Utilities,San Jose,True,6,8,False,False
+USER_00000041,2025-04-15 10:09:57.478814,32.34,Groceries,New York,False,10,15,False,False
+USER_00000041,2026-01-13 04:35:57.478814,341.11,Travel,Chicago,False,4,13,False,False
+USER_00000041,2025-07-19 07:29:57.478814,74.57,Groceries,Dallas,True,7,19,False,False
+USER_00000041,2025-11-11 19:33:57.478814,188.84,Groceries,Houston,False,19,11,False,False
+USER_00000041,2025-07-24 10:02:57.478814,527.53,Travel,Chicago,False,10,24,False,False
+USER_00000042,2026-02-08 08:01:57.478814,81.77,Online Shopping,San Diego,True,8,8,False,False
+USER_00000042,2026-03-23 11:02:57.478814,55.47,Entertainment,New York,False,11,23,False,False
+USER_00000042,2025-10-27 08:39:57.478814,119.06,Groceries,Phoenix,False,8,27,False,False
+USER_00000042,2025-10-26 19:33:57.478814,34.3,Gas Stations,New York,True,19,26,False,False
+USER_00000042,2025-05-22 07:53:57.478814,112.49,Entertainment,San Antonio,False,7,22,False,False
+USER_00000042,2025-06-30 03:44:57.478814,92.39,Online Shopping,Phoenix,False,3,30,False,False
+USER_00000042,2025-07-01 08:03:57.478814,31.64,Gas Stations,Los Angeles,False,8,1,False,False
+USER_00000042,2026-03-26 14:59:57.478814,140.82,Utilities,New York,False,14,26,False,False
+USER_00000042,2025-07-07 13:00:57.478814,53.48,Online Shopping,Other,False,13,7,False,False
+USER_00000042,2025-07-10 19:16:57.478814,60.74,Utilities,San Antonio,False,19,10,False,False
+USER_00000042,2025-09-11 06:14:57.478814,62.37,Entertainment,New York,False,6,11,False,False
+USER_00000042,2026-03-11 14:22:57.478814,62.85,Entertainment,Chicago,False,14,11,False,False
+USER_00000042,2026-01-25 09:57:57.478814,85.26,Groceries,Other,True,9,25,False,False
+USER_00000042,2026-02-06 09:45:57.478814,33.5,Restaurants,Philadelphia,False,9,6,False,False
+USER_00000042,2025-11-13 03:45:57.478814,1442.13,Travel,Philadelphia,False,3,13,False,False
+USER_00000042,2026-01-04 08:29:57.478814,81.59,Groceries,San Antonio,True,8,4,False,False
+USER_00000042,2025-06-02 05:39:57.478814,37.68,Groceries,Other,False,5,2,False,False
+USER_00000042,2026-03-30 07:01:57.478814,19.99,Restaurants,Other,False,7,30,False,False
+USER_00000042,2026-01-18 03:39:57.478814,75.01,Groceries,New York,True,3,18,False,False
+USER_00000042,2026-03-11 10:13:57.478814,144.78,Utilities,San Antonio,False,10,11,False,False
+USER_00000043,2025-10-15 01:28:57.478814,243.47,Travel,Los Angeles,False,1,15,False,False
+USER_00000043,2026-02-16 16:25:57.478814,48.55,Gas Stations,Philadelphia,False,16,16,False,False
+USER_00000043,2025-09-20 06:17:57.478814,73.36,Groceries,San Diego,True,6,20,False,False
+USER_00000043,2025-04-23 13:06:57.478814,144.35,Entertainment,Phoenix,False,13,23,False,False
+USER_00000043,2025-10-08 10:32:57.478814,75.9,Online Shopping,San Jose,False,10,8,False,False
+USER_00000043,2026-03-14 06:33:57.478814,162.3,Cash Advance,Chicago,True,6,14,False,False
+USER_00000043,2025-05-26 06:45:57.478814,266.08,Online Shopping,Other,False,6,26,False,False
+USER_00000043,2026-02-20 06:59:57.478814,41.25,Restaurants,San Diego,False,6,20,False,False
+USER_00000043,2026-03-23 14:32:57.478814,31.53,Gas Stations,San Diego,False,14,23,False,False
+USER_00000043,2025-11-05 04:13:57.478814,139.9,Cash Advance,Houston,False,4,5,False,False
+USER_00000043,2025-08-28 12:27:57.478814,65.39,Online Shopping,San Diego,False,12,28,False,False
+USER_00000043,2025-09-13 13:15:57.478814,124.73,Online Shopping,Phoenix,True,13,13,False,False
+USER_00000043,2025-07-08 07:02:57.478814,125.6,Groceries,Other,False,7,8,False,False
+USER_00000043,2025-08-14 10:27:57.478814,146.91,Entertainment,Phoenix,False,10,14,False,False
+USER_00000043,2025-05-02 08:17:57.478814,30.92,Entertainment,Chicago,False,8,2,False,False
+USER_00000043,2025-08-22 18:02:57.478814,54.05,Restaurants,San Antonio,False,18,22,False,False
+USER_00000043,2026-03-29 07:26:57.478814,54.28,Gas Stations,Other,True,7,29,False,False
+USER_00000043,2025-10-23 08:44:57.478814,30.7,Restaurants,Other,False,8,23,False,False
+USER_00000043,2025-05-23 11:59:57.478814,28.41,Restaurants,Dallas,False,11,23,False,False
+USER_00000043,2025-09-05 17:50:57.478814,28.7,Groceries,Dallas,False,17,5,False,False
+USER_00000044,2025-12-11 09:24:57.478814,48.15,Restaurants,New York,False,9,11,False,False
+USER_00000044,2025-04-28 10:05:57.478814,62.06,Online Shopping,New York,False,10,28,False,False
+USER_00000044,2026-01-25 10:27:57.478814,51.59,Groceries,San Jose,True,10,25,False,False
+USER_00000044,2026-02-02 16:55:57.478814,43.14,Restaurants,Other,False,16,2,False,False
+USER_00000044,2025-09-14 02:26:57.478814,181.44,Travel,Phoenix,True,2,14,False,False
+USER_00000044,2025-09-10 11:31:57.478814,62.0,Online Shopping,New York,False,11,10,False,False
+USER_00000044,2026-01-25 09:51:57.478814,220.7,Online Shopping,Houston,True,9,25,False,False
+USER_00000044,2025-07-04 19:11:57.478814,37.2,Restaurants,New York,False,19,4,False,False
+USER_00000044,2025-07-07 02:35:57.478814,86.18,Online Shopping,Los Angeles,False,2,7,False,False
+USER_00000044,2025-05-22 10:41:57.478814,79.88,Groceries,Los Angeles,False,10,22,False,False
+USER_00000044,2025-05-04 08:56:57.478814,209.64,Healthcare,Houston,True,8,4,True,False
+USER_00000044,2026-01-02 05:13:57.478814,131.61,Groceries,San Diego,False,5,2,False,False
+USER_00000044,2025-10-23 11:37:57.478814,68.8,Online Shopping,Los Angeles,False,11,23,False,False
+USER_00000044,2026-03-06 05:26:57.478814,20.97,Restaurants,Dallas,False,5,6,False,False
+USER_00000044,2026-03-27 17:31:57.478814,88.11,Entertainment,Dallas,False,17,27,False,False
+USER_00000044,2025-06-10 06:41:57.478814,68.87,Gas Stations,Los Angeles,False,6,10,False,False
+USER_00000044,2025-09-02 02:51:57.478814,25.53,Gas Stations,New York,False,2,2,False,False
+USER_00000044,2025-06-22 11:41:57.478814,45.78,Groceries,San Jose,True,11,22,False,False
+USER_00000044,2025-12-26 04:57:57.478814,108.92,Online Shopping,San Jose,False,4,26,False,False
+USER_00000044,2025-07-14 01:58:57.478814,202.37,Cash Advance,Dallas,False,1,14,False,False
+USER_00000045,2025-09-05 11:12:57.478814,153.95,Healthcare,Los Angeles,False,11,5,False,False
+USER_00000045,2025-10-10 11:00:57.478814,38.01,Groceries,San Diego,False,11,10,False,False
+USER_00000045,2026-01-09 12:49:57.478814,35.74,Restaurants,Chicago,False,12,9,False,False
+USER_00000045,2026-02-25 11:26:57.478814,125.75,Utilities,New York,False,11,25,False,False
+USER_00000045,2026-01-21 12:31:57.478814,27.91,Gas Stations,Other,False,12,21,False,False
+USER_00000045,2026-02-20 12:43:57.478814,119.34,Online Shopping,New York,False,12,20,False,False
+USER_00000045,2025-10-29 05:00:57.478814,170.11,Utilities,San Jose,False,5,29,False,False
+USER_00000045,2026-01-17 12:54:57.478814,671.89,Travel,Los Angeles,True,12,17,True,False
+USER_00000045,2025-06-01 07:52:57.478814,32.51,Gas Stations,San Antonio,True,7,1,False,False
+USER_00000045,2026-01-11 09:16:57.478814,56.24,Gas Stations,Philadelphia,True,9,11,False,False
+USER_00000045,2026-01-05 03:43:57.478814,15.97,Restaurants,Other,False,3,5,False,False
+USER_00000045,2025-11-10 11:50:57.478814,56.65,Entertainment,Los Angeles,False,11,10,False,False
+USER_00000045,2025-10-28 08:02:57.478814,44.13,Restaurants,Houston,False,8,28,False,False
+USER_00000045,2025-09-17 06:21:57.478814,98.64,Groceries,Los Angeles,False,6,17,False,False
+USER_00000045,2025-08-08 04:05:57.478814,46.19,Restaurants,New York,False,4,8,False,False
+USER_00000045,2025-04-19 11:36:57.478814,112.13,Groceries,Chicago,True,11,19,True,False
+USER_00000045,2026-04-05 11:50:57.478814,96.02,Online Shopping,Houston,True,11,5,False,False
+USER_00000045,2025-08-25 13:46:57.478814,153.75,Online Shopping,San Jose,False,13,25,False,False
+USER_00000045,2025-06-22 00:49:57.478814,127.28,Gas Stations,Phoenix,True,0,22,False,False
+USER_00000045,2025-08-17 04:03:57.478814,27.71,Restaurants,Phoenix,True,4,17,False,False
+USER_00000046,2026-01-20 09:48:57.478814,358.9,Utilities,San Antonio,False,9,20,True,False
+USER_00000046,2025-12-12 01:32:57.478814,116.25,Groceries,San Jose,False,1,12,False,False
+USER_00000046,2025-11-04 09:33:57.478814,56.9,Entertainment,San Diego,False,9,4,True,False
+USER_00000046,2025-12-25 06:29:57.478814,164.27,Utilities,Dallas,False,6,25,False,False
+USER_00000046,2025-09-25 09:05:57.478814,53.05,Gas Stations,San Antonio,False,9,25,False,False
+USER_00000046,2025-10-23 07:37:57.478814,180.83,Online Shopping,Phoenix,False,7,23,False,False
+USER_00000046,2025-04-13 07:59:57.478814,220.14,Utilities,Dallas,True,7,13,False,False
+USER_00000046,2026-01-07 11:15:57.478814,59.14,Groceries,San Diego,False,11,7,False,False
+USER_00000046,2025-10-15 04:53:57.478814,17.65,Gas Stations,San Jose,False,4,15,False,False
+USER_00000046,2025-12-06 06:39:57.478814,69.97,Gas Stations,Dallas,True,6,6,False,False
+USER_00000046,2025-11-15 04:30:57.478814,13.32,Restaurants,San Jose,True,4,15,True,False
+USER_00000046,2025-12-22 08:13:57.478814,75.77,Healthcare,San Diego,False,8,22,False,False
+USER_00000046,2025-06-06 13:00:57.478814,147.19,Utilities,Philadelphia,False,13,6,True,False
+USER_00000046,2025-04-12 02:31:57.478814,81.74,Healthcare,Houston,True,2,12,False,False
+USER_00000046,2025-05-25 10:34:57.478814,87.9,Groceries,Dallas,True,10,25,False,False
+USER_00000046,2025-12-05 08:12:57.478814,64.68,Groceries,Dallas,False,8,5,False,False
+USER_00000046,2026-03-29 07:21:57.478814,177.7,Online Shopping,San Jose,True,7,29,False,False
+USER_00000046,2025-07-19 07:25:57.478814,33.57,Groceries,San Jose,True,7,19,False,False
+USER_00000046,2026-01-24 05:57:57.478814,86.19,Online Shopping,Dallas,True,5,24,False,False
+USER_00000046,2025-04-13 04:47:57.478814,50.11,Gas Stations,San Jose,True,4,13,False,False
+USER_00000047,2025-08-27 09:50:57.478814,122.59,Online Shopping,Chicago,False,9,27,False,False
+USER_00000047,2026-02-25 02:36:57.478814,169.78,Online Shopping,Other,False,2,25,False,False
+USER_00000047,2025-09-15 11:10:57.478814,22.15,Restaurants,Chicago,False,11,15,False,False
+USER_00000047,2025-07-17 07:43:57.478814,59.35,Groceries,Other,False,7,17,False,False
+USER_00000047,2025-05-14 10:58:57.478814,45.11,Restaurants,Philadelphia,False,10,14,False,False
+USER_00000047,2025-10-11 12:19:57.478814,16.66,Gas Stations,Philadelphia,True,12,11,True,False
+USER_00000047,2025-04-24 04:41:57.478814,145.47,Online Shopping,Philadelphia,False,4,24,False,False
+USER_00000047,2025-05-24 21:04:57.478814,95.24,Entertainment,Phoenix,True,21,24,False,False
+USER_00000047,2026-01-13 11:05:57.478814,33.37,Entertainment,Phoenix,False,11,13,False,False
+USER_00000047,2025-05-24 04:46:57.478814,170.85,Cash Advance,Los Angeles,True,4,24,False,False
+USER_00000047,2025-12-17 10:53:57.478814,73.82,Restaurants,San Antonio,False,10,17,False,False
+USER_00000047,2025-07-30 10:04:57.478814,104.31,Groceries,Houston,False,10,30,False,False
+USER_00000047,2026-03-31 01:25:57.478814,43.76,Restaurants,Chicago,False,1,31,False,False
+USER_00000047,2026-01-13 14:00:57.478814,106.68,Entertainment,San Diego,False,14,13,False,False
+USER_00000047,2025-09-11 14:24:57.478814,123.26,Gas Stations,Houston,False,14,11,False,False
+USER_00000047,2025-05-28 09:29:57.478814,151.4,Healthcare,Other,False,9,28,False,False
+USER_00000047,2026-03-16 07:07:57.478814,40.79,Gas Stations,Houston,False,7,16,False,False
+USER_00000047,2026-04-04 08:22:57.478814,295.07,Utilities,San Diego,True,8,4,False,False
+USER_00000047,2025-12-01 08:11:57.478814,163.9,Utilities,New York,False,8,1,False,False
+USER_00000047,2025-06-14 08:59:57.478814,47.16,Groceries,Dallas,True,8,14,False,False
+USER_00000048,2025-10-01 05:49:57.478814,38.17,Gas Stations,San Antonio,False,5,1,True,False
+USER_00000048,2025-04-10 20:30:57.478814,140.28,Online Shopping,Los Angeles,False,20,10,True,False
+USER_00000048,2026-03-24 12:26:57.478814,27.95,Restaurants,Other,False,12,24,False,False
+USER_00000048,2026-03-26 10:15:57.478814,29.02,Restaurants,Philadelphia,False,10,26,False,False
+USER_00000048,2026-01-10 07:05:57.478814,71.8,Online Shopping,San Diego,True,7,10,False,False
+USER_00000048,2026-03-26 03:26:57.478814,153.73,Groceries,Other,False,3,26,False,False
+USER_00000048,2026-03-13 12:35:57.478814,101.11,Online Shopping,Phoenix,False,12,13,False,False
+USER_00000048,2025-06-10 04:18:57.478814,84.08,Online Shopping,Philadelphia,False,4,10,False,False
+USER_00000048,2025-08-07 10:57:57.478814,55.42,Groceries,San Jose,False,10,7,False,False
+USER_00000048,2025-12-06 09:53:57.478814,74.69,Gas Stations,San Diego,True,9,6,False,False
+USER_00000048,2025-11-11 06:29:57.478814,46.62,Restaurants,Philadelphia,False,6,11,False,False
+USER_00000048,2026-02-11 10:10:57.478814,50.58,Entertainment,Dallas,False,10,11,False,False
+USER_00000048,2025-08-12 05:04:57.478814,76.22,Groceries,Dallas,False,5,12,False,False
+USER_00000048,2025-04-16 10:54:57.478814,206.71,Utilities,Dallas,False,10,16,False,False
+USER_00000048,2025-10-16 11:20:57.478814,35.16,Gas Stations,Philadelphia,False,11,16,False,False
+USER_00000048,2025-08-29 04:57:57.478814,34.72,Groceries,Dallas,False,4,29,False,False
+USER_00000048,2025-12-09 12:43:57.478814,64.69,Gas Stations,Chicago,False,12,9,False,False
+USER_00000048,2025-06-02 08:24:57.478814,25.3,Restaurants,Phoenix,False,8,2,False,False
+USER_00000048,2025-10-06 15:25:57.479723,43.62,Restaurants,Los Angeles,False,15,6,True,False
+USER_00000048,2025-06-23 01:25:57.479723,140.89,Online Shopping,San Diego,False,1,23,False,False
+USER_00000049,2025-06-04 05:11:57.479723,51.41,Gas Stations,Other,False,5,4,True,False
+USER_00000049,2025-06-11 22:21:57.479723,60.61,Groceries,Houston,False,22,11,False,False
+USER_00000049,2026-01-15 04:12:57.479723,54.63,Groceries,Philadelphia,False,4,15,False,False
+USER_00000049,2025-09-08 13:39:57.479723,36.79,Entertainment,Philadelphia,False,13,8,False,False
+USER_00000049,2025-11-08 06:55:57.479723,88.25,Online Shopping,Phoenix,True,6,8,False,False
+USER_00000049,2026-03-01 13:05:57.479723,46.51,Restaurants,New York,True,13,1,True,False
+USER_00000049,2025-04-20 03:10:57.479723,301.73,Healthcare,Other,True,3,20,False,False
+USER_00000049,2025-05-30 13:46:57.479723,65.42,Restaurants,San Antonio,False,13,30,False,False
+USER_00000049,2025-04-11 14:01:57.479723,161.31,Healthcare,San Jose,False,14,11,False,False
+USER_00000049,2026-02-07 16:11:57.479723,70.39,Restaurants,San Diego,True,16,7,False,False
+USER_00000049,2025-11-27 11:21:57.479723,64.33,Groceries,New York,False,11,27,False,False
+USER_00000049,2025-09-17 11:46:57.479723,94.39,Utilities,San Jose,False,11,17,True,False
+USER_00000049,2025-08-07 15:16:57.479723,91.45,Restaurants,San Antonio,False,15,7,False,False
+USER_00000049,2026-03-03 01:57:57.479723,195.79,Healthcare,Houston,False,1,3,False,False
+USER_00000049,2026-01-04 06:57:57.479723,16.25,Restaurants,Philadelphia,True,6,4,False,False
+USER_00000049,2025-09-12 07:59:57.479723,261.65,Online Shopping,Dallas,False,7,12,False,False
+USER_00000049,2025-04-19 03:11:57.479723,310.3,Travel,Phoenix,True,3,19,False,False
+USER_00000049,2025-05-10 08:07:57.479723,57.66,Groceries,San Diego,True,8,10,False,False
+USER_00000049,2025-06-06 12:00:57.479723,749.9,Travel,Phoenix,False,12,6,False,False
+USER_00000049,2025-04-22 15:43:57.479723,237.07,Online Shopping,Los Angeles,False,15,22,False,False
+USER_00000050,2025-09-06 12:23:57.479723,72.76,Online Shopping,Houston,True,12,6,False,False
+USER_00000050,2025-10-30 03:14:57.479723,104.33,Gas Stations,Los Angeles,False,3,30,False,False
+USER_00000050,2026-03-14 14:51:57.479723,696.71,Travel,San Antonio,True,14,14,False,False
+USER_00000050,2025-06-18 08:08:57.479723,50.28,Groceries,San Antonio,False,8,18,False,False
+USER_00000050,2026-04-03 04:46:57.479723,30.95,Restaurants,Chicago,False,4,3,False,False
+USER_00000050,2025-08-30 08:10:57.479723,960.37,Travel,San Antonio,True,8,30,False,False
+USER_00000050,2025-04-08 08:18:57.479723,29.79,Entertainment,New York,False,8,8,False,False
+USER_00000050,2026-03-18 07:12:57.479723,149.58,Groceries,New York,False,7,18,False,False
+USER_00000050,2025-11-06 08:13:57.479723,76.34,Gas Stations,Dallas,False,8,6,False,False
+USER_00000050,2026-02-16 02:31:57.479723,64.5,Gas Stations,Philadelphia,False,2,16,False,False
+USER_00000050,2025-10-12 14:10:57.479723,37.38,Restaurants,Phoenix,True,14,12,False,False
+USER_00000050,2026-01-01 08:42:57.479723,93.73,Restaurants,Philadelphia,False,8,1,False,False
+USER_00000050,2025-12-23 16:30:57.479723,346.01,Online Shopping,Philadelphia,False,16,23,False,False
+USER_00000050,2025-07-31 17:37:57.479723,55.14,Groceries,New York,False,17,31,False,False
+USER_00000050,2025-12-11 09:33:57.479723,203.72,Healthcare,Phoenix,False,9,11,False,False
+USER_00000050,2025-04-18 07:08:57.479723,382.92,Healthcare,Dallas,False,7,18,False,False
+USER_00000050,2025-08-22 02:41:57.479723,23.64,Restaurants,Houston,False,2,22,False,False
+USER_00000050,2026-01-30 23:27:57.479723,39.52,Restaurants,Chicago,False,23,30,False,False
+USER_00000050,2025-05-07 04:16:57.479723,57.82,Restaurants,New York,False,4,7,False,False
+USER_00000050,2025-07-19 06:43:57.479723,18.26,Gas Stations,Los Angeles,True,6,19,False,False
+USER_00000051,2025-06-16 08:55:57.479723,98.36,Entertainment,Chicago,False,8,16,False,False
+USER_00000051,2025-08-07 15:51:57.479723,20.31,Restaurants,Houston,False,15,7,True,False
+USER_00000051,2025-10-03 09:48:57.479723,132.11,Online Shopping,San Antonio,False,9,3,False,False
+USER_00000051,2025-08-04 04:08:57.479723,62.02,Restaurants,Philadelphia,False,4,4,False,False
+USER_00000051,2025-12-03 05:35:57.479723,10.6,Restaurants,Other,False,5,3,False,False
+USER_00000051,2025-07-13 14:47:57.479723,111.1,Groceries,San Diego,True,14,13,False,False
+USER_00000051,2025-11-27 07:02:57.479723,519.54,Groceries,Dallas,False,7,27,False,True
+USER_00000051,2025-08-13 07:17:57.479723,57.45,Groceries,Philadelphia,False,7,13,False,False
+USER_00000051,2026-03-20 08:22:57.479723,46.7,Restaurants,San Antonio,False,8,20,False,False
+USER_00000051,2026-02-26 10:19:57.479723,877.34,Travel,Houston,False,10,26,False,False
+USER_00000051,2026-03-17 07:12:57.479723,67.64,Healthcare,Los Angeles,False,7,17,False,False
+USER_00000051,2025-08-25 06:39:57.479723,51.11,Restaurants,Dallas,False,6,25,False,False
+USER_00000051,2025-04-17 11:57:57.479723,125.13,Groceries,Dallas,False,11,17,False,False
+USER_00000051,2025-06-29 07:46:57.479723,103.21,Groceries,Houston,True,7,29,False,False
+USER_00000051,2026-03-30 10:00:57.479723,91.37,Restaurants,Chicago,False,10,30,False,True
+USER_00000051,2025-12-28 14:54:57.479723,30.32,Gas Stations,San Jose,True,14,28,False,False
+USER_00000051,2025-08-10 12:02:57.479723,100.26,Gas Stations,Other,True,12,10,False,False
+USER_00000051,2026-01-10 15:35:57.479723,76.31,Groceries,Philadelphia,True,15,10,False,False
+USER_00000051,2025-06-13 05:38:57.479723,47.73,Groceries,Chicago,False,5,13,False,False
+USER_00000051,2026-03-24 07:38:57.479723,63.97,Groceries,New York,False,7,24,False,False
+USER_00000052,2025-05-08 10:34:57.479723,90.17,Groceries,Houston,False,10,8,False,False
+USER_00000052,2026-04-05 03:56:57.479723,29.78,Entertainment,New York,True,3,5,False,False
+USER_00000052,2025-06-18 08:44:57.479723,75.68,Groceries,Los Angeles,False,8,18,False,False
+USER_00000052,2025-05-17 14:43:57.479723,40.59,Gas Stations,Chicago,True,14,17,False,False
+USER_00000052,2026-02-25 11:10:57.479723,234.04,Online Shopping,San Diego,False,11,25,False,False
+USER_00000052,2025-05-24 03:00:57.479723,176.23,Travel,San Jose,True,3,24,False,False
+USER_00000052,2025-05-26 11:24:57.479723,719.55,Travel,Houston,False,11,26,False,False
+USER_00000052,2025-12-17 08:07:57.479723,132.02,Entertainment,Houston,False,8,17,False,False
+USER_00000052,2026-03-24 06:53:57.479723,29.93,Groceries,San Jose,False,6,24,False,False
+USER_00000052,2025-08-19 07:19:57.479723,50.85,Online Shopping,Dallas,False,7,19,False,False
+USER_00000052,2026-01-12 23:43:57.479723,366.35,Healthcare,San Antonio,False,23,12,False,False
+USER_00000052,2025-11-28 14:07:57.479723,47.72,Groceries,Los Angeles,False,14,28,False,False
+USER_00000052,2025-08-19 13:52:57.479723,234.97,Gas Stations,Chicago,False,13,19,False,False
+USER_00000052,2025-05-16 13:30:57.479723,182.42,Travel,Houston,False,13,16,False,False
+USER_00000052,2025-11-13 10:41:57.479723,54.44,Gas Stations,Houston,False,10,13,False,False
+USER_00000052,2025-04-27 04:58:57.479723,74.13,Groceries,San Jose,True,4,27,False,False
+USER_00000052,2026-03-10 13:39:57.479723,67.59,Groceries,San Diego,False,13,10,False,False
+USER_00000052,2026-01-31 05:11:57.479723,44.12,Restaurants,San Jose,True,5,31,False,False
+USER_00000052,2025-10-26 08:57:57.479723,97.3,Groceries,San Jose,True,8,26,False,False
+USER_00000052,2025-08-21 13:46:57.479723,110.35,Online Shopping,Philadelphia,False,13,21,False,False
+USER_00000053,2025-07-20 16:35:57.479723,39.15,Entertainment,Chicago,True,16,20,False,False
+USER_00000053,2025-10-25 15:50:57.479723,126.64,Groceries,Other,True,15,25,False,False
+USER_00000053,2025-06-10 11:55:57.479723,616.02,Travel,Dallas,False,11,10,False,False
+USER_00000053,2025-06-08 10:14:57.479723,52.95,Gas Stations,San Jose,True,10,8,False,False
+USER_00000053,2025-06-24 04:11:57.479723,101.06,Groceries,San Diego,False,4,24,False,False
+USER_00000053,2026-03-28 06:18:57.479723,95.47,Entertainment,Dallas,True,6,28,False,False
+USER_00000053,2025-09-24 12:29:57.479723,102.49,Healthcare,Phoenix,False,12,24,True,False
+USER_00000053,2025-12-10 07:31:57.479723,158.83,Online Shopping,Chicago,False,7,10,False,False
+USER_00000053,2025-07-11 02:29:57.479723,341.29,Travel,Houston,False,2,11,False,False
+USER_00000053,2026-01-17 01:55:57.479723,97.07,Entertainment,Phoenix,True,1,17,False,False
+USER_00000053,2026-01-04 10:27:57.479723,408.73,Travel,Dallas,True,10,4,False,False
+USER_00000053,2025-07-15 05:48:57.479723,67.89,Gas Stations,Dallas,False,5,15,False,False
+USER_00000053,2025-05-10 04:18:57.479723,52.33,Entertainment,Chicago,True,4,10,False,False
+USER_00000053,2025-04-22 15:49:57.479723,76.65,Other,San Antonio,False,15,22,False,False
+USER_00000053,2025-04-11 11:37:57.479723,39.85,Entertainment,Philadelphia,False,11,11,False,False
+USER_00000053,2025-07-24 00:49:57.479723,76.37,Groceries,Houston,False,0,24,False,False
+USER_00000053,2025-11-25 11:10:57.479723,81.64,Gas Stations,Phoenix,False,11,25,False,False
+USER_00000053,2025-07-05 20:44:57.479723,151.58,Online Shopping,San Jose,True,20,5,False,False
+USER_00000053,2025-07-17 09:41:57.479723,82.56,Groceries,Los Angeles,False,9,17,False,False
+USER_00000053,2025-10-18 04:38:57.479723,492.8,Cash Advance,Other,True,4,18,False,False
+USER_00000054,2026-04-06 08:35:57.479723,125.12,Groceries,San Antonio,False,8,6,False,False
+USER_00000054,2025-05-29 06:25:57.479723,115.04,Groceries,Houston,False,6,29,False,False
+USER_00000054,2026-02-02 06:09:57.479723,250.13,Utilities,Los Angeles,False,6,2,False,False
+USER_00000054,2025-06-27 11:12:57.479723,73.95,Gas Stations,Other,False,11,27,False,False
+USER_00000054,2025-12-07 11:41:57.479723,171.75,Groceries,Philadelphia,True,11,7,False,False
+USER_00000054,2025-12-21 08:45:57.479723,97.38,Online Shopping,Other,True,8,21,False,False
+USER_00000054,2025-10-14 09:19:57.479723,198.78,Online Shopping,Los Angeles,False,9,14,False,False
+USER_00000054,2025-09-15 08:30:57.479723,89.63,Groceries,San Jose,False,8,15,False,False
+USER_00000054,2025-10-24 08:50:57.479723,165.13,Cash Advance,Los Angeles,False,8,24,False,False
+USER_00000054,2025-06-06 12:16:57.479723,47.57,Gas Stations,San Antonio,False,12,6,False,False
+USER_00000054,2025-12-08 05:27:57.479723,133.9,Online Shopping,New York,False,5,8,False,False
+USER_00000054,2026-02-22 06:42:57.479723,32.53,Gas Stations,San Antonio,True,6,22,False,False
+USER_00000054,2025-05-30 15:15:57.479723,184.84,Online Shopping,San Jose,False,15,30,False,False
+USER_00000054,2025-11-02 10:46:57.479723,33.25,Restaurants,Phoenix,True,10,2,False,False
+USER_00000054,2025-09-12 08:32:57.479723,36.52,Restaurants,New York,False,8,12,False,False
+USER_00000054,2025-12-20 12:13:57.479723,98.56,Gas Stations,Philadelphia,True,12,20,False,False
+USER_00000054,2025-07-30 06:40:57.479723,160.05,Healthcare,San Antonio,False,6,30,False,False
+USER_00000054,2025-05-08 09:26:57.479723,163.01,Groceries,New York,False,9,8,False,False
+USER_00000054,2025-11-28 09:08:57.479723,92.3,Online Shopping,Dallas,False,9,28,False,False
+USER_00000054,2025-06-18 10:45:57.479723,86.67,Healthcare,San Antonio,False,10,18,False,False
+USER_00000055,2026-03-18 17:08:57.479723,64.88,Groceries,New York,False,17,18,False,False
+USER_00000055,2025-06-29 18:18:57.479723,18.36,Groceries,Chicago,True,18,29,False,False
+USER_00000055,2025-06-26 06:54:57.479723,55.05,Restaurants,Phoenix,False,6,26,False,False
+USER_00000055,2026-04-06 08:04:57.479723,71.38,Online Shopping,Houston,False,8,6,False,False
+USER_00000055,2025-12-09 07:29:57.479723,55.07,Groceries,Los Angeles,False,7,9,False,False
+USER_00000055,2026-03-03 08:32:57.479723,50.07,Restaurants,New York,False,8,3,False,False
+USER_00000055,2025-09-21 09:13:57.479723,127.36,Online Shopping,Houston,True,9,21,False,False
+USER_00000055,2025-08-05 06:11:57.479723,96.28,Online Shopping,San Antonio,False,6,5,False,False
+USER_00000055,2026-02-07 07:29:57.479723,12.64,Restaurants,Other,True,7,7,False,False
+USER_00000055,2025-05-17 05:19:57.479723,67.07,Restaurants,Houston,True,5,17,False,False
+USER_00000055,2025-10-28 08:52:57.479723,93.31,Entertainment,Dallas,False,8,28,True,False
+USER_00000055,2025-10-10 11:05:57.479723,503.11,Utilities,San Diego,False,11,10,False,False
+USER_00000055,2025-09-13 09:07:57.479723,333.97,Travel,San Diego,True,9,13,False,False
+USER_00000055,2026-03-26 12:43:57.479723,57.99,Online Shopping,Phoenix,False,12,26,False,False
+USER_00000055,2025-07-05 10:47:57.479723,57.55,Restaurants,New York,True,10,5,False,False
+USER_00000055,2025-10-08 08:58:57.479723,31.86,Restaurants,Dallas,False,8,8,True,False
+USER_00000055,2025-08-08 09:00:57.479723,102.68,Groceries,Los Angeles,False,9,8,False,False
+USER_00000055,2025-09-03 10:11:57.479723,168.59,Groceries,Philadelphia,False,10,3,True,False
+USER_00000055,2025-07-30 14:49:57.479723,145.7,Online Shopping,San Jose,False,14,30,False,False
+USER_00000055,2025-06-12 06:47:57.479723,38.05,Restaurants,Phoenix,False,6,12,False,False
+USER_00000056,2025-12-02 05:46:57.479723,39.27,Restaurants,San Jose,False,5,2,False,False
+USER_00000056,2025-09-02 03:20:57.479723,24.26,Other,San Diego,False,3,2,False,False
+USER_00000056,2025-06-05 08:14:57.479723,130.52,Groceries,Other,False,8,5,False,False
+USER_00000056,2025-06-26 08:30:57.479723,134.76,Groceries,Chicago,False,8,26,False,False
+USER_00000056,2025-10-04 14:05:57.479723,97.79,Groceries,Philadelphia,True,14,4,False,False
+USER_00000056,2026-02-27 03:40:57.479723,56.25,Online Shopping,Philadelphia,False,3,27,False,False
+USER_00000056,2025-08-27 08:48:57.479723,112.95,Online Shopping,San Jose,False,8,27,False,False
+USER_00000056,2025-10-05 08:26:57.479723,71.85,Restaurants,Chicago,True,8,5,False,False
+USER_00000056,2025-10-11 10:28:57.479723,37.68,Gas Stations,San Antonio,True,10,11,False,False
+USER_00000056,2025-06-17 10:49:57.479723,271.17,Healthcare,Other,False,10,17,False,False
+USER_00000056,2025-05-02 06:42:57.479723,154.19,Healthcare,Houston,False,6,2,False,False
+USER_00000056,2025-11-07 14:09:57.479723,257.03,Utilities,Phoenix,False,14,7,False,False
+USER_00000056,2025-12-02 03:19:57.479723,122.07,Healthcare,Dallas,False,3,2,False,False
+USER_00000056,2025-06-10 03:54:57.479723,125.17,Online Shopping,Philadelphia,False,3,10,False,False
+USER_00000056,2025-06-03 10:42:57.479723,93.3,Groceries,San Jose,False,10,3,False,False
+USER_00000056,2025-05-06 12:38:57.479723,43.64,Groceries,Houston,False,12,6,False,False
+USER_00000056,2025-08-16 17:33:57.479723,86.01,Groceries,San Diego,True,17,16,False,False
+USER_00000056,2026-03-30 15:08:57.479723,31.29,Online Shopping,Dallas,False,15,30,False,False
+USER_00000056,2025-05-01 06:55:57.479723,111.04,Healthcare,San Jose,False,6,1,False,False
+USER_00000056,2025-11-29 07:41:57.479723,65.63,Gas Stations,Phoenix,True,7,29,False,False
+USER_00000057,2025-07-17 08:07:57.479723,131.32,Groceries,Los Angeles,False,8,17,False,False
+USER_00000057,2025-11-01 17:11:57.479723,63.33,Gas Stations,Philadelphia,True,17,1,False,False
+USER_00000057,2025-04-20 10:31:57.479723,89.82,Utilities,Other,True,10,20,False,False
+USER_00000057,2025-04-14 04:18:57.479723,201.12,Online Shopping,San Diego,False,4,14,False,False
+USER_00000057,2026-04-02 09:49:57.479723,84.86,Healthcare,Phoenix,False,9,2,False,False
+USER_00000057,2026-01-11 14:41:57.479723,203.92,Healthcare,New York,True,14,11,False,False
+USER_00000057,2025-10-14 10:22:57.479723,103.55,Utilities,San Diego,False,10,14,False,False
+USER_00000057,2025-06-21 12:44:57.479723,44.16,Entertainment,Dallas,True,12,21,False,False
+USER_00000057,2025-09-26 07:51:57.479723,40.29,Entertainment,New York,False,7,26,False,False
+USER_00000057,2025-05-31 08:57:57.479723,80.4,Groceries,San Diego,True,8,31,False,False
+USER_00000057,2025-12-09 07:06:57.479723,68.01,Groceries,San Jose,False,7,9,False,False
+USER_00000057,2025-09-01 13:35:57.479723,64.49,Gas Stations,Los Angeles,False,13,1,False,False
+USER_00000057,2025-12-14 10:24:57.479723,74.3,Groceries,Houston,True,10,14,False,False
+USER_00000057,2025-11-13 04:56:57.479723,93.63,Cash Advance,Los Angeles,False,4,13,False,False
+USER_00000057,2026-03-12 14:59:57.479723,40.18,Restaurants,Los Angeles,False,14,12,True,False
+USER_00000057,2025-11-22 13:48:57.479723,186.45,Travel,San Jose,True,13,22,False,False
+USER_00000057,2025-06-08 08:37:57.479723,22.5,Restaurants,Chicago,True,8,8,False,False
+USER_00000057,2025-08-18 07:41:57.479723,29.18,Restaurants,San Diego,False,7,18,False,False
+USER_00000057,2026-01-21 10:29:57.479723,144.95,Utilities,Houston,False,10,21,False,False
+USER_00000057,2025-05-14 10:44:57.479723,15.36,Restaurants,San Antonio,False,10,14,False,False
+USER_00000058,2025-04-27 06:57:57.479723,69.47,Restaurants,San Jose,True,6,27,False,False
+USER_00000058,2025-06-09 05:34:57.479723,170.97,Groceries,Chicago,False,5,9,False,False
+USER_00000058,2025-06-22 13:45:57.479723,369.77,Online Shopping,San Jose,True,13,22,False,False
+USER_00000058,2026-04-06 08:00:57.479723,62.13,Restaurants,Other,False,8,6,False,False
+USER_00000058,2025-11-11 03:01:57.479723,98.47,Online Shopping,Chicago,False,3,11,False,False
+USER_00000058,2025-06-24 10:19:57.479723,97.63,Online Shopping,Los Angeles,False,10,24,False,False
+USER_00000058,2025-11-16 13:34:57.479723,51.44,Entertainment,Philadelphia,True,13,16,False,False
+USER_00000058,2026-02-13 13:24:57.479723,175.42,Entertainment,Philadelphia,False,13,13,False,False
+USER_00000058,2025-06-07 10:14:57.479723,117.98,Gas Stations,New York,True,10,7,False,False
+USER_00000058,2026-01-28 05:19:57.479723,66.02,Restaurants,San Antonio,False,5,28,False,False
+USER_00000058,2025-04-11 10:16:57.479723,816.45,Travel,Houston,False,10,11,False,False
+USER_00000058,2026-01-07 09:00:57.479723,38.48,Restaurants,Other,False,9,7,False,False
+USER_00000058,2025-08-30 13:21:57.479723,24.2,Gas Stations,Chicago,True,13,30,False,False
+USER_00000058,2025-09-27 05:34:57.479723,33.39,Restaurants,San Diego,True,5,27,False,False
+USER_00000058,2026-02-03 13:59:57.479723,1210.78,Travel,Los Angeles,False,13,3,True,False
+USER_00000058,2026-01-24 11:43:57.479723,94.73,Gas Stations,Dallas,True,11,24,False,False
+USER_00000058,2025-10-28 06:28:57.479723,35.34,Restaurants,San Diego,False,6,28,False,False
+USER_00000058,2025-10-20 17:52:57.479723,65.57,Online Shopping,San Diego,False,17,20,False,False
+USER_00000058,2026-01-08 08:36:57.479723,196.65,Online Shopping,Chicago,False,8,8,False,False
+USER_00000058,2025-10-13 13:52:57.479723,66.93,Groceries,Houston,False,13,13,False,False
+USER_00000059,2025-07-12 08:36:57.479723,14.0,Gas Stations,Los Angeles,True,8,12,False,False
+USER_00000059,2026-01-24 10:43:57.479723,76.47,Entertainment,Los Angeles,True,10,24,False,False
+USER_00000059,2025-08-05 00:35:57.479723,70.65,Other,Houston,False,0,5,True,False
+USER_00000059,2026-01-20 10:32:57.479723,78.73,Online Shopping,Philadelphia,False,10,20,False,False
+USER_00000059,2025-10-30 01:40:57.479723,31.8,Restaurants,Phoenix,False,1,30,False,False
+USER_00000059,2025-05-18 06:49:57.479723,104.2,Groceries,New York,True,6,18,False,False
+USER_00000059,2025-12-30 12:28:57.479723,531.2,Travel,San Jose,False,12,30,False,False
+USER_00000059,2025-12-26 07:59:57.479723,68.67,Healthcare,New York,False,7,26,True,False
+USER_00000059,2025-11-26 10:34:57.479723,140.37,Groceries,Philadelphia,False,10,26,False,False
+USER_00000059,2025-12-26 08:23:57.479723,176.03,Groceries,Chicago,False,8,26,False,False
+USER_00000059,2026-03-19 11:57:57.479723,50.36,Entertainment,Chicago,False,11,19,True,False
+USER_00000059,2026-01-15 03:07:57.479723,13.47,Restaurants,San Antonio,False,3,15,False,False
+USER_00000059,2025-07-02 05:26:57.479723,51.47,Restaurants,New York,False,5,2,False,False
+USER_00000059,2025-05-03 08:36:57.479723,53.57,Groceries,New York,True,8,3,False,False
+USER_00000059,2025-04-07 03:10:57.479723,45.74,Restaurants,San Jose,False,3,7,False,False
+USER_00000059,2025-05-11 09:08:57.479723,105.26,Restaurants,Chicago,True,9,11,False,False
+USER_00000059,2025-11-29 04:56:57.479723,30.0,Entertainment,San Diego,True,4,29,True,False
+USER_00000059,2025-04-28 09:19:57.479723,23.5,Restaurants,New York,False,9,28,False,False
+USER_00000059,2025-06-01 08:07:57.479723,31.76,Restaurants,San Jose,True,8,1,False,False
+USER_00000059,2026-01-08 09:53:57.479723,66.77,Restaurants,Houston,False,9,8,False,False
+USER_00000060,2025-09-06 08:39:57.479723,295.84,Gas Stations,Dallas,True,8,6,False,False
+USER_00000060,2025-11-15 08:53:57.479723,84.86,Groceries,Houston,True,8,15,False,False
+USER_00000060,2026-02-01 11:47:57.479723,22.11,Gas Stations,San Jose,True,11,1,False,False
+USER_00000060,2026-01-21 11:20:57.479723,54.69,Entertainment,San Diego,False,11,21,False,False
+USER_00000060,2025-09-20 10:01:57.479723,50.91,Groceries,San Antonio,True,10,20,False,False
+USER_00000060,2025-11-15 08:34:57.479723,107.58,Groceries,Chicago,True,8,15,True,False
+USER_00000060,2025-05-26 10:01:57.479723,90.55,Groceries,San Antonio,False,10,26,False,False
+USER_00000060,2026-01-04 04:33:57.479723,29.7,Gas Stations,San Antonio,True,4,4,False,False
+USER_00000060,2025-06-06 05:26:57.479723,296.64,Travel,San Jose,False,5,6,False,False
+USER_00000060,2025-08-26 09:33:57.479723,62.64,Groceries,Chicago,False,9,26,True,False
+USER_00000060,2025-06-20 03:28:57.479723,159.7,Utilities,Los Angeles,False,3,20,False,False
+USER_00000060,2025-12-26 01:23:57.479723,73.43,Groceries,Dallas,False,1,26,False,False
+USER_00000060,2025-07-14 17:34:57.479723,461.13,Travel,New York,False,17,14,False,False
+USER_00000060,2025-04-17 06:11:57.479723,92.71,Gas Stations,San Antonio,False,6,17,False,False
+USER_00000060,2025-12-18 11:28:57.479723,98.43,Online Shopping,Houston,False,11,18,False,False
+USER_00000060,2025-05-12 06:02:57.479723,38.1,Gas Stations,Los Angeles,False,6,12,False,False
+USER_00000060,2025-07-16 04:27:57.479723,25.6,Gas Stations,Los Angeles,False,4,16,False,False
+USER_00000060,2026-04-04 13:19:57.479723,402.35,Travel,San Diego,True,13,4,False,False
+USER_00000060,2026-01-12 16:52:57.479723,73.88,Entertainment,San Antonio,False,16,12,False,False
+USER_00000060,2025-06-29 05:39:57.479723,21.11,Gas Stations,San Antonio,True,5,29,False,False
+USER_00000061,2025-05-14 08:52:57.479723,63.2,Groceries,Phoenix,False,8,14,False,False
+USER_00000061,2025-06-07 15:25:57.479723,133.97,Groceries,San Jose,True,15,7,False,False
+USER_00000061,2025-12-11 23:00:57.479723,207.43,Healthcare,San Diego,False,23,11,False,False
+USER_00000061,2025-08-29 06:29:57.479723,60.26,Gas Stations,Los Angeles,False,6,29,False,False
+USER_00000061,2025-11-04 06:30:57.479723,68.21,Gas Stations,Los Angeles,False,6,4,False,False
+USER_00000061,2025-11-05 04:03:57.479723,90.07,Online Shopping,Phoenix,False,4,5,False,False
+USER_00000061,2026-03-26 12:08:57.479723,316.01,Travel,New York,False,12,26,False,False
+USER_00000061,2025-11-25 09:00:57.479723,226.66,Online Shopping,Philadelphia,False,9,25,True,False
+USER_00000061,2025-06-07 14:55:57.479723,98.37,Entertainment,Houston,True,14,7,False,False
+USER_00000061,2025-06-18 12:07:57.479723,44.76,Entertainment,Philadelphia,False,12,18,False,False
+USER_00000061,2025-06-11 07:46:57.479723,13.68,Restaurants,San Antonio,False,7,11,True,False
+USER_00000061,2025-08-22 16:02:57.479723,24.35,Restaurants,Chicago,False,16,22,False,False
+USER_00000061,2025-07-10 12:08:57.479723,196.84,Healthcare,Other,False,12,10,False,False
+USER_00000061,2026-02-23 13:06:57.479723,25.18,Restaurants,San Diego,False,13,23,False,False
+USER_00000061,2025-04-29 08:33:57.479723,212.3,Utilities,San Antonio,False,8,29,False,False
+USER_00000061,2025-05-16 06:46:57.479723,152.53,Groceries,New York,False,6,16,False,False
+USER_00000061,2025-06-09 07:10:57.479723,71.59,Groceries,Philadelphia,False,7,9,False,False
+USER_00000061,2025-04-08 06:04:57.479723,202.34,Utilities,San Antonio,False,6,8,False,False
+USER_00000061,2026-03-17 03:53:57.479723,169.01,Online Shopping,Other,False,3,17,False,False
+USER_00000061,2025-12-21 06:38:57.479723,20.37,Restaurants,Houston,True,6,21,False,False
+USER_00000062,2025-05-06 02:05:57.479723,44.16,Entertainment,Los Angeles,False,2,6,False,False
+USER_00000062,2025-06-08 09:09:57.479723,172.53,Online Shopping,San Jose,True,9,8,False,False
+USER_00000062,2025-12-11 09:47:57.479723,50.93,Gas Stations,Dallas,False,9,11,False,False
+USER_00000062,2025-12-04 06:47:57.479723,79.71,Groceries,San Antonio,False,6,4,False,False
+USER_00000062,2025-06-30 10:03:57.479723,152.52,Healthcare,New York,False,10,30,False,False
+USER_00000062,2025-06-19 01:31:57.479723,733.92,Travel,San Diego,False,1,19,False,False
+USER_00000062,2025-09-16 05:04:57.479723,93.26,Groceries,Chicago,False,5,16,False,False
+USER_00000062,2026-02-15 05:38:57.479723,563.21,Travel,Houston,True,5,15,False,False
+USER_00000062,2025-07-10 08:39:57.479723,829.1,Travel,Phoenix,False,8,10,False,False
+USER_00000062,2025-05-18 11:16:57.479723,111.64,Gas Stations,New York,True,11,18,False,False
+USER_00000062,2025-07-04 06:26:57.479723,368.44,Online Shopping,Philadelphia,False,6,4,False,False
+USER_00000062,2025-11-17 13:39:57.479723,26.2,Restaurants,San Jose,False,13,17,False,False
+USER_00000062,2025-07-06 02:30:57.479723,120.31,Restaurants,Philadelphia,True,2,6,False,False
+USER_00000062,2025-06-21 10:19:57.479723,37.56,Entertainment,Los Angeles,True,10,21,False,False
+USER_00000062,2025-05-08 07:24:57.479723,1184.26,Travel,Other,False,7,8,False,False
+USER_00000062,2026-02-14 12:49:57.479723,87.4,Online Shopping,San Jose,True,12,14,True,False
+USER_00000062,2026-03-11 07:21:57.479723,48.31,Gas Stations,Philadelphia,False,7,11,False,False
+USER_00000062,2025-11-01 11:18:57.479723,75.7,Groceries,San Diego,True,11,1,False,False
+USER_00000062,2025-08-11 06:28:57.479723,48.62,Groceries,Philadelphia,False,6,11,False,False
+USER_00000062,2025-11-02 06:13:57.479723,52.22,Gas Stations,Houston,True,6,2,False,False
+USER_00000063,2025-06-20 11:51:57.479723,49.89,Groceries,Houston,False,11,20,False,False
+USER_00000063,2025-11-22 13:41:57.479723,64.72,Online Shopping,Dallas,True,13,22,False,False
+USER_00000063,2025-11-14 02:42:57.479723,34.33,Restaurants,Philadelphia,False,2,14,False,False
+USER_00000063,2025-12-22 10:10:57.479723,143.93,Entertainment,San Diego,False,10,22,False,False
+USER_00000063,2025-10-31 08:44:57.479723,30.83,Restaurants,San Diego,False,8,31,False,False
+USER_00000063,2025-11-12 08:18:57.479723,192.1,Online Shopping,San Antonio,False,8,12,False,False
+USER_00000063,2026-04-05 14:25:57.479723,32.76,Gas Stations,Chicago,True,14,5,False,False
+USER_00000063,2026-01-20 08:13:57.479723,39.48,Groceries,San Jose,False,8,20,False,False
+USER_00000063,2025-11-26 09:13:57.479723,94.11,Groceries,New York,False,9,26,False,False
+USER_00000063,2026-01-07 11:45:57.479723,84.2,Restaurants,Phoenix,False,11,7,False,False
+USER_00000063,2025-04-27 13:56:57.479723,499.56,Travel,San Jose,True,13,27,False,False
+USER_00000063,2025-04-22 06:23:57.479723,113.39,Groceries,San Jose,False,6,22,False,False
+USER_00000063,2025-07-18 04:32:57.479723,137.27,Entertainment,Los Angeles,False,4,18,False,False
+USER_00000063,2025-04-21 09:02:57.479723,196.38,Cash Advance,San Jose,False,9,21,False,False
+USER_00000063,2025-12-20 15:15:57.479723,139.02,Healthcare,Los Angeles,True,15,20,False,False
+USER_00000063,2026-01-23 14:22:57.479723,94.97,Groceries,San Antonio,False,14,23,False,False
+USER_00000063,2026-02-27 10:55:57.479723,249.13,Utilities,Other,False,10,27,False,False
+USER_00000063,2025-10-30 02:34:57.479723,37.26,Groceries,Chicago,False,2,30,False,False
+USER_00000063,2026-01-26 09:44:57.479723,57.97,Gas Stations,San Diego,False,9,26,False,False
+USER_00000063,2025-05-30 11:09:57.479723,449.85,Travel,Dallas,False,11,30,False,False
+USER_00000064,2025-08-09 16:02:57.479723,80.86,Online Shopping,San Diego,True,16,9,False,False
+USER_00000064,2025-06-13 11:53:57.479723,33.8,Restaurants,Philadelphia,False,11,13,False,False
+USER_00000064,2026-03-02 14:02:57.479723,19.54,Restaurants,Phoenix,False,14,2,False,False
+USER_00000064,2026-01-13 13:34:57.479723,16.44,Restaurants,Chicago,False,13,13,False,False
+USER_00000064,2025-07-18 09:14:57.479723,51.7,Gas Stations,Chicago,False,9,18,False,False
+USER_00000064,2025-06-01 11:06:57.479723,54.95,Restaurants,San Antonio,True,11,1,False,False
+USER_00000064,2025-10-17 03:18:57.479723,168.12,Cash Advance,Phoenix,False,3,17,False,False
+USER_00000064,2025-10-16 04:25:57.479723,111.34,Utilities,Philadelphia,False,4,16,False,False
+USER_00000064,2025-04-10 11:26:57.479723,300.85,Travel,Philadelphia,False,11,10,False,False
+USER_00000064,2026-02-19 12:52:57.479723,46.05,Restaurants,Dallas,False,12,19,False,False
+USER_00000064,2025-11-17 03:31:57.479723,276.22,Online Shopping,New York,False,3,17,False,False
+USER_00000064,2025-12-10 02:43:57.479723,264.59,Utilities,San Diego,False,2,10,False,False
+USER_00000064,2025-07-04 17:45:57.479723,862.33,Travel,San Jose,False,17,4,False,False
+USER_00000064,2025-09-05 08:40:57.479723,20.73,Restaurants,Phoenix,False,8,5,False,False
+USER_00000064,2025-08-30 11:04:57.479723,72.28,Groceries,Philadelphia,True,11,30,False,False
+USER_00000064,2026-03-12 06:47:57.479723,124.82,Groceries,Philadelphia,False,6,12,False,False
+USER_00000064,2026-03-29 01:33:57.479723,59.61,Online Shopping,New York,True,1,29,False,False
+USER_00000064,2025-07-10 10:50:57.479723,86.34,Online Shopping,Chicago,False,10,10,False,False
+USER_00000064,2026-03-28 18:10:57.479723,720.72,Travel,Philadelphia,True,18,28,False,False
+USER_00000064,2025-12-07 07:09:57.479723,39.83,Restaurants,Other,True,7,7,False,False
+USER_00000065,2025-12-03 03:27:57.479723,46.29,Groceries,Other,False,3,3,False,False
+USER_00000065,2025-10-19 10:50:57.479723,15.49,Restaurants,Dallas,True,10,19,True,False
+USER_00000065,2026-01-25 11:54:57.479723,68.31,Restaurants,Philadelphia,True,11,25,False,False
+USER_00000065,2025-11-06 10:40:57.479723,26.86,Groceries,Philadelphia,False,10,6,False,False
+USER_00000065,2025-09-11 05:34:57.479723,164.63,Online Shopping,New York,False,5,11,False,False
+USER_00000065,2026-02-17 10:47:57.479723,38.3,Gas Stations,Dallas,False,10,17,False,False
+USER_00000065,2025-11-04 07:25:57.479723,109.72,Entertainment,Houston,False,7,4,False,False
+USER_00000065,2025-04-25 08:39:57.479723,20.79,Restaurants,Los Angeles,False,8,25,False,False
+USER_00000065,2025-06-18 10:13:57.479723,129.38,Restaurants,New York,False,10,18,False,False
+USER_00000065,2026-01-29 06:52:57.479723,61.14,Gas Stations,Chicago,False,6,29,False,False
+USER_00000065,2026-02-16 11:17:57.479723,597.52,Travel,Chicago,False,11,16,False,False
+USER_00000065,2025-11-06 10:26:57.479723,50.96,Groceries,Phoenix,False,10,6,False,False
+USER_00000065,2026-03-19 06:22:57.479723,140.32,Healthcare,New York,False,6,19,False,False
+USER_00000065,2025-12-28 13:16:57.479723,33.17,Restaurants,San Antonio,True,13,28,False,False
+USER_00000065,2026-02-06 12:25:57.479723,1104.65,Travel,New York,False,12,6,False,False
+USER_00000065,2025-10-22 14:56:57.479723,183.26,Healthcare,Houston,False,14,22,False,False
+USER_00000065,2025-09-17 06:02:57.479723,45.94,Restaurants,Philadelphia,False,6,17,False,False
+USER_00000065,2025-04-27 09:55:57.479723,156.62,Online Shopping,New York,True,9,27,False,False
+USER_00000065,2025-11-12 15:07:57.479723,102.7,Groceries,San Antonio,False,15,12,True,False
+USER_00000065,2025-10-25 05:27:57.479723,89.86,Utilities,San Jose,True,5,25,True,False
+USER_00000066,2025-08-08 11:37:57.479723,97.51,Restaurants,San Antonio,False,11,8,False,False
+USER_00000066,2026-01-28 13:00:57.479723,32.24,Gas Stations,Chicago,False,13,28,False,False
+USER_00000066,2025-10-14 09:31:57.479723,63.76,Entertainment,Houston,False,9,14,False,False
+USER_00000066,2026-02-17 04:03:57.479723,322.59,Healthcare,Philadelphia,False,4,17,False,False
+USER_00000066,2025-12-20 10:45:57.479723,197.31,Groceries,Other,True,10,20,False,False
+USER_00000066,2025-08-24 06:29:57.479723,179.55,Online Shopping,San Antonio,True,6,24,False,False
+USER_00000066,2025-10-28 06:58:57.479723,27.19,Restaurants,Houston,False,6,28,False,False
+USER_00000066,2025-12-09 07:55:57.479723,37.31,Restaurants,San Jose,False,7,9,False,False
+USER_00000066,2025-11-09 04:18:57.479723,130.45,Online Shopping,Other,True,4,9,False,False
+USER_00000066,2025-11-08 11:27:57.479723,38.73,Restaurants,Dallas,True,11,8,False,False
+USER_00000066,2025-06-18 14:02:57.479723,18.92,Restaurants,Dallas,False,14,18,False,False
+USER_00000066,2025-11-15 14:05:57.479723,844.97,Travel,Dallas,True,14,15,False,False
+USER_00000066,2025-10-29 09:36:57.479723,80.22,Groceries,San Jose,False,9,29,False,False
+USER_00000066,2026-03-27 13:17:57.479723,83.63,Online Shopping,Philadelphia,False,13,27,False,False
+USER_00000066,2025-11-20 08:26:57.479723,58.46,Groceries,Los Angeles,False,8,20,False,False
+USER_00000066,2026-01-19 08:54:57.479723,85.83,Groceries,Los Angeles,False,8,19,False,False
+USER_00000066,2026-01-20 05:04:57.479723,37.19,Groceries,Other,False,5,20,False,False
+USER_00000066,2025-07-27 07:50:57.479723,186.18,Online Shopping,Houston,True,7,27,False,False
+USER_00000066,2025-07-23 11:22:57.479723,73.09,Entertainment,Dallas,False,11,23,False,False
+USER_00000066,2025-05-22 07:38:57.479723,164.08,Groceries,Chicago,False,7,22,False,False
+USER_00000067,2025-06-20 14:20:57.479723,77.97,Groceries,Philadelphia,False,14,20,False,False
+USER_00000067,2025-07-18 09:41:57.479723,104.62,Utilities,Los Angeles,False,9,18,True,False
+USER_00000067,2026-01-12 08:02:57.479723,41.21,Groceries,New York,False,8,12,True,False
+USER_00000067,2025-11-12 08:48:57.479723,148.06,Utilities,Phoenix,False,8,12,False,False
+USER_00000067,2025-05-19 07:42:57.479723,65.04,Groceries,San Diego,False,7,19,False,False
+USER_00000067,2026-02-24 11:43:57.479723,48.95,Entertainment,San Jose,False,11,24,False,False
+USER_00000067,2025-12-03 05:20:57.479723,37.32,Restaurants,San Jose,False,5,3,False,False
+USER_00000067,2025-10-22 01:58:57.479723,334.6,Travel,Los Angeles,False,1,22,True,False
+USER_00000067,2025-08-09 15:38:57.479723,73.81,Entertainment,San Jose,True,15,9,False,False
+USER_00000067,2025-07-01 13:45:57.479723,26.98,Restaurants,Dallas,False,13,1,False,False
+USER_00000067,2025-10-01 08:38:57.479723,102.86,Groceries,San Diego,False,8,1,True,False
+USER_00000067,2025-06-09 10:28:57.479723,55.66,Entertainment,Chicago,False,10,9,False,False
+USER_00000067,2026-03-19 02:03:57.479723,223.76,Online Shopping,New York,False,2,19,False,False
+USER_00000067,2026-01-29 08:31:57.479723,103.92,Groceries,Houston,False,8,29,False,False
+USER_00000067,2025-09-01 03:39:57.479723,82.62,Groceries,San Diego,False,3,1,False,False
+USER_00000067,2025-12-26 17:38:57.479723,135.21,Healthcare,Chicago,False,17,26,False,False
+USER_00000067,2026-02-24 05:49:57.479723,16.38,Restaurants,San Jose,False,5,24,False,False
+USER_00000067,2025-06-23 12:02:57.479723,243.29,Online Shopping,Los Angeles,False,12,23,True,False
+USER_00000067,2025-10-22 11:27:57.479723,35.57,Gas Stations,San Antonio,False,11,22,False,False
+USER_00000067,2025-12-19 09:28:57.479723,470.88,Travel,Houston,False,9,19,False,False
+USER_00000068,2026-03-02 14:35:57.479723,213.76,Utilities,Philadelphia,False,14,2,True,False
+USER_00000068,2025-08-18 08:00:57.479723,50.18,Other,Phoenix,False,8,18,False,False
+USER_00000068,2025-08-21 09:17:57.479723,147.64,Groceries,Los Angeles,False,9,21,False,False
+USER_00000068,2025-04-19 07:32:57.479723,244.34,Travel,San Jose,True,7,19,False,False
+USER_00000068,2025-10-25 05:30:57.479723,83.29,Restaurants,Los Angeles,True,5,25,True,False
+USER_00000068,2026-01-24 03:10:57.479723,167.88,Online Shopping,Dallas,True,3,24,False,False
+USER_00000068,2025-11-22 10:34:57.479723,44.2,Gas Stations,Other,True,10,22,False,False
+USER_00000068,2025-04-19 08:00:57.479723,66.68,Groceries,San Jose,True,8,19,False,False
+USER_00000068,2026-01-27 08:14:57.479723,59.41,Utilities,Los Angeles,False,8,27,False,False
+USER_00000068,2025-09-23 08:06:57.479723,49.08,Groceries,San Diego,False,8,23,False,False
+USER_00000068,2025-07-12 08:21:57.479723,100.54,Online Shopping,San Diego,True,8,12,False,False
+USER_00000068,2026-02-17 03:04:57.479723,163.81,Healthcare,New York,False,3,17,False,False
+USER_00000068,2025-05-26 11:04:57.479723,281.58,Healthcare,New York,False,11,26,False,False
+USER_00000068,2025-11-28 15:27:57.479723,207.73,Groceries,Houston,False,15,28,False,False
+USER_00000068,2026-04-02 12:16:57.479723,57.29,Gas Stations,Los Angeles,False,12,2,False,False
+USER_00000068,2026-03-11 05:29:57.479723,166.24,Healthcare,New York,False,5,11,False,False
+USER_00000068,2025-10-29 08:41:57.479723,27.39,Restaurants,Dallas,False,8,29,True,False
+USER_00000068,2025-11-09 10:41:57.479723,21.21,Gas Stations,Chicago,True,10,9,False,False
+USER_00000068,2025-07-17 13:24:57.479723,25.85,Restaurants,New York,False,13,17,False,False
+USER_00000068,2025-08-20 09:03:57.479723,45.12,Gas Stations,Los Angeles,False,9,20,False,False
+USER_00000069,2025-09-19 07:14:57.479723,732.85,Travel,San Diego,False,7,19,False,False
+USER_00000069,2026-02-16 08:06:57.479723,64.83,Gas Stations,Phoenix,False,8,16,False,False
+USER_00000069,2026-01-30 10:56:57.479723,134.06,Online Shopping,Other,False,10,30,False,False
+USER_00000069,2025-06-11 08:36:57.479723,26.18,Restaurants,San Antonio,False,8,11,False,False
+USER_00000069,2026-02-08 09:21:57.479723,18.56,Gas Stations,Philadelphia,True,9,8,False,False
+USER_00000069,2025-07-22 08:47:57.479723,28.69,Groceries,New York,False,8,22,False,False
+USER_00000069,2025-04-30 14:04:57.479723,15.23,Restaurants,Philadelphia,False,14,30,False,False
+USER_00000069,2025-05-16 09:06:57.479723,43.21,Gas Stations,Other,False,9,16,False,False
+USER_00000069,2025-11-28 11:18:57.479723,197.26,Online Shopping,San Antonio,False,11,28,False,False
+USER_00000069,2025-09-04 04:44:57.479723,81.09,Gas Stations,Houston,False,4,4,False,False
+USER_00000069,2025-10-17 09:05:57.479723,52.05,Restaurants,San Diego,False,9,17,False,False
+USER_00000069,2025-07-23 05:30:57.479723,27.05,Restaurants,San Diego,False,5,23,False,False
+USER_00000069,2025-12-26 10:29:57.479723,132.9,Groceries,San Antonio,False,10,26,False,False
+USER_00000069,2025-09-10 10:24:57.479723,113.0,Utilities,Other,False,10,10,False,False
+USER_00000069,2025-06-20 04:16:57.479723,76.61,Gas Stations,Los Angeles,False,4,20,False,False
+USER_00000069,2025-04-18 08:06:57.479723,32.47,Groceries,Philadelphia,False,8,18,False,False
+USER_00000069,2025-06-25 11:44:57.479723,41.63,Groceries,Philadelphia,False,11,25,True,False
+USER_00000069,2025-12-12 05:47:57.479723,456.97,Cash Advance,San Antonio,False,5,12,False,False
+USER_00000069,2025-07-17 11:43:57.479723,67.73,Groceries,Philadelphia,False,11,17,False,False
+USER_00000069,2025-11-08 08:38:57.479723,106.71,Healthcare,Los Angeles,True,8,8,False,False
+USER_00000070,2025-06-11 02:19:57.479723,130.17,Groceries,San Diego,False,2,11,False,False
+USER_00000070,2026-03-02 14:45:57.479723,330.84,Utilities,Houston,False,14,2,False,False
+USER_00000070,2025-05-09 09:58:57.479723,362.35,Travel,Dallas,False,9,9,False,False
+USER_00000070,2025-06-24 08:18:57.479723,137.93,Online Shopping,San Diego,False,8,24,False,False
+USER_00000070,2025-06-08 05:53:57.479723,80.31,Groceries,Chicago,True,5,8,True,False
+USER_00000070,2025-05-31 14:11:57.479723,8.51,Restaurants,Chicago,True,14,31,False,False
+USER_00000070,2025-09-11 16:19:57.479723,17.42,Restaurants,San Diego,False,16,11,False,False
+USER_00000070,2025-12-22 04:59:57.479723,80.09,Gas Stations,Los Angeles,False,4,22,False,False
+USER_00000070,2025-10-31 11:54:57.479723,23.08,Restaurants,Dallas,False,11,31,False,False
+USER_00000070,2025-12-07 13:14:57.479723,97.75,Groceries,Houston,True,13,7,False,False
+USER_00000070,2026-02-11 03:19:57.479723,136.87,Online Shopping,Philadelphia,False,3,11,False,False
+USER_00000070,2026-03-26 08:32:57.479723,91.81,Gas Stations,Chicago,False,8,26,False,False
+USER_00000070,2025-11-13 08:59:57.479723,17.7,Restaurants,Chicago,False,8,13,False,False
+USER_00000070,2025-11-22 10:09:57.479723,91.34,Groceries,Chicago,True,10,22,False,False
+USER_00000070,2026-04-04 14:18:57.479723,53.23,Other,Other,True,14,4,False,False
+USER_00000070,2025-11-14 07:05:57.479723,33.69,Gas Stations,San Jose,False,7,14,True,False
+USER_00000070,2026-03-08 07:41:57.479723,43.64,Entertainment,Los Angeles,True,7,8,False,False
+USER_00000070,2025-08-13 08:26:57.479723,56.02,Gas Stations,San Diego,False,8,13,False,False
+USER_00000070,2025-07-02 10:04:57.479723,102.75,Groceries,Dallas,False,10,2,False,False
+USER_00000070,2025-04-24 11:11:57.479723,36.13,Restaurants,San Diego,False,11,24,False,False
+USER_00000071,2025-12-13 06:05:57.479723,36.7,Restaurants,San Jose,True,6,13,False,False
+USER_00000071,2025-12-24 10:06:57.479723,350.72,Travel,Chicago,False,10,24,False,False
+USER_00000071,2025-12-10 09:53:57.479723,96.68,Online Shopping,San Antonio,False,9,10,False,False
+USER_00000071,2026-04-02 06:59:57.479723,23.55,Restaurants,Other,False,6,2,False,False
+USER_00000071,2025-04-12 09:12:57.479723,154.32,Cash Advance,San Jose,True,9,12,False,False
+USER_00000071,2025-08-02 02:48:57.479723,47.12,Restaurants,Los Angeles,True,2,2,False,False
+USER_00000071,2025-04-08 17:00:57.479723,78.3,Other,Houston,False,17,8,False,False
+USER_00000071,2025-05-21 08:06:57.479723,29.06,Other,Philadelphia,False,8,21,False,False
+USER_00000071,2025-12-07 12:22:57.479723,47.91,Groceries,Other,True,12,7,False,False
+USER_00000071,2025-06-25 13:08:57.479723,24.54,Restaurants,Phoenix,False,13,25,False,False
+USER_00000071,2025-11-09 10:51:57.479723,48.42,Gas Stations,Dallas,True,10,9,False,False
+USER_00000071,2026-01-13 08:23:57.480845,51.72,Online Shopping,San Jose,False,8,13,False,False
+USER_00000071,2025-08-19 09:14:57.480845,32.22,Gas Stations,Houston,False,9,19,False,False
+USER_00000071,2025-06-23 16:08:57.480845,100.04,Cash Advance,Phoenix,False,16,23,False,False
+USER_00000071,2025-10-28 11:55:57.480845,79.41,Entertainment,Houston,False,11,28,False,False
+USER_00000071,2025-07-09 07:59:57.480845,73.9,Groceries,San Diego,False,7,9,False,False
+USER_00000071,2026-02-28 12:23:57.480845,59.51,Groceries,San Diego,True,12,28,False,False
+USER_00000071,2025-08-24 13:48:57.480845,70.52,Online Shopping,Chicago,True,13,24,False,False
+USER_00000071,2025-11-16 19:01:57.480845,59.98,Groceries,New York,True,19,16,False,False
+USER_00000071,2025-06-19 11:56:57.480845,113.1,Healthcare,Philadelphia,False,11,19,False,False
+USER_00000072,2025-11-07 14:04:57.480845,79.26,Restaurants,Los Angeles,False,14,7,False,False
+USER_00000072,2025-12-14 12:38:57.480845,57.62,Restaurants,Los Angeles,True,12,14,False,False
+USER_00000072,2025-08-13 11:11:57.480845,53.1,Groceries,Chicago,False,11,13,False,False
+USER_00000072,2026-01-31 12:03:57.480845,70.6,Entertainment,San Diego,True,12,31,False,False
+USER_00000072,2025-04-11 14:22:57.480845,120.25,Groceries,Chicago,False,14,11,False,False
+USER_00000072,2025-05-01 18:02:57.480845,46.01,Entertainment,San Antonio,False,18,1,False,False
+USER_00000072,2025-07-23 07:34:57.480845,24.62,Gas Stations,San Jose,False,7,23,False,False
+USER_00000072,2025-08-01 05:38:57.480845,61.08,Healthcare,San Jose,False,5,1,False,False
+USER_00000072,2025-05-11 11:22:57.480845,226.7,Online Shopping,Dallas,True,11,11,True,False
+USER_00000072,2025-05-19 11:13:57.480845,68.17,Groceries,San Diego,False,11,19,False,False
+USER_00000072,2025-10-09 08:36:57.480845,75.19,Entertainment,New York,False,8,9,False,False
+USER_00000072,2025-09-29 02:24:57.480845,56.28,Groceries,San Antonio,False,2,29,True,False
+USER_00000072,2025-11-04 15:24:57.480845,26.52,Gas Stations,San Antonio,False,15,4,True,False
+USER_00000072,2025-09-23 10:51:57.480845,43.68,Groceries,San Diego,False,10,23,False,False
+USER_00000072,2025-05-31 15:44:57.480845,33.24,Entertainment,San Jose,True,15,31,True,False
+USER_00000072,2025-07-19 07:23:57.480845,275.33,Utilities,Phoenix,True,7,19,False,False
+USER_00000072,2025-11-15 10:01:57.480845,253.1,Online Shopping,San Jose,True,10,15,False,False
+USER_00000072,2025-04-30 09:05:57.480845,50.94,Gas Stations,Dallas,False,9,30,False,False
+USER_00000072,2025-05-26 08:35:57.480845,30.43,Entertainment,Dallas,False,8,26,False,False
+USER_00000072,2025-12-27 05:37:57.480845,96.14,Groceries,San Diego,True,5,27,False,False
+USER_00000073,2025-08-06 06:51:57.480845,338.81,Utilities,Philadelphia,False,6,6,False,False
+USER_00000073,2026-03-26 05:56:57.480845,121.91,Groceries,Philadelphia,False,5,26,False,False
+USER_00000073,2025-08-11 13:55:57.480845,54.2,Other,New York,False,13,11,False,False
+USER_00000073,2026-02-17 05:05:57.480845,57.81,Entertainment,Philadelphia,False,5,17,False,False
+USER_00000073,2026-02-24 11:24:57.480845,63.8,Entertainment,Houston,False,11,24,False,False
+USER_00000073,2025-10-23 11:44:57.480845,221.43,Online Shopping,Houston,False,11,23,False,False
+USER_00000073,2026-01-15 07:34:57.480845,73.13,Gas Stations,Los Angeles,False,7,15,False,False
+USER_00000073,2025-06-20 07:54:57.480845,98.95,Online Shopping,Other,False,7,20,False,False
+USER_00000073,2025-10-31 14:05:57.480845,61.07,Groceries,Houston,False,14,31,False,False
+USER_00000073,2025-09-03 09:39:57.480845,94.32,Online Shopping,Phoenix,False,9,3,False,False
+USER_00000073,2025-10-31 04:15:57.480845,70.47,Online Shopping,Phoenix,False,4,31,False,False
+USER_00000073,2025-11-24 14:29:57.480845,353.85,Utilities,Phoenix,False,14,24,False,False
+USER_00000073,2026-01-30 03:52:57.480845,33.72,Gas Stations,Houston,False,3,30,False,False
+USER_00000073,2025-05-06 09:49:57.480845,95.83,Groceries,New York,False,9,6,False,False
+USER_00000073,2026-03-31 19:16:57.480845,25.14,Restaurants,San Jose,False,19,31,False,False
+USER_00000073,2026-03-24 14:47:57.480845,94.53,Online Shopping,San Diego,False,14,24,False,False
+USER_00000073,2026-01-24 13:05:57.480845,70.85,Groceries,Chicago,True,13,24,False,False
+USER_00000073,2025-10-26 11:23:57.480845,45.97,Restaurants,Los Angeles,True,11,26,False,False
+USER_00000073,2026-01-31 09:45:57.480845,131.77,Healthcare,Dallas,True,9,31,False,False
+USER_00000073,2025-04-25 19:24:57.480845,67.89,Online Shopping,San Antonio,False,19,25,False,False
+USER_00000074,2025-11-28 09:14:57.480845,50.48,Gas Stations,Dallas,False,9,28,True,False
+USER_00000074,2025-09-13 13:24:57.480845,23.86,Restaurants,Los Angeles,True,13,13,False,False
+USER_00000074,2025-07-05 04:14:57.480845,140.65,Entertainment,Dallas,True,4,5,False,False
+USER_00000074,2025-07-25 10:37:57.480845,30.73,Restaurants,San Jose,False,10,25,False,False
+USER_00000074,2025-07-15 06:15:57.480845,46.54,Entertainment,Dallas,False,6,15,False,False
+USER_00000074,2026-03-13 04:32:57.480845,201.32,Groceries,Other,False,4,13,False,False
+USER_00000074,2025-06-30 04:48:57.480845,651.12,Travel,Dallas,False,4,30,False,False
+USER_00000074,2025-07-28 12:05:57.480845,31.93,Gas Stations,San Jose,False,12,28,False,False
+USER_00000074,2025-06-01 12:18:57.480845,33.67,Gas Stations,San Jose,True,12,1,False,False
+USER_00000074,2025-06-22 10:09:57.480845,152.11,Online Shopping,Houston,True,10,22,False,False
+USER_00000074,2025-10-25 06:55:57.480845,122.64,Online Shopping,San Jose,True,6,25,True,False
+USER_00000074,2026-01-02 11:53:57.480845,117.05,Groceries,Chicago,False,11,2,False,False
+USER_00000074,2025-07-11 10:19:57.480845,46.67,Entertainment,Philadelphia,False,10,11,False,False
+USER_00000074,2025-05-21 07:44:57.480845,49.69,Restaurants,Chicago,False,7,21,False,False
+USER_00000074,2025-12-18 13:03:57.480845,58.78,Utilities,Other,False,13,18,True,False
+USER_00000074,2025-05-06 12:58:57.480845,138.85,Healthcare,Dallas,False,12,6,False,False
+USER_00000074,2025-06-01 09:55:57.480845,25.71,Restaurants,Chicago,True,9,1,False,False
+USER_00000074,2025-08-12 10:11:57.480845,119.48,Healthcare,Los Angeles,False,10,12,False,False
+USER_00000074,2026-03-13 08:21:57.480845,33.25,Restaurants,San Diego,False,8,13,False,False
+USER_00000074,2025-11-17 06:40:57.480845,132.52,Groceries,Philadelphia,False,6,17,False,False
+USER_00000075,2025-12-11 14:09:57.480845,112.31,Cash Advance,San Diego,False,14,11,False,False
+USER_00000075,2026-03-13 13:01:57.480845,40.18,Online Shopping,San Antonio,False,13,13,False,False
+USER_00000075,2026-01-18 12:52:57.480845,29.75,Gas Stations,Chicago,True,12,18,False,False
+USER_00000075,2026-01-29 04:00:57.480845,58.36,Restaurants,San Diego,False,4,29,False,False
+USER_00000075,2025-10-16 09:35:57.480845,15.38,Restaurants,San Jose,False,9,16,True,False
+USER_00000075,2026-03-26 09:03:57.480845,41.32,Other,New York,False,9,26,True,False
+USER_00000075,2025-06-23 08:45:57.480845,114.12,Groceries,New York,False,8,23,True,False
+USER_00000075,2025-11-30 11:28:57.480845,33.99,Restaurants,San Jose,True,11,30,False,False
+USER_00000075,2026-01-01 03:19:57.480845,87.92,Gas Stations,San Diego,False,3,1,False,False
+USER_00000075,2026-01-05 08:08:57.480845,18.08,Gas Stations,Dallas,False,8,5,False,False
+USER_00000075,2025-11-17 08:59:57.480845,42.57,Gas Stations,San Jose,False,8,17,False,False
+USER_00000075,2026-03-07 13:58:57.480845,146.36,Groceries,Philadelphia,True,13,7,False,False
+USER_00000075,2025-05-08 14:22:57.480845,42.69,Groceries,Phoenix,False,14,8,False,False
+USER_00000075,2026-03-18 11:16:57.480845,58.72,Restaurants,Los Angeles,False,11,18,False,False
+USER_00000075,2025-11-12 11:26:57.480845,159.99,Utilities,Other,False,11,12,False,False
+USER_00000075,2025-05-26 13:52:57.480845,93.18,Groceries,Dallas,False,13,26,False,False
+USER_00000075,2025-10-29 11:11:57.480845,122.33,Entertainment,Philadelphia,False,11,29,False,False
+USER_00000075,2025-04-23 09:41:57.480845,80.58,Entertainment,San Diego,False,9,23,False,False
+USER_00000075,2026-02-23 09:18:57.480845,111.61,Healthcare,Dallas,False,9,23,False,False
+USER_00000075,2025-07-27 11:39:57.480845,596.02,Travel,Dallas,True,11,27,False,False
+USER_00000076,2025-11-28 13:33:57.480845,25.14,Restaurants,San Diego,False,13,28,False,False
+USER_00000076,2026-02-06 12:41:57.480845,85.98,Groceries,San Jose,False,12,6,False,False
+USER_00000076,2025-11-07 04:45:57.480845,26.74,Gas Stations,San Diego,False,4,7,False,False
+USER_00000076,2025-06-24 14:23:57.480845,35.51,Restaurants,Chicago,False,14,24,False,False
+USER_00000076,2026-04-02 08:11:57.480845,117.81,Entertainment,Chicago,False,8,2,False,False
+USER_00000076,2025-07-15 06:44:57.480845,103.35,Online Shopping,Los Angeles,False,6,15,False,False
+USER_00000076,2025-04-27 10:05:57.480845,777.51,Travel,New York,True,10,27,False,False
+USER_00000076,2025-11-28 02:21:57.480845,352.2,Groceries,Houston,False,2,28,False,False
+USER_00000076,2025-07-14 07:13:57.480845,177.41,Utilities,Los Angeles,False,7,14,False,False
+USER_00000076,2025-10-11 02:08:57.480845,47.58,Restaurants,Los Angeles,True,2,11,False,False
+USER_00000076,2025-07-28 11:53:57.480845,63.46,Gas Stations,Other,False,11,28,False,False
+USER_00000076,2026-02-10 11:39:57.480845,55.96,Gas Stations,Other,False,11,10,False,False
+USER_00000076,2026-01-14 06:25:57.480845,96.38,Entertainment,Phoenix,False,6,14,True,False
+USER_00000076,2025-12-29 11:06:57.480845,30.92,Restaurants,Houston,False,11,29,False,False
+USER_00000076,2025-11-09 03:19:57.480845,129.24,Utilities,New York,True,3,9,False,False
+USER_00000076,2025-05-13 08:16:57.480845,83.91,Utilities,Dallas,False,8,13,False,False
+USER_00000076,2025-11-02 13:42:57.480845,379.13,Travel,Houston,True,13,2,False,False
+USER_00000076,2025-09-29 15:52:57.480845,117.71,Groceries,Phoenix,False,15,29,False,False
+USER_00000076,2025-07-18 09:32:57.480845,281.28,Travel,San Antonio,False,9,18,False,False
+USER_00000076,2026-01-17 09:23:57.480845,169.69,Healthcare,Los Angeles,True,9,17,False,False
+USER_00000077,2025-07-29 07:24:57.480845,70.52,Groceries,San Diego,False,7,29,False,False
+USER_00000077,2025-12-31 04:28:57.480845,54.99,Groceries,Other,False,4,31,False,False
+USER_00000077,2025-07-21 04:44:57.480845,29.69,Groceries,Los Angeles,False,4,21,False,False
+USER_00000077,2025-07-21 11:28:57.480845,148.25,Groceries,Other,False,11,21,False,False
+USER_00000077,2025-12-25 14:49:57.480845,64.76,Gas Stations,San Jose,False,14,25,False,False
+USER_00000077,2026-02-26 14:17:57.480845,758.21,Cash Advance,Phoenix,False,14,26,False,False
+USER_00000077,2025-07-08 11:33:57.480845,85.78,Gas Stations,Los Angeles,False,11,8,False,False
+USER_00000077,2025-12-27 10:45:57.480845,97.74,Gas Stations,Los Angeles,True,10,27,False,False
+USER_00000077,2025-04-13 07:38:57.480845,83.4,Cash Advance,Houston,True,7,13,False,False
+USER_00000077,2025-06-03 12:25:57.480845,14.47,Restaurants,Houston,False,12,3,False,False
+USER_00000077,2025-08-29 07:32:57.480845,459.62,Travel,San Diego,False,7,29,True,False
+USER_00000077,2025-06-03 07:49:57.480845,28.16,Gas Stations,Philadelphia,False,7,3,False,False
+USER_00000077,2025-12-04 08:39:57.480845,85.36,Online Shopping,San Jose,False,8,4,False,False
+USER_00000077,2025-08-19 14:08:57.480845,123.78,Restaurants,San Diego,False,14,19,False,False
+USER_00000077,2025-10-11 08:09:57.480845,217.55,Online Shopping,San Antonio,True,8,11,False,False
+USER_00000077,2026-02-03 01:17:57.480845,46.98,Groceries,San Jose,False,1,3,False,False
+USER_00000077,2025-12-12 08:33:57.480845,19.91,Entertainment,Houston,False,8,12,False,False
+USER_00000077,2025-09-28 20:46:57.480845,21.02,Restaurants,Los Angeles,True,20,28,False,False
+USER_00000077,2026-02-04 04:33:57.480845,340.58,Travel,Dallas,False,4,4,False,False
+USER_00000077,2025-07-25 11:51:57.480845,29.81,Restaurants,Los Angeles,False,11,25,False,False
+USER_00000078,2026-03-31 00:20:57.480845,39.57,Groceries,New York,False,0,31,False,False
+USER_00000078,2025-11-03 09:20:57.480845,211.12,Online Shopping,San Diego,False,9,3,False,False
+USER_00000078,2026-01-05 16:01:57.480845,52.55,Groceries,San Jose,False,16,5,False,False
+USER_00000078,2026-03-24 18:01:57.480845,89.9,Entertainment,Dallas,False,18,24,False,False
+USER_00000078,2025-08-21 03:13:57.480845,205.46,Cash Advance,New York,False,3,21,False,False
+USER_00000078,2026-01-11 04:32:57.480845,103.92,Entertainment,San Antonio,True,4,11,False,False
+USER_00000078,2025-11-25 01:20:57.480845,66.59,Groceries,Los Angeles,False,1,25,False,False
+USER_00000078,2025-10-06 09:11:57.480845,75.57,Online Shopping,Philadelphia,False,9,6,False,False
+USER_00000078,2026-02-04 09:54:57.480845,88.96,Online Shopping,Other,False,9,4,False,False
+USER_00000078,2025-08-31 10:35:57.480845,279.97,Healthcare,Phoenix,True,10,31,False,False
+USER_00000078,2025-08-04 12:06:57.480845,210.56,Groceries,New York,False,12,4,False,False
+USER_00000078,2025-08-20 11:16:57.480845,51.95,Gas Stations,Los Angeles,False,11,20,True,False
+USER_00000078,2026-01-18 09:10:57.480845,50.12,Gas Stations,Los Angeles,True,9,18,False,False
+USER_00000078,2025-11-09 12:27:57.480845,116.57,Groceries,San Jose,True,12,9,False,False
+USER_00000078,2025-11-20 16:21:57.480845,35.0,Restaurants,San Jose,False,16,20,False,False
+USER_00000078,2025-05-28 09:19:57.480845,87.61,Gas Stations,Philadelphia,False,9,28,False,False
+USER_00000078,2026-02-01 13:13:57.480845,373.61,Travel,Other,True,13,1,False,False
+USER_00000078,2026-03-25 21:44:57.480845,142.04,Utilities,New York,False,21,25,False,False
+USER_00000078,2025-09-06 06:59:57.480845,73.51,Online Shopping,Other,True,6,6,False,False
+USER_00000078,2025-08-08 14:06:57.480845,88.27,Restaurants,Houston,False,14,8,False,False
+USER_00000079,2025-09-06 06:31:57.480845,33.8,Restaurants,San Jose,True,6,6,False,False
+USER_00000079,2025-10-08 07:17:57.480845,30.58,Other,Other,False,7,8,False,False
+USER_00000079,2025-05-04 08:04:57.480845,60.69,Other,Phoenix,True,8,4,False,False
+USER_00000079,2025-10-16 00:18:57.480845,130.05,Utilities,Los Angeles,False,0,16,False,False
+USER_00000079,2025-10-29 09:51:57.480845,123.45,Healthcare,Los Angeles,False,9,29,False,False
+USER_00000079,2025-10-25 11:13:57.480845,40.88,Restaurants,San Antonio,True,11,25,False,False
+USER_00000079,2025-10-01 07:14:57.480845,320.9,Healthcare,San Antonio,False,7,1,False,False
+USER_00000079,2025-09-28 09:56:57.480845,36.82,Restaurants,Philadelphia,True,9,28,False,False
+USER_00000079,2025-06-03 05:10:57.480845,24.53,Restaurants,New York,False,5,3,False,False
+USER_00000079,2025-07-25 15:04:57.480845,50.5,Entertainment,Chicago,False,15,25,True,False
+USER_00000079,2025-10-06 15:02:57.480845,104.14,Groceries,Dallas,False,15,6,False,False
+USER_00000079,2025-12-11 05:59:57.480845,28.17,Groceries,San Jose,False,5,11,False,False
+USER_00000079,2025-06-29 13:45:57.480845,29.69,Gas Stations,New York,True,13,29,False,False
+USER_00000079,2025-09-23 07:19:57.480845,55.61,Gas Stations,Los Angeles,False,7,23,False,False
+USER_00000079,2026-03-04 07:59:57.480845,76.68,Utilities,San Diego,False,7,4,False,False
+USER_00000079,2026-02-14 11:24:57.480845,64.15,Groceries,San Antonio,True,11,14,False,False
+USER_00000079,2025-12-16 07:48:57.480845,59.05,Groceries,Dallas,False,7,16,False,False
+USER_00000079,2025-07-29 14:20:57.480845,116.3,Groceries,San Jose,False,14,29,False,False
+USER_00000079,2026-01-15 13:19:57.480845,66.18,Groceries,Houston,False,13,15,False,False
+USER_00000079,2025-08-18 09:26:57.480845,135.75,Groceries,Houston,False,9,18,False,False
+USER_00000080,2025-08-23 08:46:57.480845,124.83,Online Shopping,San Antonio,True,8,23,False,False
+USER_00000080,2025-08-17 10:43:57.480845,121.54,Gas Stations,New York,True,10,17,True,False
+USER_00000080,2025-08-29 07:35:57.480845,32.48,Entertainment,San Jose,False,7,29,False,False
+USER_00000080,2026-02-24 07:29:57.480845,123.46,Other,Dallas,False,7,24,False,False
+USER_00000080,2026-03-17 02:48:57.480845,97.7,Online Shopping,Los Angeles,False,2,17,False,False
+USER_00000080,2026-02-24 09:52:57.480845,156.72,Groceries,New York,False,9,24,False,False
+USER_00000080,2025-12-15 04:27:57.480845,135.65,Groceries,San Antonio,False,4,15,False,False
+USER_00000080,2025-12-23 05:39:57.480845,108.13,Travel,Philadelphia,False,5,23,False,False
+USER_00000080,2025-09-26 23:58:57.480845,63.54,Gas Stations,Chicago,False,23,26,False,False
+USER_00000080,2026-03-21 09:43:57.480845,247.01,Healthcare,New York,True,9,21,False,False
+USER_00000080,2025-12-08 11:10:57.480845,874.41,Travel,Phoenix,False,11,8,False,False
+USER_00000080,2025-11-29 04:19:57.480845,99.95,Utilities,San Jose,True,4,29,False,False
+USER_00000080,2025-11-28 07:37:57.480845,241.8,Utilities,Houston,False,7,28,False,False
+USER_00000080,2026-02-06 04:09:57.480845,132.29,Online Shopping,Phoenix,False,4,6,False,False
+USER_00000080,2026-02-18 07:10:57.480845,43.43,Restaurants,New York,False,7,18,False,False
+USER_00000080,2026-03-09 17:56:57.480845,329.57,Cash Advance,New York,False,17,9,False,False
+USER_00000080,2025-12-31 08:17:57.480845,89.16,Gas Stations,Phoenix,False,8,31,False,False
+USER_00000080,2026-03-28 08:06:57.480845,54.03,Groceries,Philadelphia,True,8,28,False,False
+USER_00000080,2025-08-08 08:47:57.480845,137.03,Online Shopping,Phoenix,False,8,8,False,False
+USER_00000080,2025-05-28 09:43:57.480845,122.49,Online Shopping,Los Angeles,False,9,28,False,False
+USER_00000081,2025-08-18 15:34:57.480845,159.7,Utilities,Dallas,False,15,18,False,False
+USER_00000081,2025-07-04 05:48:57.480845,111.68,Online Shopping,Phoenix,False,5,4,True,False
+USER_00000081,2025-06-27 08:06:57.480845,38.6,Restaurants,Other,False,8,27,False,False
+USER_00000081,2025-09-16 04:42:57.480845,148.02,Cash Advance,Other,False,4,16,False,False
+USER_00000081,2025-08-03 16:21:57.480845,233.26,Healthcare,Phoenix,True,16,3,False,False
+USER_00000081,2025-06-21 06:26:57.480845,226.36,Online Shopping,San Jose,True,6,21,False,False
+USER_00000081,2025-07-17 10:10:57.480845,23.22,Restaurants,Dallas,False,10,17,False,False
+USER_00000081,2025-09-05 08:31:57.480845,67.66,Restaurants,Chicago,False,8,5,False,False
+USER_00000081,2025-09-19 10:21:57.480845,79.69,Online Shopping,Phoenix,False,10,19,False,False
+USER_00000081,2026-01-18 06:31:57.480845,117.49,Groceries,Phoenix,True,6,18,False,False
+USER_00000081,2025-04-29 09:55:57.480845,67.6,Restaurants,Los Angeles,False,9,29,True,False
+USER_00000081,2025-04-28 13:40:57.480845,62.0,Entertainment,Other,False,13,28,False,False
+USER_00000081,2025-10-16 08:24:57.480845,33.34,Gas Stations,Houston,False,8,16,False,False
+USER_00000081,2026-01-28 09:57:57.480845,26.08,Restaurants,Other,False,9,28,False,False
+USER_00000081,2026-01-10 10:01:57.480845,89.87,Groceries,Other,True,10,10,False,False
+USER_00000081,2025-12-27 21:36:57.480845,133.53,Gas Stations,Los Angeles,True,21,27,False,False
+USER_00000081,2026-03-30 06:40:57.480845,27.88,Entertainment,Phoenix,False,6,30,False,False
+USER_00000081,2025-05-09 10:28:57.480845,36.8,Restaurants,San Jose,False,10,9,False,False
+USER_00000081,2025-09-19 15:20:57.480845,71.77,Groceries,Los Angeles,False,15,19,False,False
+USER_00000081,2026-01-10 05:48:57.480845,95.51,Online Shopping,San Jose,True,5,10,False,False
+USER_00000082,2026-02-23 06:23:57.480845,192.08,Cash Advance,Dallas,False,6,23,False,False
+USER_00000082,2025-12-19 10:25:57.480845,91.5,Online Shopping,San Jose,False,10,19,True,False
+USER_00000082,2025-11-06 14:11:57.480845,139.64,Groceries,Philadelphia,False,14,6,False,False
+USER_00000082,2026-03-21 08:59:57.480845,68.48,Restaurants,San Diego,True,8,21,False,False
+USER_00000082,2025-11-25 09:18:57.480845,470.27,Travel,Dallas,False,9,25,False,False
+USER_00000082,2025-11-10 06:03:57.480845,69.89,Groceries,San Diego,False,6,10,False,False
+USER_00000082,2025-07-04 10:44:57.480845,93.78,Online Shopping,Phoenix,False,10,4,True,False
+USER_00000082,2025-08-18 04:44:57.480845,36.62,Restaurants,Phoenix,False,4,18,False,False
+USER_00000082,2025-05-28 12:10:57.480845,188.94,Groceries,Philadelphia,False,12,28,False,False
+USER_00000082,2025-08-22 14:42:57.480845,142.42,Healthcare,New York,False,14,22,False,False
+USER_00000082,2025-11-19 13:26:57.480845,42.72,Entertainment,Other,False,13,19,True,False
+USER_00000082,2025-09-08 09:30:57.480845,98.36,Online Shopping,San Diego,False,9,8,False,False
+USER_00000082,2026-03-10 09:38:57.480845,109.31,Groceries,Los Angeles,False,9,10,False,False
+USER_00000082,2026-02-15 08:11:57.480845,52.38,Groceries,Philadelphia,True,8,15,False,False
+USER_00000082,2025-07-20 10:10:57.480845,117.99,Online Shopping,Dallas,True,10,20,False,False
+USER_00000082,2025-07-20 05:27:57.480845,152.01,Online Shopping,Chicago,True,5,20,True,False
+USER_00000082,2025-04-22 11:13:57.480845,54.41,Groceries,Los Angeles,False,11,22,False,False
+USER_00000082,2025-04-20 16:50:57.480845,31.04,Groceries,San Jose,True,16,20,False,False
+USER_00000082,2026-03-30 09:26:57.480845,43.89,Groceries,Phoenix,False,9,30,False,False
+USER_00000082,2025-05-22 17:43:57.480845,35.8,Other,Other,False,17,22,False,False
+USER_00000083,2025-11-20 07:29:57.480845,133.78,Healthcare,Dallas,False,7,20,False,False
+USER_00000083,2026-02-28 05:07:57.480845,184.03,Utilities,Philadelphia,True,5,28,False,False
+USER_00000083,2025-12-17 12:38:57.480845,113.22,Groceries,San Diego,False,12,17,False,False
+USER_00000083,2025-08-30 03:48:57.480845,324.83,Cash Advance,San Diego,True,3,30,False,True
+USER_00000083,2025-05-05 06:20:57.480845,105.28,Groceries,San Antonio,False,6,5,False,False
+USER_00000083,2025-08-27 04:27:57.480845,41.54,Gas Stations,Phoenix,False,4,27,False,False
+USER_00000083,2025-11-22 09:18:57.480845,61.43,Healthcare,Los Angeles,True,9,22,False,False
+USER_00000083,2025-07-25 12:57:57.480845,35.24,Restaurants,San Jose,False,12,25,False,False
+USER_00000083,2025-04-12 06:12:57.480845,67.59,Restaurants,San Jose,True,6,12,False,False
+USER_00000083,2025-05-13 12:16:57.480845,116.63,Groceries,Phoenix,False,12,13,False,False
+USER_00000083,2026-02-17 08:30:57.480845,72.19,Groceries,San Antonio,False,8,17,False,False
+USER_00000083,2025-06-19 09:27:57.480845,210.69,Online Shopping,San Antonio,False,9,19,False,False
+USER_00000083,2025-05-18 05:13:57.480845,132.11,Online Shopping,Other,True,5,18,False,False
+USER_00000083,2026-01-19 06:41:57.480845,106.16,Entertainment,Los Angeles,False,6,19,False,False
+USER_00000083,2025-12-23 09:31:57.480845,52.28,Online Shopping,San Antonio,False,9,23,False,False
+USER_00000083,2025-10-20 16:49:57.480845,64.24,Online Shopping,Philadelphia,False,16,20,False,False
+USER_00000083,2025-09-02 12:20:57.480845,107.99,Groceries,San Antonio,False,12,2,False,False
+USER_00000083,2025-12-09 07:15:57.480845,161.92,Groceries,Other,False,7,9,False,False
+USER_00000083,2025-09-29 07:52:57.480845,67.76,Other,San Diego,False,7,29,False,False
+USER_00000083,2025-07-26 16:12:57.480845,146.22,Groceries,Houston,True,16,26,False,True
+USER_00000084,2025-07-15 16:38:57.480845,78.43,Online Shopping,New York,False,16,15,False,False
+USER_00000084,2025-11-09 09:16:57.480845,64.06,Groceries,San Diego,True,9,9,False,False
+USER_00000084,2025-10-25 13:38:57.480845,119.25,Entertainment,San Diego,True,13,25,False,False
+USER_00000084,2025-11-18 13:21:57.480845,54.77,Entertainment,Chicago,False,13,18,False,False
+USER_00000084,2025-04-25 07:17:57.480845,126.64,Groceries,Chicago,False,7,25,False,False
+USER_00000084,2025-07-23 04:42:57.480845,48.5,Restaurants,Phoenix,False,4,23,False,False
+USER_00000084,2025-07-12 12:51:57.480845,282.72,Online Shopping,Chicago,True,12,12,False,False
+USER_00000084,2025-10-08 10:03:57.480845,38.69,Restaurants,Phoenix,False,10,8,False,False
+USER_00000084,2025-10-29 09:26:57.480845,73.16,Groceries,San Diego,False,9,29,False,False
+USER_00000084,2025-04-21 09:49:57.480845,112.53,Entertainment,New York,False,9,21,False,False
+USER_00000084,2025-06-23 08:33:57.480845,46.99,Groceries,Los Angeles,False,8,23,False,False
+USER_00000084,2025-06-23 06:07:57.480845,360.41,Travel,Los Angeles,False,6,23,False,False
+USER_00000084,2025-08-24 11:58:57.480845,21.59,Gas Stations,Houston,True,11,24,True,False
+USER_00000084,2026-03-27 16:11:57.480845,40.06,Groceries,Dallas,False,16,27,False,False
+USER_00000084,2026-03-28 03:16:57.480845,313.93,Online Shopping,Los Angeles,True,3,28,False,False
+USER_00000084,2025-07-10 04:44:57.480845,70.68,Gas Stations,Other,False,4,10,False,False
+USER_00000084,2025-07-08 14:06:57.480845,17.64,Restaurants,Dallas,False,14,8,False,False
+USER_00000084,2025-10-06 08:38:57.480845,63.61,Restaurants,San Antonio,False,8,6,False,False
+USER_00000084,2025-11-05 05:12:57.480845,24.62,Restaurants,San Jose,False,5,5,False,False
+USER_00000084,2025-05-27 07:17:57.480845,48.22,Restaurants,San Diego,False,7,27,False,False
+USER_00000085,2025-05-08 08:00:57.480845,102.56,Groceries,New York,False,8,8,False,False
+USER_00000085,2025-12-04 09:56:57.480845,80.47,Restaurants,Phoenix,False,9,4,False,False
+USER_00000085,2025-12-14 02:37:57.480845,26.75,Restaurants,Dallas,True,2,14,False,False
+USER_00000085,2025-07-03 09:17:57.480845,82.88,Online Shopping,Houston,False,9,3,False,False
+USER_00000085,2025-09-06 11:45:57.480845,31.28,Online Shopping,Los Angeles,True,11,6,False,False
+USER_00000085,2025-10-17 06:21:57.480845,47.05,Gas Stations,Philadelphia,False,6,17,False,False
+USER_00000085,2025-06-23 09:01:57.480845,93.42,Entertainment,Los Angeles,False,9,23,False,False
+USER_00000085,2025-10-15 08:03:57.480845,692.45,Travel,Chicago,False,8,15,False,False
+USER_00000085,2025-12-15 08:58:57.480845,224.46,Online Shopping,San Diego,False,8,15,False,False
+USER_00000085,2025-12-06 08:08:57.480845,138.71,Online Shopping,Chicago,True,8,6,False,False
+USER_00000085,2026-03-06 12:23:57.480845,45.05,Restaurants,Los Angeles,False,12,6,False,False
+USER_00000085,2025-08-28 14:34:57.480845,186.24,Utilities,Philadelphia,False,14,28,False,False
+USER_00000085,2025-12-09 03:54:57.480845,106.83,Groceries,Chicago,False,3,9,False,False
+USER_00000085,2026-02-27 09:15:57.480845,21.94,Restaurants,New York,False,9,27,False,False
+USER_00000085,2025-07-13 05:46:57.480845,32.14,Entertainment,Chicago,True,5,13,False,False
+USER_00000085,2025-08-17 16:34:57.480845,49.56,Groceries,Philadelphia,True,16,17,False,False
+USER_00000085,2026-03-20 04:31:57.480845,83.45,Groceries,Chicago,False,4,20,True,False
+USER_00000085,2025-11-09 11:50:57.480845,62.63,Online Shopping,Dallas,True,11,9,False,False
+USER_00000085,2025-11-09 13:01:57.480845,87.43,Online Shopping,San Antonio,True,13,9,True,False
+USER_00000085,2025-12-02 09:33:57.480845,48.12,Entertainment,Phoenix,False,9,2,False,False
+USER_00000086,2025-06-09 12:36:57.480845,221.75,Healthcare,Los Angeles,False,12,9,False,False
+USER_00000086,2025-04-12 10:18:57.480845,104.33,Groceries,Dallas,True,10,12,True,False
+USER_00000086,2025-08-12 09:44:57.480845,77.69,Groceries,Phoenix,False,9,12,False,False
+USER_00000086,2025-11-23 05:05:57.480845,150.36,Online Shopping,San Antonio,True,5,23,False,False
+USER_00000086,2025-11-07 02:45:57.480845,44.29,Restaurants,Dallas,False,2,7,False,False
+USER_00000086,2025-08-14 03:29:57.480845,100.05,Online Shopping,Houston,False,3,14,False,False
+USER_00000086,2025-08-26 18:30:57.480845,57.18,Groceries,Dallas,False,18,26,False,False
+USER_00000086,2025-09-16 12:46:57.480845,107.81,Gas Stations,New York,False,12,16,False,False
+USER_00000086,2025-07-25 18:53:57.480845,14.4,Gas Stations,Philadelphia,False,18,25,True,False
+USER_00000086,2026-01-11 13:32:57.480845,82.83,Online Shopping,Los Angeles,True,13,11,False,False
+USER_00000086,2025-11-08 11:52:57.480845,45.16,Gas Stations,San Diego,True,11,8,False,False
+USER_00000086,2025-08-15 08:13:57.480845,66.15,Gas Stations,Phoenix,False,8,15,True,False
+USER_00000086,2025-04-27 12:08:57.480845,61.75,Restaurants,Chicago,True,12,27,False,False
+USER_00000086,2026-03-16 10:41:57.480845,189.78,Groceries,Los Angeles,False,10,16,False,False
+USER_00000086,2025-04-24 08:24:57.480845,71.64,Groceries,San Diego,False,8,24,False,False
+USER_00000086,2025-06-26 15:35:57.480845,49.39,Gas Stations,San Antonio,False,15,26,True,False
+USER_00000086,2025-07-12 12:39:57.480845,41.96,Restaurants,Dallas,True,12,12,False,False
+USER_00000086,2025-07-23 12:05:57.480845,38.34,Gas Stations,San Diego,False,12,23,True,False
+USER_00000086,2026-03-09 10:00:57.480845,19.36,Restaurants,Other,False,10,9,False,False
+USER_00000086,2025-09-06 08:50:57.480845,114.36,Online Shopping,Houston,True,8,6,False,False
+USER_00000087,2025-06-28 03:07:57.480845,653.23,Travel,Los Angeles,True,3,28,False,False
+USER_00000087,2026-02-16 05:29:57.480845,31.0,Restaurants,Los Angeles,False,5,16,False,False
+USER_00000087,2026-01-02 12:45:57.480845,92.22,Groceries,Los Angeles,False,12,2,False,False
+USER_00000087,2026-01-09 10:48:57.480845,29.46,Groceries,Other,False,10,9,False,False
+USER_00000087,2026-02-22 10:49:57.480845,121.11,Online Shopping,Philadelphia,True,10,22,False,False
+USER_00000087,2025-07-03 11:55:57.480845,40.87,Gas Stations,San Antonio,False,11,3,False,False
+USER_00000087,2025-10-18 08:21:57.480845,39.64,Groceries,Philadelphia,True,8,18,False,False
+USER_00000087,2025-09-30 16:53:57.480845,166.68,Online Shopping,Los Angeles,False,16,30,False,False
+USER_00000087,2025-04-19 06:10:57.480845,188.73,Groceries,Houston,True,6,19,False,False
+USER_00000087,2025-10-05 02:42:57.480845,196.86,Online Shopping,Chicago,True,2,5,True,False
+USER_00000087,2026-04-04 11:07:57.480845,84.68,Gas Stations,Other,True,11,4,False,False
+USER_00000087,2025-09-28 10:24:57.480845,92.82,Entertainment,Houston,True,10,28,False,False
+USER_00000087,2025-12-10 09:18:57.480845,103.62,Groceries,Phoenix,False,9,10,False,False
+USER_00000087,2026-03-19 04:28:57.480845,183.01,Travel,San Antonio,False,4,19,True,False
+USER_00000087,2026-03-15 10:55:57.480845,60.97,Entertainment,Dallas,True,10,15,False,False
+USER_00000087,2026-03-08 05:30:57.480845,96.72,Groceries,Other,True,5,8,False,False
+USER_00000087,2025-06-16 07:44:57.480845,97.83,Groceries,Los Angeles,False,7,16,False,False
+USER_00000087,2025-12-19 23:38:57.480845,94.43,Gas Stations,San Diego,False,23,19,False,False
+USER_00000087,2025-06-30 11:03:57.480845,89.52,Healthcare,Chicago,False,11,30,False,False
+USER_00000087,2025-11-30 16:59:57.480845,609.65,Travel,Dallas,True,16,30,False,False
+USER_00000088,2025-08-21 14:56:57.480845,29.36,Gas Stations,San Jose,False,14,21,False,False
+USER_00000088,2025-12-17 08:53:57.480845,404.8,Travel,Houston,False,8,17,False,False
+USER_00000088,2025-11-22 04:25:57.480845,72.71,Groceries,Chicago,True,4,22,False,False
+USER_00000088,2025-04-10 11:38:57.480845,115.44,Groceries,San Jose,False,11,10,False,False
+USER_00000088,2025-10-03 09:56:57.480845,261.24,Utilities,Philadelphia,False,9,3,False,False
+USER_00000088,2025-11-14 06:57:57.480845,69.03,Entertainment,San Jose,False,6,14,False,False
+USER_00000088,2026-01-25 13:16:57.480845,17.05,Gas Stations,Dallas,True,13,25,False,False
+USER_00000088,2025-11-29 11:41:57.480845,81.19,Entertainment,San Antonio,True,11,29,False,False
+USER_00000088,2025-04-08 13:36:57.480845,157.45,Utilities,Houston,False,13,8,False,False
+USER_00000088,2025-07-20 04:30:57.480845,130.36,Entertainment,Chicago,True,4,20,False,False
+USER_00000088,2026-04-04 02:24:57.480845,801.11,Travel,San Jose,True,2,4,False,False
+USER_00000088,2025-12-24 15:45:57.480845,40.67,Entertainment,Houston,False,15,24,False,False
+USER_00000088,2025-08-26 10:18:57.480845,100.34,Groceries,Chicago,False,10,26,False,False
+USER_00000088,2025-05-22 04:00:57.480845,608.02,Travel,Chicago,False,4,22,False,False
+USER_00000088,2025-04-10 07:55:57.480845,97.72,Groceries,Dallas,False,7,10,False,False
+USER_00000088,2025-04-18 10:49:57.480845,219.81,Utilities,Houston,False,10,18,False,False
+USER_00000088,2026-03-28 15:30:57.480845,68.52,Gas Stations,Dallas,True,15,28,True,False
+USER_00000088,2025-06-09 05:08:57.480845,254.23,Online Shopping,San Jose,False,5,9,False,False
+USER_00000088,2025-08-19 07:51:57.480845,37.95,Gas Stations,Phoenix,False,7,19,False,False
+USER_00000088,2025-08-31 14:57:57.480845,47.68,Groceries,San Antonio,True,14,31,False,False
+USER_00000089,2026-01-31 04:35:57.480845,51.76,Restaurants,Phoenix,True,4,31,False,False
+USER_00000089,2025-12-16 15:52:57.480845,21.45,Other,New York,False,15,16,False,False
+USER_00000089,2026-03-25 10:04:57.480845,277.36,Cash Advance,Los Angeles,False,10,25,False,False
+USER_00000089,2026-01-11 11:14:57.480845,44.43,Restaurants,Other,True,11,11,False,False
+USER_00000089,2025-08-16 02:54:57.480845,17.02,Other,Phoenix,True,2,16,False,False
+USER_00000089,2026-01-07 10:29:57.480845,327.37,Travel,Philadelphia,False,10,7,True,False
+USER_00000089,2025-05-28 10:25:57.480845,263.88,Online Shopping,San Antonio,False,10,28,False,False
+USER_00000089,2026-02-12 14:32:57.480845,36.19,Groceries,Los Angeles,False,14,12,True,False
+USER_00000089,2026-03-26 11:44:57.480845,200.19,Utilities,San Jose,False,11,26,False,False
+USER_00000089,2025-09-10 13:19:57.480845,72.61,Online Shopping,Dallas,False,13,10,True,False
+USER_00000089,2026-03-24 13:20:57.480845,315.69,Travel,Philadelphia,False,13,24,False,False
+USER_00000089,2025-12-07 08:27:57.480845,1173.1,Travel,Los Angeles,True,8,7,False,False
+USER_00000089,2026-03-18 18:54:57.480845,478.65,Travel,Los Angeles,False,18,18,False,False
+USER_00000089,2026-01-22 15:31:57.480845,155.39,Online Shopping,Chicago,False,15,22,False,False
+USER_00000089,2025-08-07 10:12:57.480845,33.09,Restaurants,New York,False,10,7,False,False
+USER_00000089,2025-08-27 08:50:57.480845,16.41,Restaurants,Dallas,False,8,27,False,False
+USER_00000089,2026-01-27 09:45:57.480845,19.35,Restaurants,San Jose,False,9,27,False,False
+USER_00000089,2025-05-30 09:25:57.480845,135.19,Groceries,Other,False,9,30,False,False
+USER_00000089,2025-09-08 11:12:57.480845,129.53,Online Shopping,Houston,False,11,8,False,False
+USER_00000089,2025-12-27 09:56:57.480845,81.64,Online Shopping,Phoenix,True,9,27,False,False
+USER_00000090,2025-10-03 07:50:57.480845,445.07,Travel,San Antonio,False,7,3,False,False
+USER_00000090,2025-11-26 08:02:57.480845,104.41,Groceries,New York,False,8,26,False,False
+USER_00000090,2025-12-17 11:44:57.480845,62.76,Gas Stations,Chicago,False,11,17,False,False
+USER_00000090,2025-11-26 05:52:57.480845,51.04,Groceries,Chicago,False,5,26,False,False
+USER_00000090,2026-03-18 08:45:57.480845,34.12,Groceries,Los Angeles,False,8,18,False,False
+USER_00000090,2026-03-14 04:37:57.480845,61.19,Groceries,San Diego,True,4,14,False,False
+USER_00000090,2025-08-23 04:21:57.480845,113.17,Entertainment,Phoenix,True,4,23,True,False
+USER_00000090,2025-11-04 14:56:57.480845,114.97,Groceries,New York,False,14,4,False,False
+USER_00000090,2025-06-18 12:47:57.480845,79.81,Entertainment,Los Angeles,False,12,18,False,False
+USER_00000090,2025-08-20 06:12:57.480845,68.86,Groceries,New York,False,6,20,False,False
+USER_00000090,2025-06-01 15:36:57.480845,347.54,Travel,Philadelphia,True,15,1,False,False
+USER_00000090,2025-04-13 04:05:57.480845,139.0,Healthcare,Dallas,True,4,13,False,False
+USER_00000090,2025-09-17 10:24:57.480845,266.09,Utilities,Other,False,10,17,False,False
+USER_00000090,2026-02-28 07:22:57.480845,745.71,Travel,San Antonio,True,7,28,False,False
+USER_00000090,2025-07-21 09:48:57.480845,157.92,Utilities,Phoenix,False,9,21,False,False
+USER_00000090,2025-10-01 14:48:57.480845,1599.37,Travel,Chicago,False,14,1,False,False
+USER_00000090,2026-02-09 04:52:57.480845,125.67,Online Shopping,San Diego,False,4,9,False,False
+USER_00000090,2026-03-18 21:55:57.481829,63.06,Groceries,San Jose,False,21,18,False,False
+USER_00000090,2025-07-08 11:44:57.481829,73.2,Restaurants,Houston,False,11,8,True,False
+USER_00000090,2025-12-09 11:22:57.481829,27.07,Groceries,Dallas,False,11,9,False,False
+USER_00000091,2026-01-26 19:58:57.481829,152.55,Online Shopping,Phoenix,False,19,26,False,False
+USER_00000091,2026-04-03 03:40:57.481829,48.21,Gas Stations,Philadelphia,False,3,3,False,False
+USER_00000091,2025-08-29 05:45:57.481829,928.29,Travel,Phoenix,False,5,29,False,False
+USER_00000091,2026-03-24 16:03:57.481829,243.57,Utilities,San Jose,False,16,24,False,False
+USER_00000091,2026-04-04 18:20:57.481829,37.52,Restaurants,Other,True,18,4,False,False
+USER_00000091,2025-09-03 16:32:57.481829,69.64,Gas Stations,San Antonio,False,16,3,False,False
+USER_00000091,2025-08-21 07:21:57.481829,117.98,Cash Advance,San Antonio,False,7,21,False,False
+USER_00000091,2025-05-06 07:05:57.481829,56.76,Restaurants,New York,False,7,6,True,False
+USER_00000091,2025-10-03 12:39:57.481829,76.58,Healthcare,Los Angeles,False,12,3,False,False
+USER_00000091,2026-02-11 08:13:57.481829,89.72,Groceries,San Antonio,False,8,11,False,False
+USER_00000091,2025-07-27 09:18:57.481829,122.16,Online Shopping,San Diego,True,9,27,False,False
+USER_00000091,2026-03-14 11:14:57.481829,14.5,Restaurants,Houston,True,11,14,False,False
+USER_00000091,2025-10-27 06:21:57.481829,465.78,Travel,Philadelphia,False,6,27,False,False
+USER_00000091,2025-10-31 13:49:57.481829,138.17,Online Shopping,Other,False,13,31,False,False
+USER_00000091,2026-01-15 04:23:57.481829,54.06,Groceries,San Jose,False,4,15,False,False
+USER_00000091,2025-10-30 11:45:57.481829,45.21,Groceries,Chicago,False,11,30,False,False
+USER_00000091,2025-10-01 01:52:57.481829,63.95,Gas Stations,San Antonio,False,1,1,False,False
+USER_00000091,2026-02-06 14:13:57.481829,239.72,Cash Advance,Other,False,14,6,False,False
+USER_00000091,2025-06-06 10:33:57.481829,72.81,Entertainment,Chicago,False,10,6,False,False
+USER_00000091,2025-05-23 09:11:57.481829,50.22,Gas Stations,Other,False,9,23,False,False
+USER_00000092,2025-09-08 08:47:57.481829,26.37,Restaurants,San Antonio,False,8,8,False,False
+USER_00000092,2025-11-06 07:29:57.481829,155.73,Gas Stations,Other,False,7,6,False,False
+USER_00000092,2025-12-19 15:02:57.481829,55.99,Entertainment,Other,False,15,19,False,False
+USER_00000092,2026-01-21 09:34:57.481829,97.33,Healthcare,San Diego,False,9,21,False,False
+USER_00000092,2026-03-08 08:36:57.481829,35.97,Restaurants,Chicago,True,8,8,False,False
+USER_00000092,2025-05-28 12:17:57.481829,59.38,Entertainment,Los Angeles,False,12,28,False,False
+USER_00000092,2025-12-11 07:35:57.481829,102.18,Online Shopping,Philadelphia,False,7,11,False,False
+USER_00000092,2025-04-16 14:34:57.481829,459.48,Utilities,Houston,False,14,16,False,False
+USER_00000092,2025-09-27 11:20:57.481829,102.32,Utilities,San Diego,True,11,27,False,False
+USER_00000092,2026-03-19 13:13:57.481829,152.83,Healthcare,Los Angeles,False,13,19,False,False
+USER_00000092,2025-10-16 11:18:57.481829,38.21,Entertainment,Houston,False,11,16,False,False
+USER_00000092,2025-08-22 03:37:57.481829,26.7,Restaurants,Los Angeles,False,3,22,False,False
+USER_00000092,2025-04-22 03:57:57.481829,1072.03,Travel,Los Angeles,False,3,22,False,False
+USER_00000092,2025-10-06 04:02:57.481829,40.29,Restaurants,Los Angeles,False,4,6,False,False
+USER_00000092,2025-12-15 10:38:57.481829,40.05,Restaurants,New York,False,10,15,False,False
+USER_00000092,2025-10-06 05:57:57.481829,21.88,Restaurants,Houston,False,5,6,False,False
+USER_00000092,2025-11-12 08:45:57.481829,363.92,Travel,Los Angeles,False,8,12,False,False
+USER_00000092,2025-05-23 08:39:57.481829,186.62,Groceries,Dallas,False,8,23,False,False
+USER_00000092,2025-12-12 09:57:57.481829,64.18,Gas Stations,Dallas,False,9,12,False,False
+USER_00000092,2025-12-15 02:15:57.481829,42.19,Gas Stations,Other,False,2,15,False,False
+USER_00000093,2025-07-30 04:18:57.481829,93.48,Groceries,Other,False,4,30,False,False
+USER_00000093,2025-07-30 07:08:57.481829,85.74,Groceries,San Antonio,False,7,30,False,False
+USER_00000093,2025-06-08 09:24:57.481829,98.58,Healthcare,Philadelphia,True,9,8,False,False
+USER_00000093,2025-05-29 09:07:57.481829,374.22,Travel,Chicago,False,9,29,False,False
+USER_00000093,2025-12-10 07:22:57.481829,108.05,Restaurants,San Antonio,False,7,10,False,False
+USER_00000093,2025-06-10 12:07:57.481829,547.44,Travel,New York,False,12,10,False,False
+USER_00000093,2025-10-28 05:46:57.481829,29.66,Entertainment,Dallas,False,5,28,False,False
+USER_00000093,2025-09-21 13:20:57.481829,45.17,Restaurants,Houston,True,13,21,False,False
+USER_00000093,2025-07-21 07:31:57.481829,124.7,Entertainment,Philadelphia,False,7,21,False,False
+USER_00000093,2025-11-10 18:36:57.481829,127.25,Cash Advance,Philadelphia,False,18,10,False,False
+USER_00000093,2025-08-10 11:52:57.481829,39.79,Gas Stations,Other,True,11,10,False,False
+USER_00000093,2026-02-19 01:10:57.481829,155.15,Groceries,Chicago,False,1,19,False,False
+USER_00000093,2025-09-21 04:27:57.481829,183.17,Utilities,Houston,True,4,21,False,False
+USER_00000093,2026-02-19 03:07:57.481829,111.73,Online Shopping,Other,False,3,19,False,False
+USER_00000093,2026-01-19 11:28:57.481829,38.45,Groceries,San Jose,False,11,19,False,False
+USER_00000093,2025-12-04 08:40:57.481829,204.95,Online Shopping,Chicago,False,8,4,True,False
+USER_00000093,2026-01-22 04:02:57.481829,45.5,Gas Stations,Philadelphia,False,4,22,False,False
+USER_00000093,2025-04-13 07:21:57.481829,151.98,Travel,New York,True,7,13,False,False
+USER_00000093,2025-11-21 06:29:57.481829,22.78,Gas Stations,San Diego,False,6,21,False,False
+USER_00000093,2026-01-07 02:56:57.481829,26.43,Restaurants,San Diego,False,2,7,False,False
+USER_00000094,2025-05-17 13:45:57.481829,70.18,Online Shopping,Dallas,True,13,17,False,False
+USER_00000094,2026-02-05 09:57:57.481829,31.63,Gas Stations,Philadelphia,False,9,5,False,False
+USER_00000094,2025-11-20 16:25:57.481829,242.21,Groceries,New York,False,16,20,True,False
+USER_00000094,2026-02-16 13:24:57.481829,170.93,Online Shopping,Chicago,False,13,16,False,False
+USER_00000094,2025-07-22 04:45:57.481829,41.35,Healthcare,New York,False,4,22,False,False
+USER_00000094,2025-12-21 12:37:57.481829,64.09,Groceries,Phoenix,True,12,21,False,False
+USER_00000094,2025-12-15 06:58:57.481829,114.75,Online Shopping,Chicago,False,6,15,False,False
+USER_00000094,2025-04-22 03:12:57.481829,16.72,Restaurants,Los Angeles,False,3,22,False,False
+USER_00000094,2025-07-27 10:15:57.481829,45.72,Restaurants,Chicago,True,10,27,False,False
+USER_00000094,2025-12-10 07:15:57.481829,12.61,Restaurants,Dallas,False,7,10,False,False
+USER_00000094,2025-09-21 06:50:57.481829,60.57,Restaurants,Other,True,6,21,False,False
+USER_00000094,2025-05-05 13:30:57.481829,925.2,Travel,San Diego,False,13,5,False,False
+USER_00000094,2025-04-07 12:16:57.481829,113.48,Restaurants,Chicago,False,12,7,True,False
+USER_00000094,2026-02-15 13:45:57.481829,29.58,Entertainment,Other,True,13,15,True,False
+USER_00000094,2025-08-05 12:02:57.481829,37.79,Groceries,Los Angeles,False,12,5,False,False
+USER_00000094,2026-03-03 07:15:57.481829,254.5,Utilities,Phoenix,False,7,3,True,False
+USER_00000094,2025-06-09 11:32:57.481829,216.77,Online Shopping,New York,False,11,9,False,False
+USER_00000094,2026-01-28 09:29:57.481829,97.4,Entertainment,Houston,False,9,28,True,False
+USER_00000094,2025-04-23 14:02:57.481829,60.05,Restaurants,San Diego,False,14,23,False,False
+USER_00000094,2025-05-22 04:27:57.481829,69.67,Restaurants,New York,False,4,22,False,False
+USER_00000095,2026-02-17 12:03:57.481829,82.98,Groceries,Phoenix,False,12,17,False,False
+USER_00000095,2026-01-23 03:15:57.481829,161.85,Utilities,Houston,False,3,23,False,False
+USER_00000095,2025-09-27 08:25:57.481829,25.23,Gas Stations,Philadelphia,True,8,27,False,False
+USER_00000095,2025-07-20 14:37:57.481829,103.38,Online Shopping,San Antonio,True,14,20,False,False
+USER_00000095,2025-04-16 09:52:57.481829,60.46,Entertainment,Dallas,False,9,16,False,False
+USER_00000095,2026-01-27 13:33:57.481829,21.77,Restaurants,New York,False,13,27,False,False
+USER_00000095,2026-01-07 06:26:57.481829,63.77,Entertainment,Other,False,6,7,False,False
+USER_00000095,2025-07-21 10:54:57.481829,70.55,Online Shopping,San Jose,False,10,21,True,False
+USER_00000095,2025-12-02 08:35:57.481829,113.41,Entertainment,Houston,False,8,2,True,False
+USER_00000095,2025-08-19 11:14:57.481829,61.86,Gas Stations,Philadelphia,False,11,19,False,False
+USER_00000095,2025-06-16 12:08:57.481829,27.81,Restaurants,San Jose,False,12,16,False,False
+USER_00000095,2025-11-29 12:53:57.481829,82.43,Groceries,San Antonio,True,12,29,False,False
+USER_00000095,2025-07-01 05:57:57.481829,86.32,Healthcare,San Antonio,False,5,1,False,False
+USER_00000095,2025-05-29 10:13:57.481829,72.65,Online Shopping,San Diego,False,10,29,False,False
+USER_00000095,2025-12-28 10:54:57.481829,36.42,Gas Stations,San Jose,True,10,28,False,False
+USER_00000095,2025-05-16 09:29:57.481829,163.53,Utilities,San Diego,False,9,16,False,False
+USER_00000095,2025-06-14 12:07:57.481829,80.49,Groceries,San Diego,True,12,14,False,False
+USER_00000095,2025-10-07 10:47:57.481829,483.87,Travel,San Diego,False,10,7,False,False
+USER_00000095,2025-10-15 09:03:57.481829,28.44,Other,San Diego,False,9,15,False,False
+USER_00000095,2025-05-26 13:38:57.481829,432.2,Travel,Philadelphia,False,13,26,False,False
+USER_00000096,2025-04-08 12:29:57.481829,99.64,Healthcare,Dallas,False,12,8,False,False
+USER_00000096,2025-10-01 03:46:57.481829,6.37,Restaurants,Chicago,False,3,1,False,False
+USER_00000096,2026-02-09 11:01:57.481829,349.07,Groceries,Philadelphia,False,11,9,False,False
+USER_00000096,2026-03-07 12:16:57.481829,43.6,Entertainment,Phoenix,True,12,7,False,False
+USER_00000096,2026-01-13 15:00:57.481829,24.14,Restaurants,San Diego,False,15,13,False,False
+USER_00000096,2025-11-06 05:42:57.481829,38.25,Groceries,Houston,False,5,6,False,False
+USER_00000096,2026-03-02 13:43:57.481829,88.4,Healthcare,Houston,False,13,2,False,False
+USER_00000096,2025-09-06 09:54:57.481829,31.85,Restaurants,San Jose,True,9,6,False,False
+USER_00000096,2025-04-08 16:07:57.481829,353.85,Utilities,Other,False,16,8,False,False
+USER_00000096,2025-12-22 05:45:57.481829,408.33,Travel,San Jose,False,5,22,False,False
+USER_00000096,2025-04-30 04:55:57.481829,382.78,Travel,Phoenix,False,4,30,False,False
+USER_00000096,2025-08-30 07:35:57.481829,118.45,Entertainment,Other,True,7,30,False,False
+USER_00000096,2025-10-26 15:45:57.481829,346.21,Travel,Philadelphia,True,15,26,False,False
+USER_00000096,2025-08-30 05:52:57.481829,151.59,Healthcare,Other,True,5,30,False,False
+USER_00000096,2025-07-11 13:09:57.481829,75.69,Online Shopping,Houston,False,13,11,False,False
+USER_00000096,2025-12-08 13:30:57.481829,81.28,Restaurants,Los Angeles,False,13,8,False,False
+USER_00000096,2025-05-06 10:50:57.481829,760.14,Travel,Los Angeles,False,10,6,False,False
+USER_00000096,2025-10-07 10:26:57.481829,416.86,Travel,Chicago,False,10,7,False,False
+USER_00000096,2025-12-22 12:14:57.481829,40.95,Gas Stations,Los Angeles,False,12,22,False,False
+USER_00000096,2025-09-02 03:26:57.481829,73.82,Groceries,New York,False,3,2,False,False
+USER_00000097,2025-09-14 00:56:57.481829,111.98,Online Shopping,San Diego,True,0,14,False,False
+USER_00000097,2026-01-27 14:59:57.481829,34.61,Groceries,Phoenix,False,14,27,False,False
+USER_00000097,2026-02-22 12:10:57.481829,309.29,Utilities,San Jose,True,12,22,False,False
+USER_00000097,2025-05-13 08:57:57.481829,178.53,Cash Advance,New York,False,8,13,False,False
+USER_00000097,2025-06-10 10:54:57.481829,193.77,Groceries,Dallas,False,10,10,False,False
+USER_00000097,2025-08-22 07:32:57.481829,148.18,Online Shopping,San Diego,False,7,22,False,False
+USER_00000097,2025-10-05 05:34:57.481829,21.26,Groceries,Houston,True,5,5,False,False
+USER_00000097,2025-12-21 06:40:57.481829,34.25,Entertainment,San Diego,True,6,21,False,False
+USER_00000097,2026-01-13 06:55:57.481829,11.97,Restaurants,San Jose,False,6,13,False,False
+USER_00000097,2025-05-04 02:55:57.481829,62.83,Online Shopping,San Antonio,True,2,4,False,False
+USER_00000097,2025-07-31 16:15:57.481829,15.46,Restaurants,Other,False,16,31,False,False
+USER_00000097,2025-04-09 04:00:57.481829,85.1,Groceries,Other,False,4,9,False,False
+USER_00000097,2026-03-17 10:54:57.481829,29.88,Restaurants,San Antonio,False,10,17,False,False
+USER_00000097,2025-09-23 06:18:57.481829,108.61,Groceries,New York,False,6,23,False,False
+USER_00000097,2025-10-11 13:41:57.481829,117.74,Online Shopping,Philadelphia,True,13,11,False,False
+USER_00000097,2026-03-31 13:16:57.481829,66.51,Groceries,Houston,False,13,31,True,False
+USER_00000097,2026-01-27 06:41:57.481829,136.13,Gas Stations,San Jose,False,6,27,False,False
+USER_00000097,2025-12-01 16:47:57.481829,503.03,Travel,San Jose,False,16,1,False,False
+USER_00000097,2025-10-29 05:42:57.481829,432.24,Travel,San Jose,False,5,29,False,False
+USER_00000097,2025-08-02 03:56:57.481829,293.69,Travel,Other,True,3,2,False,False
+USER_00000098,2025-09-16 08:25:57.481829,99.98,Utilities,Los Angeles,False,8,16,True,False
+USER_00000098,2025-11-10 08:37:57.481829,110.25,Groceries,San Jose,False,8,10,False,False
+USER_00000098,2025-11-15 13:21:57.481829,107.0,Groceries,San Antonio,True,13,15,False,False
+USER_00000098,2025-09-20 06:58:57.481829,263.3,Online Shopping,Dallas,True,6,20,False,False
+USER_00000098,2025-11-04 08:14:57.481829,228.7,Utilities,Phoenix,False,8,4,False,False
+USER_00000098,2025-11-16 12:30:57.481829,164.31,Cash Advance,San Diego,True,12,16,False,False
+USER_00000098,2025-05-29 10:56:57.481829,96.83,Groceries,Phoenix,False,10,29,False,False
+USER_00000098,2025-10-24 10:22:57.481829,33.62,Restaurants,San Antonio,False,10,24,False,False
+USER_00000098,2025-05-28 11:00:57.481829,115.61,Groceries,San Antonio,False,11,28,False,False
+USER_00000098,2026-03-17 15:13:57.481829,126.67,Entertainment,Dallas,False,15,17,False,False
+USER_00000098,2026-01-15 06:41:57.481829,110.3,Online Shopping,Chicago,False,6,15,False,False
+USER_00000098,2026-01-28 09:31:57.481829,180.57,Groceries,New York,False,9,28,False,False
+USER_00000098,2025-11-27 08:58:57.481829,90.58,Gas Stations,Los Angeles,False,8,27,False,False
+USER_00000098,2026-01-10 11:29:57.481829,121.07,Online Shopping,Philadelphia,True,11,10,False,False
+USER_00000098,2025-09-01 08:20:57.481829,90.9,Entertainment,San Jose,False,8,1,False,False
+USER_00000098,2025-06-06 09:17:57.481829,87.38,Groceries,San Jose,False,9,6,False,False
+USER_00000098,2025-04-27 04:25:57.481829,181.99,Utilities,Dallas,True,4,27,False,False
+USER_00000098,2025-05-01 08:17:57.481829,312.33,Online Shopping,Chicago,False,8,1,False,False
+USER_00000098,2025-10-28 09:30:57.481829,194.31,Healthcare,San Jose,False,9,28,False,False
+USER_00000098,2025-10-11 12:21:57.481829,98.51,Healthcare,Los Angeles,True,12,11,False,False
+USER_00000099,2025-12-11 05:25:57.481829,44.86,Groceries,Other,False,5,11,False,False
+USER_00000099,2025-09-23 10:25:57.481829,45.78,Groceries,New York,False,10,23,False,False
+USER_00000099,2025-05-15 10:05:57.481829,83.02,Entertainment,Los Angeles,False,10,15,False,False
+USER_00000099,2026-01-11 10:00:57.481829,63.23,Groceries,Chicago,True,10,11,False,False
+USER_00000099,2025-06-22 11:21:57.481829,531.6,Travel,San Antonio,True,11,22,True,False
+USER_00000099,2026-01-16 10:11:57.481829,103.81,Entertainment,Los Angeles,False,10,16,False,False
+USER_00000099,2025-11-06 02:01:57.481829,1240.92,Travel,Phoenix,False,2,6,False,False
+USER_00000099,2026-02-05 13:46:57.481829,29.85,Restaurants,Los Angeles,False,13,5,False,False
+USER_00000099,2026-02-05 13:03:57.481829,17.31,Restaurants,San Antonio,False,13,5,False,False
+USER_00000099,2025-04-18 03:44:57.481829,294.03,Online Shopping,San Jose,False,3,18,False,False
+USER_00000099,2026-03-10 10:59:57.481829,36.2,Groceries,San Diego,False,10,10,False,False
+USER_00000099,2026-02-23 10:35:57.481829,30.76,Entertainment,San Diego,False,10,23,False,False
+USER_00000099,2025-10-20 05:03:57.481829,1088.41,Travel,San Diego,False,5,20,False,False
+USER_00000099,2026-01-11 15:22:57.481829,59.65,Restaurants,San Jose,True,15,11,False,False
+USER_00000099,2025-10-12 06:22:57.481829,82.83,Entertainment,Dallas,True,6,12,False,False
+USER_00000099,2026-03-21 09:06:57.481829,73.15,Groceries,New York,True,9,21,False,False
+USER_00000099,2025-12-30 07:24:57.481829,31.05,Restaurants,New York,False,7,30,False,False
+USER_00000099,2025-09-21 08:22:57.481829,144.45,Cash Advance,San Jose,True,8,21,False,False
+USER_00000099,2025-12-30 11:30:57.481829,47.74,Other,Los Angeles,False,11,30,False,False
+USER_00000099,2026-02-01 04:31:57.481829,48.83,Gas Stations,Other,True,4,1,False,False

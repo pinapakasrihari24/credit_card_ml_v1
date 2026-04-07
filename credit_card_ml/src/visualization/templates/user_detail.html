@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Details - {{ user_id }}</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 30px 20px; }
+        header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; flex-wrap: wrap; gap: 20px; }
+        h1 { font-size: 1.8rem; color: #f1f5f9; }
+        .back-link { color: #38bdf8; text-decoration: none; font-size: 0.95rem; }
+        .back-link:hover { text-decoration: underline; }
+        .risk-badge { padding: 6px 16px; border-radius: 20px; font-weight: 600; font-size: 0.85rem; }
+        .risk-low { background: #166534; color: #86efac; }
+        .risk-medium { background: #854d0e; color: #fde047; }
+        .risk-high { background: #991b1b; color: #fca5a5; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; }
+        .card { background: #1e293b; border-radius: 12px; padding: 24px; border: 1px solid #334155; }
+        .card-title { font-size: 1.1rem; font-weight: 600; color: #f1f5f9; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid #334155; }
+        .info-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+        .info-item { display: flex; flex-direction: column; gap: 4px; }
+        .info-label { color: #64748b; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; }
+        .info-value { color: #e2e8f0; font-size: 1rem; font-weight: 500; }
+        .fraud-alert { background: linear-gradient(135deg, #7f1d1d, #991b1b); border: 1px solid #dc2626; }
+        .fraud-alert .card-title { color: #fca5a5; }
+        .stat-highlight { display: flex; gap: 20px; flex-wrap: wrap; }
+        .stat-item { flex: 1; min-width: 120px; text-align: center; padding: 16px; background: #0f172a; border-radius: 8px; }
+        .stat-number { font-size: 1.8rem; font-weight: bold; color: #38bdf8; }
+        .stat-number.danger { color: #ef4444; }
+        .stat-text { color: #94a3b8; font-size: 0.85rem; margin-top: 4px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+        th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid #334155; font-size: 0.9rem; }
+        th { color: #64748b; font-weight: 600; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.5px; }
+        td { color: #e2e8f0; }
+        tr:hover { background: #334155; }
+        .fraud-row { background: rgba(239, 68, 68, 0.15) !important; }
+        .fraud-badge { background: #dc2626; color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; }
+        .amount { font-weight: 600; }
+        .amount.large { color: #f87171; }
+        .category-badge { background: #334155; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; display: inline-block; margin: 2px; }
+        .spending-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #334155; }
+        .spending-item:last-child { border-bottom: none; }
+        .spending-cat { color: #e2e8f0; }
+        .spending-amount { color: #38bdf8; font-weight: 600; }
+        .spending-count { color: #64748b; font-size: 0.85rem; margin-left: 8px; }
+        .no-data { color: #64748b; text-align: center; padding: 20px; font-style: italic; }
+        .progress-bar { height: 8px; background: #334155; border-radius: 4px; overflow: hidden; margin-top: 8px; }
+        .progress-fill { height: 100%; background: #3b82f6; border-radius: 4px; transition: width 0.3s; }
+        .progress-fill.danger { background: #ef4444; }
+        .progress-fill.warning { background: #f59e0b; }
+        nav { margin-bottom: 30px; }
+        .nav-link { color: #38bdf8; text-decoration: none; font-size: 0.9rem; }
+        .nav-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/" class="nav-link">← Back to Dashboard</a>
+            <span style="color: #64748b;">|</span>
+            <a href="/logout" class="nav-link">Logout</a>
+        </nav>
+
+        <header>
+            <div>
+                <h1>User: {{ user_id }}</h1>
+                <span class="risk-badge risk-{{ user_data.risk_profile }}">{{ user_data.risk_profile|upper }} RISK</span>
+            </div>
+        </header>
+
+        <!-- User Profile Card -->
+        <div class="grid" style="margin-bottom: 20px;">
+            <div class="card">
+                <h2 class="card-title">User Profile</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="info-label">Credit Score</span>
+                        <span class="info-value">{{ user_data.profile.credit_score }}</span>
+                        <div class="progress-bar">
+                            {% set score_pct = (user_data.profile.credit_score / 850 * 100)|round %}
+                            <div class="progress-fill {% if score_pct < 50 %}danger{% elif score_pct < 70 %}warning{% endif %}" style="width: {{ score_pct }}%"></div>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Age</span>
+                        <span class="info-value">{{ user_data.profile.age }} years</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Annual Income</span>
+                        <span class="info-value">${{ "{:,.0f}".format(user_data.profile.annual_income) }}</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Credit Limit</span>
+                        <span class="info-value">${{ "{:,.0f}".format(user_data.profile.credit_limit) }}</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Account Age</span>
+                        <span class="info-value">{{ user_data.profile.account_age_days }} days</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Utilization</span>
+                        <span class="info-value">{{ "%.1f"|format(user_data.features.utilization * 100) if user_data.features else 'N/A' }}%</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transaction Summary -->
+            <div class="card">
+                <h2 class="card-title">Transaction Summary</h2>
+                <div class="stat-highlight">
+                    <div class="stat-item">
+                        <div class="stat-number">{{ user_data.total_transactions }}</div>
+                        <div class="stat-text">Total Transactions</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">{{ "%.2f"|format(user_data.avg_transaction) }}</div>
+                        <div class="stat-text">Avg Transaction</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">{{ "%.2f"|format(user_data.max_transaction) }}</div>
+                        <div class="stat-text">Max Transaction</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">${{ "{:,.0f}".format(user_data.total_spent) }}</div>
+                        <div class="stat-text">Total Spent</div>
+                    </div>
+                </div>
+                <div style="margin-top: 20px;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+                        <span style="color: #94a3b8;">Weekend vs Weekday Activity</span>
+                    </div>
+                    {% set total = user_data.weekend_count + user_data.weekday_count %}
+                    {% if total > 0 %}
+                    <div style="display: flex; height: 24px; border-radius: 4px; overflow: hidden; background: #334155;">
+                        <div style="width: {{ (user_data.weekday_count / total * 100)|round }}%; background: #3b82f6; display: flex; align-items: center; justify-content: center; font-size: 0.75rem;">Weekday</div>
+                        <div style="width: {{ (user_data.weekend_count / total * 100)|round }}%; background: #8b5cf6; display: flex; align-items: center; justify-content: center; font-size: 0.75rem;">Weekend</div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+        <!-- Fraud Alert Section -->
+        {% if user_data.fraudulent_transactions > 0 %}
+        <div class="card fraud-alert" style="margin-bottom: 20px;">
+            <h2 class="card-title">Fraud Alert</h2>
+            <div class="stat-highlight">
+                <div class="stat-item" style="background: rgba(0,0,0,0.2);">
+                    <div class="stat-number danger">{{ user_data.fraudulent_transactions }}</div>
+                    <div class="stat-text">Fraudulent Transactions</div>
+                </div>
+                <div class="stat-item" style="background: rgba(0,0,0,0.2);">
+                    <div class="stat-number danger">${{ "{:,.2f}".format(user_data.fraud_amount) }}</div>
+                    <div class="stat-text">Total Fraud Amount</div>
+                </div>
+                <div class="stat-item" style="background: rgba(0,0,0,0.2);">
+                    <div class="stat-number">{{ "%.1f"|format(user_data.fraudulent_transactions / user_data.total_transactions * 100) }}%</div>
+                    <div class="stat-text">Fraud Rate</div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Fraudulent Transactions -->
+        {% if user_data.fraudulent_tx %}
+        <div class="card" style="margin-bottom: 20px;">
+            <h2 class="card-title">Fraudulent Transactions</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date/Time</th>
+                        <th>Amount</th>
+                        <th>Merchant</th>
+                        <th>City</th>
+                        <th>Hour</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for tx in user_data.fraudulent_tx %}
+                    <tr class="fraud-row">
+                        <td>{{ tx.timestamp }}</td>
+                        <td class="amount large">${{ "%.2f"|format(tx.amount) }}</td>
+                        <td>{{ tx.merchant_category }}</td>
+                        <td>{{ tx.city }}</td>
+                        <td>{{ tx.hour_of_day }}:00</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="card" style="margin-bottom: 20px;">
+            <h2 class="card-title">Fraudulent Transactions</h2>
+            <p class="no-data">No fraudulent transactions detected for this user.</p>
+        </div>
+        {% endif %}
+
+        <!-- Spending by Category -->
+        <div class="grid">
+            <div class="card">
+                <h2 class="card-title">Spending by Category</h2>
+                {% if user_data.spending_by_category %}
+                    {% for cat, data in user_data.spending_by_category.items() %}
+                    <div class="spending-item">
+                        <span class="spending-cat">{{ cat }}</span>
+                        <div>
+                            <span class="spending-amount">${{ "%.2f"|format(data.Total) }}</span>
+                            <span class="spending-count">({{ data.Count }} tx, avg ${{ "%.2f"|format(data.Average) }})</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="no-data">No spending data available.</p>
+                {% endif %}
+            </div>
+
+            <!-- Recent Transactions -->
+            <div class="card">
+                <h2 class="card-title">Recent Transactions</h2>
+                {% if user_data.recent_transactions %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Date/Time</th>
+                            <th>Amount</th>
+                            <th>Merchant</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for tx in user_data.recent_transactions[:10] %}
+                        <tr class="{% if tx.is_fraudulent %}fraud-row{% endif %}">
+                            <td>{{ tx.timestamp }}</td>
+                            <td class="amount {% if tx.is_fraudulent %}large{% endif %}">${{ "%.2f"|format(tx.amount) }}</td>
+                            <td>{{ tx.merchant_category }}</td>
+                            <td>
+                                {% if tx.is_fraudulent %}
+                                <span class="fraud-badge">FRAUD</span>
+                                {% else %}
+                                <span style="color: #86efac;">Normal</span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% else %}
+                    <p class="no-data">No transactions found.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
